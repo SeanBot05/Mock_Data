@@ -1,0 +1,1677 @@
+incident_type,severity,affected_system_type,analyst,origin,detection_time_minutes,resolution_time_hours,affected_devices_count,risk_score,impact_cost_php,date_detected,date_resolved
+DDoS,High,Cloud,Ej,Email,136,18.64,91,47.51,520888.36,2026-04-13,2026-04-15
+Malware,Low,Workstation,Ryo,Endpoint,196,46.62,49,26.39,205063.29,2026-12-15,2026-12-19
+DDoS,High,Workstation,Kris,Firewall,120,20.53,65,89.23,545690.48,2026-09-28,2026-10-03
+Phishing,High,Cloud,Jerean,SIEM,123,37.01,29,49.62,765586.64,2026-04-17,2026-04-20
+Malware,Critical,Cloud,Jerean,Network,222,56.83,59,60.32,895773.54,2026-03-13,2026-03-16
+DDoS,Critical,Server,Ryo,Email,148,63.6,45,10.47,789922.3,2026-07-08,2026-07-10
+Unauthorized Access,High,Database,Ryo,Firewall,14,60.55,67,38.91,196071.67,2026-01-21,2026-01-22
+DDoS,Critical,Workstation,Kris,Endpoint,113,42.33,51,94.48,600086.63,2026-04-13,2026-04-15
+Phishing,Medium,Server,Ej,Network,198,18.67,95,59.36,332841.29,2026-05-02,2026-05-06
+Ransomware,Critical,Cloud,Roman,Email,39,47.95,11,35.11,10196.46,2026-08-03,2026-08-07
+DDoS,Critical,Server,Ej,SIEM,215,51.4,86,62.94,201020.71,2026-11-27,2026-12-02
+Ransomware,Critical,Cloud,Jerean,Network,138,1.76,82,91.13,114107.43,2026-03-29,2026-04-03
+Unauthorized Access,Critical,Network,Ryo,Network,23,32.18,99,28.13,842876.4,2026-04-10,2026-04-14
+DDoS,Low,Cloud,Kris,Firewall,191,60.87,6,51.01,259247.75,2026-12-26,2026-12-30
+Malware,Low,Cloud,Ej,Email,185,35.76,67,95.91,285413.27,2026-06-01,2026-06-05
+Ransomware,Low,Cloud,Kris,Firewall,12,23.11,62,18.07,959976.64,2026-05-11,2026-05-13
+Unauthorized Access,High,Database,Ej,Firewall,210,62.9,5,72.25,379707.64,2026-05-30,2026-06-03
+Malware,High,Cloud,Jerean,Endpoint,14,12.07,9,61.83,10576.05,2026-11-05,2026-11-08
+Malware,Medium,Workstation,Roman,SIEM,199,15.66,28,68.29,284562.3,2026-09-15,2026-09-16
+Malware,Low,Workstation,Kris,Network,170,49.8,83,35.77,120180.28,2026-12-10,2026-12-14
+Malware,High,Server,Kris,Email,33,26.02,92,32.07,103705.75,2026-10-21,2026-10-22
+DDoS,Critical,Database,Roman,SIEM,19,51.62,91,68.74,78409.8,2026-07-11,2026-07-13
+DDoS,Critical,Server,Kris,SIEM,91,12.2,77,22.34,593666.21,2026-10-04,2026-10-05
+DDoS,Low,Workstation,Kris,Email,27,18.91,38,42.55,190158.38,2026-06-10,2026-06-12
+Unauthorized Access,Medium,Workstation,Ej,SIEM,214,12.12,43,19.63,361881.55,2026-11-10,2026-11-13
+Unauthorized Access,Medium,Network,Ej,Endpoint,50,68.66,21,1.82,862155.7,2026-01-22,2026-01-24
+Unauthorized Access,Critical,Cloud,Roman,SIEM,215,29.78,91,97.04,424913.8,2026-09-10,2026-09-12
+Phishing,Medium,Workstation,Jerean,Endpoint,32,24.94,62,43.74,915775.66,2026-08-24,2026-08-29
+Unauthorized Access,Low,Server,Kris,Network,30,2.01,46,96.97,498440.12,2026-12-11,2026-12-15
+DDoS,Critical,Server,Jerean,Network,14,11.89,70,14.89,399437.78,2026-02-18,2026-02-22
+DDoS,High,Cloud,Roman,Firewall,179,30.9,38,59.15,750638.54,2026-02-28,2026-03-03
+Phishing,High,Cloud,Roman,Endpoint,8,5.86,49,20.9,74101.92,2026-06-19,2026-06-22
+Phishing,Medium,Network,Ej,Network,59,37.26,75,79.22,90388.9,2026-07-07,2026-07-11
+Unauthorized Access,Critical,Database,Kris,SIEM,70,33.31,81,78.59,652321.74,2026-09-28,2026-10-03
+Ransomware,Critical,Server,Ryo,Email,71,55.47,39,12.15,487453.77,2026-07-09,2026-07-13
+Phishing,High,Cloud,Roman,Email,139,47.85,71,91.29,790624.84,2026-06-24,2026-06-29
+Malware,Critical,Server,Kris,Endpoint,59,32.66,30,20.27,916354.57,2026-02-20,2026-02-23
+DDoS,Critical,Cloud,Jerean,Firewall,212,16.95,21,61.68,388978.51,2026-12-30,2026-12-31
+Malware,Critical,Workstation,Ej,SIEM,35,52.61,1,98.58,596813.62,2026-02-24,2026-02-27
+DDoS,Medium,Server,Jerean,Endpoint,78,51.26,89,88.36,501195.93,2026-09-01,2026-09-04
+DDoS,Critical,Workstation,Roman,Email,23,11.88,32,95.7,981629.04,2026-11-16,2026-11-18
+Phishing,Low,Server,Roman,Endpoint,160,65.95,8,34.92,831253.32,2026-05-11,2026-05-13
+Phishing,Medium,Database,Jerean,SIEM,85,5.57,69,11.45,911825.97,2026-11-03,2026-11-05
+Malware,Critical,Network,Roman,Network,160,4.91,30,19.65,255085.75,2026-05-15,2026-05-17
+DDoS,Critical,Workstation,Kris,SIEM,151,14.3,8,50.55,772753.9,2026-01-21,2026-01-26
+Malware,Low,Cloud,Roman,Network,233,65.57,19,79.53,266207.75,2026-11-25,2026-11-29
+Ransomware,Medium,Database,Ej,Network,91,37.92,59,15.87,209533.79,2026-06-16,2026-06-17
+Malware,High,Server,Kris,Network,24,56.94,55,66.31,944321.89,2026-10-01,2026-10-04
+Unauthorized Access,High,Workstation,Ryo,Endpoint,17,17.18,30,33.03,20285.11,2026-03-30,2026-04-04
+Malware,Medium,Server,Roman,Email,81,35.81,79,34.78,965423.31,2026-11-12,2026-11-13
+Unauthorized Access,Critical,Server,Roman,Endpoint,47,26.44,36,66.53,150112.64,2026-01-14,2026-01-19
+Unauthorized Access,Critical,Server,Ej,Email,143,59.78,55,47.23,819618.64,2026-08-30,2026-09-04
+Unauthorized Access,High,Network,Ej,SIEM,180,2.6,44,81.39,276646.63,2026-09-22,2026-09-25
+Ransomware,High,Network,Jerean,Firewall,147,18.31,27,16.44,351351.63,2026-12-12,2026-12-16
+Malware,High,Cloud,Jerean,SIEM,149,11.83,77,79.2,217540.95,2026-02-22,2026-02-24
+Malware,Low,Workstation,Jerean,Endpoint,186,62.0,78,7.36,585928.53,2026-12-06,2026-12-10
+Ransomware,High,Database,Ej,Endpoint,54,34.2,54,20.21,348747.45,2026-04-02,2026-04-05
+DDoS,Low,Database,Jerean,Email,32,29.7,48,65.96,657735.65,2026-09-21,2026-09-24
+Phishing,Medium,Database,Jerean,Endpoint,215,32.91,30,85.64,16631.67,2026-02-04,2026-02-07
+Malware,Critical,Server,Ryo,Network,8,70.01,39,26.02,65310.51,2026-07-25,2026-07-26
+Phishing,High,Network,Jerean,Endpoint,26,61.37,13,33.39,100561.49,2026-03-22,2026-03-26
+Ransomware,Critical,Workstation,Roman,Email,218,51.15,16,54.17,419574.69,2026-02-19,2026-02-23
+DDoS,Critical,Server,Ej,Email,123,21.62,44,21.95,814981.38,2026-12-26,2026-12-31
+DDoS,High,Network,Kris,Network,105,12.73,71,81.3,888289.73,2026-01-02,2026-01-07
+DDoS,High,Network,Ryo,Email,43,66.42,27,77.59,245565.93,2026-02-23,2026-02-28
+Ransomware,Medium,Workstation,Ej,Firewall,38,31.04,45,15.38,574795.35,2026-04-16,2026-04-19
+Unauthorized Access,Low,Workstation,Ej,SIEM,101,20.79,35,46.92,768596.63,2026-09-17,2026-09-21
+Unauthorized Access,Low,Workstation,Roman,Endpoint,48,34.44,79,77.71,289540.6,2026-11-06,2026-11-09
+Phishing,Critical,Server,Jerean,Firewall,174,66.17,28,34.4,409598.73,2026-07-10,2026-07-11
+Unauthorized Access,High,Cloud,Roman,Endpoint,44,28.48,99,63.68,524450.23,2026-08-06,2026-08-11
+Unauthorized Access,Medium,Workstation,Jerean,Firewall,101,40.95,7,5.97,135739.97,2026-02-13,2026-02-16
+DDoS,Medium,Cloud,Jerean,Endpoint,144,58.01,62,61.26,26956.31,2026-06-11,2026-06-14
+DDoS,Medium,Server,Ej,Network,134,31.33,51,16.11,153653.0,2026-07-21,2026-07-22
+Phishing,Medium,Cloud,Jerean,Email,160,17.58,46,83.23,627226.77,2026-09-27,2026-09-29
+Malware,Medium,Database,Ryo,Email,78,71.61,20,36.19,74544.64,2026-12-17,2026-12-21
+Phishing,Low,Cloud,Ryo,Network,90,68.92,96,28.87,190506.67,2026-10-31,2026-11-02
+Phishing,Low,Workstation,Ryo,Firewall,213,60.89,38,84.25,338516.03,2026-09-28,2026-10-03
+Ransomware,Low,Server,Ej,SIEM,94,49.87,61,5.96,78792.19,2026-08-03,2026-08-06
+Ransomware,High,Workstation,Roman,Firewall,71,21.94,32,40.26,192507.57,2026-09-09,2026-09-10
+Phishing,Critical,Database,Kris,Email,203,65.85,26,37.63,911358.52,2026-07-09,2026-07-10
+Phishing,Medium,Workstation,Jerean,SIEM,240,20.56,58,29.2,20279.83,2026-10-23,2026-10-27
+Phishing,High,Workstation,Kris,Endpoint,204,57.86,39,91.26,653778.49,2026-08-01,2026-08-03
+Unauthorized Access,Medium,Workstation,Roman,SIEM,216,66.2,20,75.34,385024.52,2026-07-27,2026-07-31
+Ransomware,Low,Network,Roman,Firewall,80,43.81,82,7.33,672976.09,2026-08-25,2026-08-28
+Phishing,High,Database,Ej,Network,231,58.02,50,71.75,589103.03,2026-12-04,2026-12-08
+DDoS,Low,Workstation,Ryo,Endpoint,213,57.21,79,53.2,224275.26,2026-02-22,2026-02-23
+DDoS,Medium,Workstation,Ryo,Firewall,96,14.71,52,90.19,847362.28,2026-10-07,2026-10-08
+Unauthorized Access,Medium,Workstation,Roman,Endpoint,237,48.42,86,31.98,492448.44,2026-08-05,2026-08-10
+Unauthorized Access,Critical,Server,Ej,SIEM,14,7.64,22,57.84,822713.48,2026-09-09,2026-09-14
+Malware,Medium,Network,Ej,Email,90,37.06,53,50.57,406606.52,2026-07-07,2026-07-10
+Malware,Low,Server,Jerean,Firewall,106,12.52,85,49.47,984700.87,2026-02-10,2026-02-12
+Malware,Medium,Network,Ryo,Network,189,30.56,66,46.15,770718.87,2026-06-06,2026-06-10
+Unauthorized Access,Critical,Workstation,Roman,SIEM,229,60.14,43,21.36,965984.25,2026-01-15,2026-01-18
+Unauthorized Access,Critical,Database,Kris,Firewall,218,71.09,82,75.82,514812.15,2026-10-28,2026-11-02
+Unauthorized Access,Low,Cloud,Ryo,Network,112,23.58,23,45.68,474217.44,2026-03-06,2026-03-10
+DDoS,High,Cloud,Jerean,Firewall,169,38.77,77,95.89,755698.36,2026-12-11,2026-12-16
+Unauthorized Access,Medium,Workstation,Ej,SIEM,209,37.3,64,26.82,880410.97,2026-11-23,2026-11-27
+DDoS,Critical,Server,Roman,Firewall,95,68.76,9,68.59,964181.65,2026-01-09,2026-01-11
+Malware,Medium,Database,Ryo,Endpoint,196,34.98,7,94.13,325227.35,2026-12-10,2026-12-13
+Malware,Medium,Network,Kris,SIEM,83,50.64,41,66.68,798905.87,2026-05-09,2026-05-13
+Malware,High,Workstation,Jerean,Firewall,90,66.45,54,87.26,211434.95,2026-05-16,2026-05-17
+Phishing,Critical,Database,Jerean,Email,226,27.51,65,82.92,546028.77,2026-03-04,2026-03-05
+Phishing,Medium,Database,Ryo,Firewall,111,65.05,2,36.65,180668.3,2026-05-19,2026-05-23
+Ransomware,Critical,Network,Kris,Endpoint,172,66.14,4,60.41,348049.96,2026-03-22,2026-03-26
+Ransomware,Low,Database,Jerean,Network,105,67.08,78,16.47,931427.01,2026-06-12,2026-06-16
+Ransomware,Low,Server,Roman,Network,230,20.2,32,54.02,146944.61,2026-10-16,2026-10-17
+Phishing,Medium,Server,Jerean,Network,112,29.43,100,23.81,632768.49,2026-09-18,2026-09-19
+Phishing,Critical,Server,Kris,Email,64,62.8,2,74.63,593361.32,2026-08-19,2026-08-23
+Ransomware,Medium,Database,Ej,Endpoint,230,26.5,64,53.28,121617.61,2026-02-10,2026-02-15
+Ransomware,Critical,Server,Ej,SIEM,52,43.62,14,41.71,326653.06,2026-01-28,2026-02-02
+Unauthorized Access,Critical,Network,Ryo,Network,121,9.38,20,27.61,563418.52,2026-05-15,2026-05-17
+Ransomware,High,Database,Kris,Endpoint,231,5.0,89,99.87,187991.43,2026-07-20,2026-07-23
+Unauthorized Access,High,Cloud,Jerean,Firewall,110,30.25,49,8.1,800823.03,2026-11-24,2026-11-29
+DDoS,High,Database,Jerean,Email,151,42.1,8,5.31,972184.35,2026-09-25,2026-09-26
+Phishing,Medium,Network,Ej,Endpoint,204,28.88,92,22.51,215544.64,2026-02-02,2026-02-07
+Ransomware,High,Cloud,Ej,Endpoint,235,42.02,63,97.14,187725.05,2026-02-17,2026-02-19
+Phishing,High,Database,Roman,SIEM,37,37.57,46,97.94,455480.14,2026-03-03,2026-03-05
+Phishing,Low,Server,Ej,Endpoint,48,49.69,21,65.84,748017.51,2026-08-04,2026-08-07
+Phishing,Critical,Workstation,Roman,SIEM,224,47.12,87,88.13,282319.01,2026-10-20,2026-10-25
+DDoS,Critical,Workstation,Jerean,Email,169,31.12,32,22.18,20860.03,2026-04-09,2026-04-10
+Malware,High,Server,Roman,Email,116,31.17,8,97.23,541679.41,2026-06-21,2026-06-22
+Ransomware,Critical,Workstation,Roman,Firewall,93,11.0,95,15.14,956643.97,2026-12-26,2026-12-30
+Malware,Low,Workstation,Ryo,SIEM,40,37.44,16,11.01,391885.58,2026-08-02,2026-08-03
+Malware,Low,Server,Ej,SIEM,85,42.69,40,12.11,420714.42,2026-02-04,2026-02-07
+Malware,High,Server,Roman,Network,92,34.83,27,57.74,968932.82,2026-08-15,2026-08-18
+Phishing,Low,Database,Jerean,Network,153,24.13,18,78.32,694913.0,2026-04-11,2026-04-12
+Unauthorized Access,Critical,Database,Kris,Firewall,134,52.24,35,37.3,719452.75,2026-05-11,2026-05-12
+Phishing,Medium,Server,Roman,Email,35,6.3,52,97.81,563139.3,2026-09-14,2026-09-18
+Phishing,Critical,Network,Ej,Network,112,65.93,15,44.01,974634.6,2026-01-05,2026-01-06
+Malware,Medium,Workstation,Ryo,Endpoint,229,2.47,63,15.89,689177.62,2026-08-06,2026-08-10
+Phishing,High,Database,Jerean,Email,34,69.33,53,47.13,895137.72,2026-09-12,2026-09-16
+Malware,Medium,Workstation,Ryo,Endpoint,208,33.83,91,68.22,699679.49,2026-12-25,2026-12-26
+Unauthorized Access,Low,Cloud,Kris,SIEM,176,30.3,81,83.39,735380.71,2026-10-10,2026-10-12
+Ransomware,Critical,Server,Roman,Email,16,19.21,66,46.42,291120.51,2026-07-26,2026-07-28
+Malware,Medium,Network,Roman,Firewall,55,1.72,31,59.77,304175.22,2026-01-15,2026-01-19
+Unauthorized Access,Critical,Cloud,Ej,SIEM,125,20.51,61,27.47,783201.66,2026-12-12,2026-12-13
+Ransomware,High,Cloud,Roman,SIEM,181,8.77,64,64.95,297409.58,2026-02-11,2026-02-13
+DDoS,High,Cloud,Jerean,Endpoint,156,47.85,98,98.61,563207.3,2026-06-28,2026-06-29
+Malware,Low,Server,Kris,SIEM,156,23.65,34,5.86,250102.96,2026-03-04,2026-03-05
+Malware,High,Database,Ryo,Network,192,55.47,55,88.77,817166.4,2026-12-18,2026-12-19
+DDoS,Medium,Server,Kris,Email,143,15.69,59,56.67,111390.85,2026-08-19,2026-08-24
+DDoS,High,Database,Roman,Network,17,64.92,3,25.96,829617.19,2026-08-29,2026-08-30
+Malware,Low,Cloud,Ryo,Endpoint,95,38.13,17,95.53,603127.07,2026-02-21,2026-02-26
+DDoS,Critical,Cloud,Ej,Endpoint,204,9.13,78,48.85,187722.63,2026-04-06,2026-04-10
+Phishing,Critical,Network,Kris,Email,78,29.46,78,33.84,542493.35,2026-08-10,2026-08-12
+Ransomware,High,Database,Ryo,SIEM,204,15.68,46,18.97,283216.34,2026-08-19,2026-08-21
+Ransomware,Medium,Cloud,Ryo,Firewall,196,15.18,38,25.2,324143.87,2026-08-25,2026-08-27
+Ransomware,Low,Workstation,Ryo,Endpoint,24,36.95,35,83.45,352176.51,2026-05-23,2026-05-25
+Phishing,Medium,Network,Jerean,Email,76,48.7,1,61.83,64255.93,2026-06-20,2026-06-22
+DDoS,Low,Server,Kris,Firewall,77,65.72,29,91.41,985975.72,2026-01-29,2026-01-31
+Unauthorized Access,High,Network,Ryo,SIEM,75,36.65,4,23.96,32503.09,2026-02-05,2026-02-07
+DDoS,Low,Workstation,Kris,Endpoint,82,69.57,61,12.99,662834.38,2026-01-13,2026-01-17
+Malware,Low,Database,Ryo,Email,32,67.86,97,1.6,371856.42,2026-06-09,2026-06-10
+Ransomware,High,Server,Ej,Email,134,62.42,17,51.28,646364.28,2026-11-23,2026-11-26
+DDoS,Medium,Server,Ej,Email,125,36.5,28,99.83,356892.0,2026-07-06,2026-07-11
+Unauthorized Access,High,Database,Ej,Endpoint,47,11.0,50,69.8,674076.9,2026-08-31,2026-09-03
+Malware,Low,Network,Roman,Firewall,12,16.47,90,31.53,729506.27,2026-03-27,2026-03-30
+Phishing,High,Cloud,Ryo,Email,17,46.98,8,87.81,690862.09,2026-10-11,2026-10-12
+Phishing,Low,Network,Roman,SIEM,217,30.94,34,78.39,114848.02,2026-03-07,2026-03-08
+Unauthorized Access,High,Workstation,Kris,Email,115,11.42,59,2.53,657236.34,2026-06-19,2026-06-20
+Malware,Critical,Cloud,Roman,Firewall,224,35.01,18,81.87,280707.56,2026-02-14,2026-02-16
+Ransomware,Critical,Network,Kris,Endpoint,39,2.24,95,30.75,29772.57,2026-03-03,2026-03-07
+DDoS,High,Database,Kris,Email,27,53.11,59,15.82,415415.84,2026-05-14,2026-05-16
+Malware,Medium,Workstation,Kris,Email,50,6.22,27,23.41,434109.56,2026-10-11,2026-10-15
+Phishing,Low,Workstation,Roman,SIEM,19,45.67,16,47.39,467706.96,2026-01-28,2026-02-01
+Unauthorized Access,Critical,Workstation,Ryo,SIEM,134,57.3,10,43.06,705119.34,2026-04-18,2026-04-21
+Unauthorized Access,Medium,Cloud,Roman,Email,65,10.42,76,29.6,309534.97,2026-02-13,2026-02-16
+DDoS,Low,Server,Ryo,Email,119,37.82,22,18.05,315965.23,2026-12-06,2026-12-10
+Unauthorized Access,Critical,Cloud,Ryo,SIEM,208,56.31,16,76.46,61491.7,2026-10-13,2026-10-17
+Unauthorized Access,Critical,Network,Kris,Firewall,68,19.5,12,99.02,687134.39,2026-11-27,2026-11-29
+Malware,High,Server,Roman,Network,56,12.57,75,78.0,568258.27,2026-05-08,2026-05-10
+Ransomware,Low,Network,Ryo,Network,168,24.91,84,30.3,350075.69,2026-12-14,2026-12-17
+DDoS,Medium,Server,Ej,Email,199,40.38,51,25.24,705483.79,2026-08-19,2026-08-20
+Malware,Medium,Cloud,Ryo,SIEM,73,41.84,1,22.55,537820.39,2026-07-09,2026-07-13
+Ransomware,Medium,Workstation,Ej,Endpoint,71,10.29,27,14.53,469775.7,2026-08-13,2026-08-15
+Malware,Low,Database,Roman,Endpoint,179,33.49,67,55.58,511813.22,2026-10-10,2026-10-13
+Malware,Medium,Workstation,Roman,Network,87,20.05,12,60.93,636711.78,2026-05-01,2026-05-03
+Unauthorized Access,Medium,Cloud,Roman,Firewall,6,60.78,30,70.84,660342.6,2026-04-26,2026-04-30
+Ransomware,Medium,Server,Ryo,Network,176,23.26,9,68.34,289668.86,2026-08-21,2026-08-25
+DDoS,High,Workstation,Jerean,Email,233,60.55,53,29.94,141602.62,2026-09-16,2026-09-21
+DDoS,High,Cloud,Ryo,Firewall,196,31.43,61,33.7,157477.55,2026-12-25,2026-12-26
+Ransomware,Low,Network,Ryo,Endpoint,213,52.59,54,68.47,639751.5,2026-07-17,2026-07-22
+Unauthorized Access,Low,Database,Kris,SIEM,82,37.21,37,35.6,873000.41,2026-05-17,2026-05-20
+Phishing,Medium,Workstation,Kris,SIEM,32,45.16,65,22.05,410086.78,2026-11-14,2026-11-16
+Malware,High,Server,Ryo,Email,223,29.07,42,38.06,170350.64,2026-06-14,2026-06-17
+Unauthorized Access,Critical,Network,Ej,Network,58,55.54,49,27.94,756845.9,2026-08-13,2026-08-17
+Ransomware,Critical,Cloud,Kris,Email,206,31.19,4,9.74,832656.98,2026-11-03,2026-11-08
+Malware,Medium,Database,Ryo,SIEM,71,33.48,64,83.18,880701.86,2026-08-22,2026-08-27
+DDoS,Medium,Server,Jerean,Endpoint,168,37.76,79,85.46,607224.6,2026-06-21,2026-06-26
+Phishing,High,Cloud,Ej,SIEM,106,60.06,51,22.76,860867.83,2026-06-01,2026-06-04
+DDoS,High,Cloud,Roman,Firewall,124,47.82,91,7.41,16399.54,2026-11-11,2026-11-15
+Ransomware,High,Workstation,Ryo,SIEM,195,25.79,72,74.14,108128.57,2026-06-09,2026-06-11
+Malware,Low,Workstation,Ryo,SIEM,157,48.59,60,21.94,93483.49,2026-04-06,2026-04-08
+Ransomware,Low,Server,Ej,Firewall,218,46.61,87,39.95,712892.08,2026-08-21,2026-08-24
+Malware,Medium,Cloud,Kris,Network,52,67.1,79,7.35,70512.2,2026-06-29,2026-07-04
+Unauthorized Access,Low,Workstation,Kris,SIEM,171,60.74,91,23.4,496868.01,2026-04-23,2026-04-24
+Phishing,High,Database,Kris,Email,51,46.97,31,79.5,473234.19,2026-11-14,2026-11-17
+Unauthorized Access,High,Database,Roman,SIEM,226,25.25,72,80.64,311392.82,2026-02-21,2026-02-24
+Unauthorized Access,Low,Cloud,Ej,Email,25,56.35,94,21.5,870534.76,2026-09-25,2026-09-29
+Ransomware,Critical,Workstation,Ej,Firewall,162,41.84,58,34.26,171262.77,2026-10-22,2026-10-24
+Phishing,Medium,Server,Kris,SIEM,96,70.95,82,14.29,353110.32,2026-04-23,2026-04-26
+Malware,Critical,Server,Kris,Firewall,163,18.57,4,8.34,774397.33,2026-04-11,2026-04-14
+Malware,Medium,Server,Jerean,Firewall,125,6.66,22,99.22,31391.89,2026-04-23,2026-04-28
+DDoS,Critical,Database,Jerean,Network,120,5.96,3,65.9,673277.45,2026-03-22,2026-03-27
+Malware,Low,Workstation,Ryo,SIEM,158,46.44,79,54.67,816581.33,2026-07-06,2026-07-07
+Ransomware,Medium,Workstation,Ryo,Email,239,67.69,99,76.78,932335.57,2026-04-23,2026-04-27
+Unauthorized Access,Medium,Database,Ej,Email,154,1.14,47,84.17,876420.34,2026-01-02,2026-01-03
+Unauthorized Access,Medium,Server,Ej,SIEM,153,52.53,38,80.86,320064.73,2026-05-10,2026-05-15
+Unauthorized Access,High,Server,Roman,Network,5,47.65,33,2.64,586777.78,2026-08-08,2026-08-10
+Phishing,High,Cloud,Roman,Network,169,52.99,78,19.49,78216.2,2026-02-23,2026-02-28
+Malware,Critical,Network,Jerean,Network,81,26.23,48,65.84,258612.13,2026-12-09,2026-12-13
+Ransomware,Low,Workstation,Ryo,Email,89,59.26,65,38.2,95128.16,2026-08-12,2026-08-17
+Phishing,High,Workstation,Jerean,Firewall,50,4.17,26,98.27,315872.1,2026-08-13,2026-08-17
+DDoS,Medium,Workstation,Jerean,Network,141,54.64,8,66.88,875312.03,2026-05-06,2026-05-10
+Ransomware,High,Network,Ryo,Email,149,19.96,50,95.7,347819.67,2026-05-10,2026-05-14
+Ransomware,Low,Cloud,Roman,Email,51,34.86,80,20.94,562336.2,2026-02-22,2026-02-26
+Ransomware,High,Network,Ryo,Firewall,217,59.41,38,86.53,433947.47,2026-06-21,2026-06-25
+Unauthorized Access,Medium,Server,Kris,SIEM,227,20.27,10,32.81,459457.61,2026-08-06,2026-08-08
+Ransomware,Critical,Server,Kris,SIEM,235,14.15,42,98.97,969602.48,2026-06-09,2026-06-10
+Malware,Medium,Workstation,Kris,Network,63,49.37,37,16.61,296858.31,2026-07-17,2026-07-20
+Ransomware,Low,Database,Ej,Network,58,38.87,26,52.12,627697.15,2026-09-04,2026-09-05
+Unauthorized Access,Critical,Workstation,Roman,Firewall,90,37.52,92,79.49,420642.61,2026-11-20,2026-11-24
+Ransomware,High,Database,Roman,Network,16,19.23,12,43.83,62085.03,2026-07-22,2026-07-24
+DDoS,High,Network,Ej,Firewall,196,3.48,84,47.34,489841.5,2026-07-03,2026-07-08
+DDoS,High,Server,Jerean,Email,10,30.13,49,98.65,813529.99,2026-05-03,2026-05-05
+Unauthorized Access,Critical,Database,Kris,Network,57,8.57,14,43.11,99654.22,2026-09-12,2026-09-16
+Malware,Medium,Network,Kris,Email,148,65.33,46,60.8,70522.26,2026-10-21,2026-10-23
+Malware,Critical,Server,Jerean,Endpoint,94,3.93,35,6.4,154477.89,2026-10-07,2026-10-09
+Phishing,Critical,Database,Ryo,Firewall,9,31.65,29,84.38,764635.71,2026-11-21,2026-11-25
+Unauthorized Access,Low,Workstation,Ryo,Endpoint,77,4.71,12,65.17,724271.39,2026-04-08,2026-04-10
+Ransomware,Critical,Workstation,Roman,Network,178,7.78,82,41.0,565452.75,2026-07-17,2026-07-20
+Unauthorized Access,High,Workstation,Ej,Email,236,47.78,44,2.6,468758.18,2026-08-28,2026-08-31
+Phishing,Medium,Network,Roman,Network,18,46.94,66,59.58,888437.49,2026-05-24,2026-05-26
+Unauthorized Access,Medium,Workstation,Ryo,Endpoint,176,3.35,2,2.25,766931.13,2026-04-07,2026-04-12
+Unauthorized Access,Medium,Cloud,Jerean,Network,195,1.08,59,1.12,812130.31,2026-07-20,2026-07-24
+Phishing,High,Server,Roman,SIEM,110,6.6,17,61.99,813449.04,2026-05-04,2026-05-07
+Malware,High,Network,Kris,Endpoint,226,55.17,10,19.71,643074.44,2026-07-06,2026-07-11
+Ransomware,High,Workstation,Kris,Network,56,42.5,18,20.0,458556.61,2026-11-22,2026-11-24
+Phishing,High,Server,Jerean,Email,120,3.71,22,65.67,864813.07,2026-12-15,2026-12-20
+DDoS,High,Database,Ryo,Network,30,35.65,83,6.32,926081.41,2026-09-16,2026-09-17
+Malware,Critical,Workstation,Kris,Email,57,51.55,58,32.03,24782.24,2026-05-28,2026-05-31
+DDoS,High,Server,Kris,SIEM,113,62.7,53,15.79,52503.32,2026-09-09,2026-09-11
+Malware,High,Cloud,Ej,Network,33,67.32,1,58.44,958784.55,2026-12-12,2026-12-16
+Ransomware,High,Database,Roman,SIEM,23,24.25,88,66.51,277883.45,2026-05-27,2026-05-29
+Ransomware,High,Cloud,Ryo,Endpoint,51,10.64,61,72.39,873496.07,2026-05-28,2026-06-01
+Unauthorized Access,Medium,Server,Roman,Email,140,17.82,100,26.27,389406.32,2026-12-18,2026-12-20
+DDoS,High,Cloud,Ryo,Endpoint,27,56.11,89,9.84,119980.96,2026-07-18,2026-07-23
+Malware,Critical,Server,Kris,Email,121,69.98,100,8.79,81362.76,2026-11-04,2026-11-09
+Ransomware,Critical,Server,Ej,SIEM,110,34.11,31,43.19,157351.39,2026-05-08,2026-05-13
+Phishing,Critical,Cloud,Roman,Firewall,167,22.68,31,94.64,250643.3,2026-02-08,2026-02-09
+Ransomware,Low,Server,Kris,Network,227,31.47,66,22.56,489029.84,2026-12-04,2026-12-08
+Phishing,Medium,Workstation,Ryo,SIEM,57,22.64,19,26.42,701796.4,2026-12-26,2026-12-31
+Malware,High,Server,Roman,Email,231,19.21,53,10.99,986412.18,2026-05-09,2026-05-10
+Ransomware,Low,Network,Roman,Email,100,43.16,76,60.95,442065.24,2026-09-24,2026-09-28
+Ransomware,High,Server,Kris,Email,190,2.12,74,68.31,518666.76,2026-05-31,2026-06-02
+Malware,Low,Network,Roman,Email,9,19.43,95,64.65,522293.89,2026-10-25,2026-10-26
+Ransomware,Low,Server,Ej,Network,20,47.96,22,86.25,539894.92,2026-04-09,2026-04-12
+Phishing,Critical,Server,Ej,Endpoint,21,3.28,23,49.16,518222.92,2026-09-20,2026-09-21
+Ransomware,Critical,Cloud,Kris,Firewall,164,6.91,87,14.31,9765.98,2026-09-09,2026-09-10
+DDoS,Low,Workstation,Ryo,Network,106,21.83,15,29.65,2723.1,2026-05-24,2026-05-28
+Unauthorized Access,Critical,Workstation,Kris,Email,228,63.32,26,66.58,98568.65,2026-12-12,2026-12-14
+Phishing,Low,Database,Ej,Network,184,55.31,3,61.7,102455.05,2026-04-22,2026-04-25
+DDoS,Medium,Cloud,Jerean,SIEM,24,2.57,87,53.57,705192.01,2026-03-01,2026-03-06
+Malware,Critical,Cloud,Jerean,Email,116,36.62,20,68.61,205711.12,2026-01-02,2026-01-07
+Phishing,Critical,Workstation,Roman,Firewall,124,20.5,40,64.1,894819.39,2026-10-31,2026-11-01
+Unauthorized Access,Critical,Cloud,Roman,Email,198,47.05,39,88.25,928677.72,2026-09-11,2026-09-15
+Unauthorized Access,Medium,Workstation,Jerean,Firewall,216,52.23,72,59.02,975917.44,2026-05-20,2026-05-24
+Malware,Low,Cloud,Ej,Firewall,115,62.26,18,78.08,939142.22,2026-02-06,2026-02-11
+Malware,High,Server,Roman,Endpoint,214,34.75,41,25.62,272616.43,2026-06-09,2026-06-12
+Phishing,Critical,Workstation,Kris,Endpoint,5,71.61,70,68.14,510267.07,2026-01-09,2026-01-11
+Ransomware,Low,Workstation,Kris,Network,62,70.58,27,90.32,176279.52,2026-08-21,2026-08-24
+Malware,Medium,Network,Ej,Network,97,63.63,100,39.19,806403.45,2026-04-09,2026-04-11
+Ransomware,High,Cloud,Roman,Firewall,225,41.82,15,78.13,888543.27,2026-05-27,2026-06-01
+DDoS,Critical,Cloud,Kris,Email,215,29.26,37,72.75,851437.55,2026-10-31,2026-11-02
+Unauthorized Access,Medium,Workstation,Roman,SIEM,176,26.87,58,6.89,433933.58,2026-07-27,2026-07-31
+Ransomware,Medium,Server,Roman,SIEM,236,1.86,5,58.57,758915.21,2026-05-11,2026-05-12
+Unauthorized Access,High,Server,Kris,Email,10,18.69,73,13.89,98481.59,2026-06-01,2026-06-02
+Ransomware,Low,Server,Jerean,Email,112,52.04,7,96.76,41204.53,2026-02-23,2026-02-28
+DDoS,Critical,Cloud,Kris,Endpoint,107,43.86,41,81.33,753483.18,2026-04-30,2026-05-04
+Malware,Critical,Network,Ej,SIEM,54,66.07,84,11.86,425929.92,2026-06-10,2026-06-13
+DDoS,Low,Workstation,Ryo,Firewall,122,4.55,10,13.05,995553.72,2026-04-26,2026-04-30
+Malware,Low,Database,Kris,Network,114,12.02,62,59.85,98156.96,2026-03-16,2026-03-17
+Malware,Low,Network,Roman,Endpoint,204,57.04,26,35.14,855772.05,2026-04-23,2026-04-24
+Unauthorized Access,High,Database,Roman,SIEM,92,26.45,68,4.46,480503.08,2026-04-14,2026-04-18
+DDoS,High,Network,Kris,Email,24,9.4,24,54.62,827323.05,2026-12-06,2026-12-10
+Ransomware,Critical,Server,Ryo,SIEM,18,71.75,78,39.4,817310.15,2026-09-11,2026-09-12
+DDoS,High,Cloud,Kris,Firewall,137,56.89,41,11.01,916076.01,2026-08-15,2026-08-18
+Unauthorized Access,Medium,Database,Ryo,Endpoint,173,30.02,65,80.39,298552.16,2026-04-22,2026-04-27
+Malware,Critical,Network,Ryo,Email,44,59.46,17,91.59,949849.55,2026-04-09,2026-04-14
+Unauthorized Access,High,Cloud,Ej,Firewall,38,49.32,24,75.9,152515.29,2026-06-02,2026-06-06
+Phishing,Low,Database,Roman,Network,128,57.09,27,82.42,82886.81,2026-12-15,2026-12-20
+Phishing,Medium,Workstation,Roman,Endpoint,212,58.88,7,22.43,432183.9,2026-12-04,2026-12-05
+Ransomware,Low,Network,Ryo,Firewall,49,7.02,73,27.09,828494.65,2026-07-13,2026-07-14
+Unauthorized Access,Critical,Workstation,Roman,Firewall,203,45.23,99,21.64,473947.71,2026-11-06,2026-11-10
+Ransomware,Low,Server,Jerean,Email,84,1.48,12,76.74,829457.39,2026-06-12,2026-06-16
+Ransomware,High,Workstation,Ryo,Network,75,4.09,85,94.84,729957.12,2026-07-27,2026-07-31
+Phishing,High,Workstation,Roman,Firewall,159,65.18,3,71.97,210218.96,2026-06-18,2026-06-21
+Ransomware,Critical,Network,Jerean,Endpoint,82,38.46,79,88.27,948932.74,2026-06-10,2026-06-15
+Phishing,Low,Server,Ej,Firewall,82,53.25,85,64.23,61720.39,2026-03-09,2026-03-13
+Malware,Critical,Workstation,Roman,SIEM,176,60.53,10,39.38,898381.43,2026-10-16,2026-10-18
+Unauthorized Access,Low,Cloud,Jerean,Endpoint,37,68.42,33,43.15,305139.01,2026-10-04,2026-10-06
+Ransomware,Medium,Database,Kris,Endpoint,37,62.72,46,8.46,500647.94,2026-10-31,2026-11-01
+Phishing,High,Workstation,Kris,Firewall,48,35.32,59,4.11,422929.52,2026-05-15,2026-05-20
+DDoS,Critical,Server,Jerean,Email,24,24.85,52,69.85,172662.72,2026-07-14,2026-07-18
+Ransomware,Medium,Workstation,Ryo,Endpoint,115,11.97,6,44.4,358788.72,2026-05-08,2026-05-10
+Malware,Medium,Database,Ryo,SIEM,168,29.42,2,55.67,193741.5,2026-02-02,2026-02-07
+Malware,Critical,Server,Roman,Email,11,27.02,29,56.21,204682.59,2026-06-25,2026-06-26
+DDoS,Critical,Network,Kris,Email,164,40.73,40,28.46,187869.78,2026-01-22,2026-01-25
+Phishing,Medium,Server,Ryo,Email,199,48.25,97,48.11,489528.36,2026-08-26,2026-08-31
+Ransomware,Low,Network,Ryo,Endpoint,171,70.46,61,47.61,798133.44,2026-06-07,2026-06-12
+Phishing,Medium,Server,Kris,Email,225,52.72,68,39.45,569401.06,2026-02-07,2026-02-10
+Malware,Critical,Database,Ej,Firewall,28,46.71,68,82.25,893313.38,2026-08-18,2026-08-23
+Phishing,Medium,Database,Ryo,Email,218,24.79,29,45.67,636907.94,2026-12-31,2027-01-01
+Malware,Low,Server,Jerean,SIEM,74,3.45,62,60.76,689650.78,2026-02-20,2026-02-21
+Phishing,High,Workstation,Roman,Network,116,21.46,60,89.66,667939.62,2026-09-21,2026-09-24
+DDoS,High,Database,Ryo,SIEM,220,55.56,84,86.76,450009.73,2026-10-10,2026-10-14
+Unauthorized Access,Medium,Network,Ryo,Endpoint,108,15.57,41,89.15,689649.48,2026-01-27,2026-01-29
+DDoS,Low,Network,Ej,Email,219,51.57,87,27.73,70638.04,2026-08-14,2026-08-18
+DDoS,High,Cloud,Jerean,Email,58,42.16,82,4.46,859991.62,2026-10-04,2026-10-09
+Unauthorized Access,Medium,Network,Roman,Firewall,42,13.2,89,26.85,778034.33,2026-10-13,2026-10-15
+Unauthorized Access,Medium,Cloud,Ryo,Email,78,19.58,65,28.59,245984.73,2026-04-07,2026-04-10
+Ransomware,Low,Server,Roman,SIEM,84,36.24,64,91.03,768264.42,2026-10-11,2026-10-14
+Ransomware,Critical,Server,Kris,Endpoint,207,30.7,79,65.28,13629.96,2026-11-13,2026-11-15
+DDoS,Medium,Server,Ryo,Network,36,56.28,63,9.09,218029.33,2026-10-31,2026-11-01
+DDoS,Critical,Workstation,Ryo,Email,49,53.14,98,14.4,66072.1,2026-05-27,2026-05-29
+Malware,Critical,Workstation,Kris,Network,65,41.79,48,16.41,780446.69,2026-01-04,2026-01-09
+Malware,High,Cloud,Ej,Email,202,59.38,20,63.41,756118.28,2026-02-04,2026-02-05
+Ransomware,Critical,Network,Ryo,Endpoint,220,40.95,37,73.81,813822.39,2026-07-11,2026-07-14
+Ransomware,Low,Network,Roman,SIEM,229,69.47,64,86.1,5477.21,2026-02-18,2026-02-20
+Malware,High,Server,Jerean,Endpoint,57,16.42,91,94.12,501731.49,2026-01-17,2026-01-21
+Malware,High,Database,Roman,Network,132,51.7,86,20.97,705131.36,2026-06-21,2026-06-25
+Phishing,High,Workstation,Ej,Email,183,27.27,5,31.67,156245.73,2026-08-08,2026-08-13
+Phishing,Medium,Workstation,Jerean,Network,80,20.81,34,24.79,650140.94,2026-06-07,2026-06-11
+Malware,Medium,Server,Roman,SIEM,188,13.81,39,36.52,85025.99,2026-02-15,2026-02-17
+Phishing,Critical,Workstation,Roman,Endpoint,31,40.23,67,91.55,182144.53,2026-01-06,2026-01-08
+Unauthorized Access,High,Server,Kris,Network,170,16.3,81,57.94,476321.02,2026-04-09,2026-04-13
+Ransomware,High,Cloud,Ej,Network,66,15.22,62,74.08,653911.59,2026-08-21,2026-08-23
+Ransomware,Low,Network,Kris,SIEM,22,71.33,88,49.52,146723.26,2026-02-06,2026-02-11
+Malware,Critical,Database,Jerean,Email,131,57.92,24,3.86,186038.11,2026-10-07,2026-10-08
+DDoS,Low,Network,Kris,Network,113,54.13,3,7.36,205241.92,2026-12-15,2026-12-20
+Malware,Critical,Network,Ej,SIEM,107,57.38,71,54.25,239462.1,2026-10-29,2026-11-03
+Phishing,Critical,Cloud,Ryo,Email,196,69.79,89,72.16,227327.29,2026-06-30,2026-07-02
+DDoS,Medium,Workstation,Ryo,Email,81,41.7,67,22.32,395753.96,2026-04-05,2026-04-06
+Phishing,Medium,Database,Jerean,Endpoint,121,16.64,79,72.47,654135.86,2026-04-09,2026-04-11
+Unauthorized Access,Low,Workstation,Ryo,SIEM,108,62.22,93,81.26,438593.75,2026-07-07,2026-07-10
+Phishing,Critical,Network,Kris,Email,162,53.73,50,41.78,776197.93,2026-04-26,2026-04-28
+Unauthorized Access,High,Server,Jerean,Endpoint,53,30.42,29,74.9,719549.24,2026-07-10,2026-07-12
+Unauthorized Access,Medium,Network,Ej,Firewall,173,34.62,74,41.0,127400.39,2026-09-10,2026-09-12
+Phishing,High,Workstation,Jerean,SIEM,120,30.2,32,68.16,49792.78,2026-06-10,2026-06-11
+Phishing,Low,Network,Jerean,Firewall,145,67.03,87,76.64,878063.62,2026-09-13,2026-09-15
+Unauthorized Access,Medium,Server,Roman,Email,166,25.39,39,99.2,80751.24,2026-11-19,2026-11-20
+DDoS,Medium,Cloud,Roman,SIEM,104,69.41,9,35.19,149190.84,2026-05-08,2026-05-12
+Unauthorized Access,Critical,Workstation,Jerean,Endpoint,226,65.63,14,41.69,23111.14,2026-01-18,2026-01-21
+Ransomware,Low,Network,Ryo,Email,129,45.77,68,17.4,628708.03,2026-10-08,2026-10-09
+Unauthorized Access,Critical,Workstation,Roman,SIEM,29,42.17,64,21.2,582788.19,2026-08-11,2026-08-15
+DDoS,Medium,Cloud,Ej,SIEM,198,27.28,20,69.65,986916.76,2026-02-23,2026-02-24
+Ransomware,Low,Network,Kris,Firewall,132,2.3,28,91.79,887045.46,2026-02-27,2026-02-28
+Malware,Medium,Network,Roman,Email,104,10.06,14,40.07,411432.33,2026-11-19,2026-11-22
+Malware,Low,Workstation,Jerean,Endpoint,150,54.55,44,18.8,372214.26,2026-12-26,2026-12-31
+DDoS,Medium,Workstation,Ryo,Endpoint,9,34.48,98,29.22,297555.18,2026-06-23,2026-06-28
+Unauthorized Access,High,Server,Kris,Email,23,11.64,77,46.05,153254.51,2026-10-07,2026-10-08
+Phishing,High,Cloud,Roman,Email,174,19.74,95,29.77,138945.57,2026-04-24,2026-04-26
+DDoS,Critical,Server,Ryo,Network,22,68.3,97,24.12,133151.42,2026-10-15,2026-10-19
+Ransomware,High,Network,Ryo,Firewall,125,27.07,39,73.86,115000.64,2026-12-08,2026-12-10
+Ransomware,Medium,Workstation,Ryo,Email,36,65.45,28,1.78,241271.53,2026-05-31,2026-06-02
+Malware,Medium,Network,Jerean,Email,153,22.63,64,54.38,307361.96,2026-05-07,2026-05-08
+Ransomware,High,Network,Ej,Network,14,39.57,89,79.58,961617.39,2026-06-04,2026-06-05
+DDoS,Critical,Database,Ryo,Network,41,2.45,32,27.36,578894.78,2026-09-30,2026-10-01
+Ransomware,High,Database,Kris,SIEM,181,38.05,9,60.73,987608.18,2026-04-14,2026-04-15
+DDoS,Low,Network,Roman,Endpoint,90,46.22,28,67.22,373094.48,2026-10-26,2026-10-31
+Phishing,Low,Workstation,Kris,Firewall,17,17.64,95,65.85,458169.01,2026-09-03,2026-09-04
+Malware,Low,Network,Jerean,SIEM,187,42.1,17,45.14,325254.08,2026-06-25,2026-06-30
+Ransomware,High,Database,Jerean,Email,149,46.95,87,35.31,183704.76,2026-02-08,2026-02-13
+DDoS,High,Workstation,Kris,Network,13,49.77,77,83.76,144021.54,2026-06-19,2026-06-20
+Unauthorized Access,High,Network,Ej,Endpoint,92,56.12,55,76.09,945134.12,2026-09-04,2026-09-07
+Malware,Low,Cloud,Jerean,SIEM,176,23.11,10,32.8,986823.87,2026-01-26,2026-01-30
+Phishing,Critical,Cloud,Jerean,Endpoint,210,41.31,80,11.2,45864.59,2026-12-21,2026-12-23
+DDoS,Medium,Network,Kris,Network,50,70.69,6,8.11,151195.53,2026-11-02,2026-11-07
+Phishing,High,Workstation,Jerean,SIEM,140,64.77,48,10.33,424100.57,2026-01-13,2026-01-17
+Phishing,Critical,Network,Ej,SIEM,123,68.64,75,58.7,187147.14,2026-11-12,2026-11-15
+Ransomware,Medium,Network,Ej,Endpoint,169,28.42,67,6.11,364516.51,2026-11-09,2026-11-11
+Ransomware,Medium,Database,Ej,Network,23,56.87,92,34.36,129967.25,2026-02-05,2026-02-07
+DDoS,Medium,Cloud,Roman,Email,195,45.01,41,75.57,457055.24,2026-06-22,2026-06-27
+Unauthorized Access,Critical,Database,Ej,SIEM,224,6.87,79,30.14,272422.92,2026-01-20,2026-01-21
+DDoS,Critical,Database,Ej,Email,178,59.5,60,76.57,352553.15,2026-11-17,2026-11-20
+Unauthorized Access,Low,Network,Roman,Network,237,49.07,77,74.8,95218.34,2026-09-21,2026-09-26
+Phishing,Critical,Database,Ryo,SIEM,98,15.12,42,25.34,428699.92,2026-05-22,2026-05-25
+Malware,Critical,Cloud,Jerean,SIEM,203,6.66,81,73.15,983274.35,2026-05-23,2026-05-24
+DDoS,Critical,Database,Ej,Email,30,60.43,71,75.03,329504.21,2026-04-02,2026-04-03
+DDoS,Medium,Cloud,Jerean,Firewall,236,6.6,28,40.35,876552.85,2026-12-20,2026-12-25
+Unauthorized Access,High,Database,Kris,Email,50,7.49,13,21.83,843355.94,2026-11-18,2026-11-19
+Phishing,Low,Cloud,Jerean,Email,122,31.35,81,52.61,952106.36,2026-10-15,2026-10-19
+Phishing,High,Database,Roman,Firewall,50,10.57,15,92.22,790319.4,2026-08-03,2026-08-05
+Unauthorized Access,High,Database,Jerean,Network,207,65.87,36,64.32,659937.23,2026-12-08,2026-12-13
+Phishing,Critical,Workstation,Jerean,Network,18,34.39,92,18.12,856727.86,2026-02-20,2026-02-23
+Ransomware,Low,Cloud,Jerean,SIEM,89,41.41,15,68.59,76569.04,2026-06-02,2026-06-06
+Malware,High,Cloud,Ryo,Endpoint,67,66.9,75,43.29,463367.83,2026-07-05,2026-07-10
+DDoS,High,Cloud,Ryo,Endpoint,76,38.65,56,59.56,989266.98,2026-03-04,2026-03-05
+Malware,Low,Server,Kris,SIEM,7,26.1,95,73.67,769830.55,2026-07-09,2026-07-10
+DDoS,Critical,Database,Roman,Endpoint,32,57.6,4,51.98,962113.3,2026-05-05,2026-05-06
+Ransomware,High,Cloud,Jerean,Email,129,32.44,99,81.58,779854.72,2026-05-30,2026-05-31
+Phishing,Medium,Server,Jerean,Email,161,23.61,98,72.49,875007.09,2026-11-10,2026-11-13
+Unauthorized Access,High,Workstation,Jerean,Firewall,91,52.35,52,61.89,706823.1,2026-02-27,2026-03-03
+Ransomware,Medium,Cloud,Jerean,Firewall,150,57.91,91,15.93,760741.5,2026-12-08,2026-12-10
+Malware,Critical,Cloud,Ryo,SIEM,167,57.21,10,83.76,523654.83,2026-11-01,2026-11-04
+Unauthorized Access,High,Server,Kris,SIEM,81,70.41,94,93.65,924313.46,2026-06-29,2026-07-02
+Phishing,Low,Database,Ej,SIEM,80,56.85,45,14.56,825213.87,2026-06-19,2026-06-21
+Ransomware,Low,Workstation,Roman,Email,179,55.67,84,49.34,844041.08,2026-11-22,2026-11-24
+Unauthorized Access,High,Cloud,Jerean,Endpoint,118,61.88,29,26.63,673336.09,2026-09-28,2026-09-29
+Ransomware,Critical,Database,Kris,SIEM,137,1.01,53,75.7,305275.37,2026-02-23,2026-02-26
+Ransomware,Critical,Workstation,Ej,SIEM,235,26.73,29,72.44,36594.17,2026-04-11,2026-04-16
+Phishing,Low,Network,Kris,Email,79,53.37,23,14.95,935719.47,2026-09-21,2026-09-23
+DDoS,High,Network,Ryo,Email,63,43.58,57,87.83,586534.23,2026-02-22,2026-02-24
+Unauthorized Access,Critical,Workstation,Ej,Email,207,13.61,50,18.92,298844.83,2026-03-01,2026-03-05
+Phishing,Low,Server,Kris,Endpoint,63,22.57,21,79.93,149985.97,2026-04-18,2026-04-23
+Ransomware,Medium,Workstation,Ryo,SIEM,238,24.91,43,46.24,829693.64,2026-01-05,2026-01-10
+Phishing,High,Workstation,Kris,Network,51,41.32,10,33.5,836683.67,2026-04-13,2026-04-15
+DDoS,Medium,Server,Kris,Network,99,60.04,76,16.67,814693.46,2026-07-15,2026-07-16
+Unauthorized Access,Medium,Server,Ej,SIEM,227,67.21,30,17.59,645437.61,2026-09-19,2026-09-23
+DDoS,Critical,Database,Ryo,SIEM,145,54.26,51,66.53,366649.37,2026-12-31,2027-01-05
+Malware,Critical,Database,Jerean,SIEM,82,60.85,33,55.49,304766.21,2026-12-16,2026-12-18
+Unauthorized Access,Critical,Server,Roman,SIEM,117,34.38,18,13.09,9546.22,2026-02-16,2026-02-21
+DDoS,High,Network,Ej,Endpoint,113,28.67,78,12.16,833773.95,2026-12-21,2026-12-25
+Ransomware,Medium,Network,Ryo,Network,110,28.88,22,8.16,88345.26,2026-11-07,2026-11-11
+Unauthorized Access,High,Workstation,Kris,Firewall,93,44.74,64,74.63,631124.24,2026-11-04,2026-11-07
+Unauthorized Access,Critical,Cloud,Ryo,Network,37,9.82,21,71.48,504570.87,2026-05-24,2026-05-26
+Phishing,Medium,Workstation,Roman,Network,101,42.14,1,6.78,527162.67,2026-09-26,2026-09-30
+Ransomware,High,Workstation,Roman,Email,194,48.22,15,56.47,926786.13,2026-05-04,2026-05-07
+Malware,High,Cloud,Jerean,SIEM,83,32.16,36,9.38,32583.4,2026-04-16,2026-04-19
+DDoS,Low,Server,Jerean,SIEM,20,68.67,47,90.47,773618.83,2026-06-07,2026-06-12
+Phishing,High,Network,Roman,SIEM,48,44.18,54,90.8,53000.35,2026-05-27,2026-06-01
+DDoS,Critical,Workstation,Ej,Email,190,16.62,86,70.13,39115.45,2026-05-25,2026-05-28
+Malware,High,Cloud,Ej,Endpoint,124,35.02,32,92.69,430387.88,2026-04-30,2026-05-05
+Malware,Medium,Database,Kris,Endpoint,234,48.95,58,81.33,64012.1,2026-11-15,2026-11-19
+Unauthorized Access,High,Workstation,Jerean,Firewall,138,23.98,46,83.03,789354.81,2026-10-02,2026-10-03
+Malware,Low,Network,Kris,Endpoint,112,6.65,54,57.4,530033.53,2026-04-02,2026-04-06
+DDoS,Medium,Server,Jerean,Endpoint,221,42.42,33,31.3,30009.74,2026-02-27,2026-03-02
+Ransomware,Medium,Workstation,Roman,SIEM,147,68.3,39,22.56,41460.19,2026-12-12,2026-12-15
+Ransomware,Low,Workstation,Ej,Network,8,35.44,23,33.39,613055.86,2026-08-17,2026-08-21
+Unauthorized Access,Critical,Cloud,Ej,Endpoint,60,65.33,43,63.22,806305.71,2026-04-27,2026-05-02
+DDoS,Medium,Database,Roman,Endpoint,68,60.29,55,18.09,438361.73,2026-11-14,2026-11-19
+DDoS,Critical,Database,Kris,Email,200,11.47,2,26.61,555026.09,2026-10-06,2026-10-09
+Malware,Medium,Server,Kris,Firewall,226,51.28,66,47.34,800029.62,2026-05-07,2026-05-09
+DDoS,Medium,Network,Ryo,Email,166,31.92,38,24.07,610895.67,2026-05-09,2026-05-14
+Phishing,Critical,Server,Jerean,SIEM,223,18.77,29,59.28,225535.48,2026-02-27,2026-03-03
+Malware,Medium,Workstation,Kris,Network,99,49.77,67,92.39,613438.97,2026-05-02,2026-05-07
+Phishing,Critical,Workstation,Roman,Firewall,60,53.73,71,75.06,628651.18,2026-01-01,2026-01-05
+Unauthorized Access,Low,Database,Kris,Email,36,13.77,36,66.98,734372.87,2026-08-27,2026-08-30
+Ransomware,Critical,Network,Ej,Endpoint,240,65.93,29,58.69,621253.31,2026-10-17,2026-10-22
+Unauthorized Access,Low,Cloud,Jerean,Endpoint,235,54.33,37,49.31,969272.89,2026-04-06,2026-04-10
+Ransomware,Medium,Network,Ryo,Firewall,120,67.27,100,19.47,198091.02,2026-05-06,2026-05-09
+Unauthorized Access,Critical,Workstation,Jerean,Endpoint,13,23.51,87,89.58,951139.59,2026-04-28,2026-04-30
+DDoS,Medium,Cloud,Ej,Email,195,67.69,45,25.61,538801.15,2026-02-17,2026-02-21
+Phishing,Critical,Network,Ej,Email,109,27.16,16,10.04,672284.18,2026-03-30,2026-04-01
+Ransomware,Low,Network,Ej,Endpoint,204,4.83,31,75.25,100362.14,2026-08-25,2026-08-27
+Malware,Low,Cloud,Ej,Endpoint,82,55.17,34,18.39,381195.37,2026-09-29,2026-09-30
+Phishing,Critical,Workstation,Roman,SIEM,165,50.95,50,37.82,769609.77,2026-07-08,2026-07-13
+Malware,Low,Network,Ryo,Network,91,43.45,65,3.8,707204.1,2026-07-11,2026-07-15
+Phishing,Medium,Cloud,Ej,Firewall,25,35.78,82,14.57,41099.25,2026-03-10,2026-03-12
+Phishing,Medium,Workstation,Ej,Email,59,3.28,62,18.15,547047.67,2026-10-05,2026-10-06
+Unauthorized Access,High,Cloud,Kris,Firewall,80,45.35,43,6.39,89189.91,2026-12-15,2026-12-18
+Ransomware,Low,Cloud,Ryo,SIEM,189,30.6,56,66.01,995860.57,2026-09-04,2026-09-08
+Ransomware,Medium,Network,Jerean,Email,134,40.77,15,83.86,897399.29,2026-03-17,2026-03-19
+Phishing,Critical,Workstation,Ryo,SIEM,145,31.48,48,37.96,22059.58,2026-06-03,2026-06-08
+DDoS,Low,Network,Ryo,SIEM,130,69.59,49,87.58,858790.93,2026-05-24,2026-05-25
+DDoS,Medium,Server,Ryo,Endpoint,136,43.89,81,22.12,919510.17,2026-03-27,2026-03-29
+Malware,Low,Server,Ej,Firewall,88,54.2,44,33.21,354194.67,2026-07-04,2026-07-09
+Malware,Critical,Workstation,Ej,Firewall,182,67.48,10,15.92,719782.15,2026-10-12,2026-10-14
+Unauthorized Access,Medium,Cloud,Roman,Endpoint,119,43.0,20,62.44,442661.64,2026-08-08,2026-08-12
+Phishing,High,Network,Jerean,Firewall,52,1.86,70,42.57,655577.25,2026-03-10,2026-03-14
+Malware,High,Network,Kris,Endpoint,127,3.43,8,61.72,340977.09,2026-02-16,2026-02-20
+Malware,Low,Workstation,Ryo,Email,82,50.87,45,76.41,323236.68,2026-04-04,2026-04-05
+Phishing,Critical,Workstation,Jerean,SIEM,34,20.82,34,55.02,425009.45,2026-08-26,2026-08-30
+Unauthorized Access,Medium,Server,Jerean,SIEM,33,42.14,96,63.14,146422.19,2026-07-23,2026-07-28
+Malware,Critical,Database,Roman,Firewall,140,15.36,51,93.59,831307.83,2026-08-06,2026-08-08
+Unauthorized Access,Medium,Workstation,Kris,Network,144,20.19,4,30.61,349349.2,2026-12-07,2026-12-10
+Ransomware,Low,Database,Ryo,SIEM,45,36.83,39,36.56,400749.4,2026-02-08,2026-02-13
+Unauthorized Access,Medium,Workstation,Kris,Endpoint,234,70.27,84,72.05,894160.56,2026-04-10,2026-04-15
+DDoS,Critical,Cloud,Roman,Network,30,44.76,24,61.52,497127.19,2026-10-16,2026-10-20
+DDoS,Critical,Cloud,Ej,Network,54,67.47,88,18.67,544709.66,2026-09-11,2026-09-12
+Unauthorized Access,Low,Server,Jerean,SIEM,6,69.12,55,38.24,956541.63,2026-08-10,2026-08-12
+DDoS,Critical,Server,Ryo,SIEM,59,15.78,26,47.32,886839.66,2026-12-23,2026-12-24
+Ransomware,Medium,Database,Ej,SIEM,108,23.09,25,42.52,170297.24,2026-01-23,2026-01-25
+Phishing,Low,Workstation,Roman,Endpoint,188,55.67,36,18.65,473741.81,2026-09-07,2026-09-09
+DDoS,Medium,Network,Kris,Network,18,62.54,71,92.52,971324.93,2026-01-10,2026-01-11
+DDoS,Critical,Server,Jerean,Firewall,138,37.87,74,76.47,372993.93,2026-09-03,2026-09-08
+Unauthorized Access,Low,Network,Ryo,Endpoint,238,71.52,58,48.65,372201.54,2026-11-21,2026-11-23
+Ransomware,Medium,Network,Ej,Email,132,1.82,12,68.33,195835.2,2026-04-10,2026-04-11
+Phishing,Critical,Workstation,Ej,SIEM,108,22.27,1,89.83,115208.79,2026-10-17,2026-10-19
+Unauthorized Access,Critical,Database,Jerean,Network,99,45.24,50,14.48,740564.49,2026-06-29,2026-07-02
+Unauthorized Access,High,Workstation,Kris,Endpoint,85,34.32,25,25.79,770260.44,2026-08-11,2026-08-16
+Ransomware,Critical,Server,Roman,Email,221,9.28,80,54.73,969043.95,2026-09-07,2026-09-11
+Phishing,Medium,Network,Kris,Endpoint,65,27.11,5,80.1,773644.79,2026-05-27,2026-05-29
+Ransomware,Low,Workstation,Kris,Endpoint,228,2.81,83,4.59,244109.14,2026-04-06,2026-04-09
+Phishing,High,Workstation,Kris,Firewall,16,46.63,68,98.42,41076.46,2026-09-14,2026-09-18
+Ransomware,Critical,Workstation,Jerean,Firewall,17,64.38,6,46.04,985451.95,2026-11-21,2026-11-25
+Unauthorized Access,Critical,Server,Jerean,Endpoint,151,63.83,26,36.56,341110.24,2026-01-04,2026-01-06
+Unauthorized Access,Critical,Database,Roman,Email,176,50.67,55,29.98,312659.57,2026-01-16,2026-01-17
+Malware,Medium,Workstation,Kris,Network,93,34.07,39,18.26,906049.25,2026-10-07,2026-10-09
+DDoS,High,Server,Jerean,Network,99,37.35,9,79.37,585514.8,2026-12-02,2026-12-05
+Ransomware,Medium,Network,Roman,SIEM,63,10.72,45,95.59,215656.3,2026-09-04,2026-09-08
+Malware,High,Cloud,Roman,SIEM,41,25.21,14,41.95,889207.15,2026-09-15,2026-09-17
+DDoS,Low,Server,Kris,Network,29,14.33,55,95.29,993367.49,2026-06-09,2026-06-10
+Ransomware,Medium,Cloud,Ryo,Endpoint,20,59.31,9,82.56,87591.88,2026-12-06,2026-12-08
+Phishing,Medium,Workstation,Kris,Endpoint,170,65.95,15,48.62,862389.38,2026-06-01,2026-06-06
+DDoS,Low,Workstation,Ryo,Firewall,175,39.12,37,67.73,391125.18,2026-06-27,2026-06-28
+Unauthorized Access,High,Server,Roman,Firewall,91,52.67,50,44.06,524548.37,2026-06-12,2026-06-15
+Malware,Critical,Cloud,Jerean,SIEM,146,9.62,84,56.31,914901.16,2026-02-02,2026-02-06
+DDoS,Low,Workstation,Ej,Network,138,44.21,72,6.75,973405.82,2026-06-28,2026-06-30
+DDoS,Critical,Network,Roman,Endpoint,221,50.9,96,69.93,262901.75,2026-04-11,2026-04-12
+Unauthorized Access,Critical,Database,Jerean,Network,27,33.15,21,6.23,213637.92,2026-09-25,2026-09-30
+Ransomware,Low,Database,Roman,Email,130,18.27,57,81.89,81436.04,2026-11-19,2026-11-20
+Phishing,High,Workstation,Kris,Network,64,63.29,19,82.67,562236.05,2026-03-06,2026-03-11
+Unauthorized Access,Critical,Cloud,Ryo,Email,239,53.75,93,24.47,14590.79,2026-06-17,2026-06-20
+Phishing,Low,Workstation,Roman,Firewall,144,64.89,58,33.04,412486.4,2026-11-26,2026-11-30
+Ransomware,Medium,Cloud,Jerean,Firewall,145,59.11,95,48.65,74310.63,2026-02-12,2026-02-15
+DDoS,Medium,Network,Kris,SIEM,104,71.32,6,60.07,405820.56,2026-02-13,2026-02-15
+Phishing,Medium,Cloud,Ej,Network,107,14.64,4,29.45,40892.26,2026-10-12,2026-10-13
+Malware,Low,Workstation,Kris,Network,230,7.16,43,59.66,835382.04,2026-01-12,2026-01-17
+Malware,Medium,Network,Ryo,Email,138,24.93,93,30.48,210529.25,2026-04-05,2026-04-10
+Unauthorized Access,Critical,Server,Kris,Firewall,67,10.16,42,6.49,328980.4,2026-10-29,2026-10-30
+Ransomware,Medium,Database,Ej,Email,42,38.14,3,1.25,870177.95,2026-09-10,2026-09-11
+Unauthorized Access,Medium,Workstation,Jerean,Firewall,132,45.95,1,11.01,746519.8,2026-08-30,2026-09-01
+Unauthorized Access,Critical,Workstation,Roman,Email,54,42.06,55,79.43,219819.32,2026-02-04,2026-02-07
+Unauthorized Access,Medium,Workstation,Ryo,Firewall,184,19.41,15,96.18,72827.52,2026-08-03,2026-08-08
+Malware,Critical,Network,Ej,Email,44,65.53,47,43.27,715958.1,2026-12-03,2026-12-05
+Malware,Medium,Server,Ryo,Firewall,12,2.5,85,51.76,391311.85,2026-03-31,2026-04-03
+Unauthorized Access,Critical,Cloud,Kris,Email,193,25.71,46,15.54,766313.92,2026-09-21,2026-09-23
+Malware,Medium,Server,Ryo,Network,12,52.05,58,55.55,445849.48,2026-04-03,2026-04-08
+Ransomware,Critical,Network,Ej,SIEM,108,55.45,95,15.32,346656.41,2026-03-31,2026-04-01
+Unauthorized Access,Low,Workstation,Roman,Email,229,30.54,71,61.51,451754.2,2026-04-25,2026-04-26
+Malware,Critical,Database,Roman,SIEM,38,2.2,81,93.39,748810.43,2026-04-15,2026-04-18
+Phishing,Medium,Workstation,Ryo,Network,240,44.88,83,20.37,902318.07,2026-07-15,2026-07-19
+Unauthorized Access,Medium,Cloud,Jerean,Network,211,5.48,39,76.69,50717.43,2026-11-10,2026-11-13
+Unauthorized Access,High,Database,Ryo,Firewall,232,8.66,3,3.33,524587.43,2026-04-24,2026-04-28
+Ransomware,Critical,Workstation,Kris,SIEM,192,47.17,30,38.17,33802.59,2026-03-16,2026-03-18
+DDoS,Low,Database,Roman,Endpoint,61,23.19,35,11.96,468941.14,2026-08-05,2026-08-07
+DDoS,Critical,Server,Roman,Firewall,231,25.71,57,35.9,885397.55,2026-10-04,2026-10-09
+Ransomware,Critical,Network,Roman,SIEM,178,35.56,29,18.18,362228.68,2026-09-06,2026-09-10
+Ransomware,Low,Workstation,Jerean,Email,26,70.48,50,37.96,932517.97,2026-06-13,2026-06-18
+Ransomware,Critical,Cloud,Jerean,Email,91,69.55,62,42.33,630977.86,2026-12-23,2026-12-24
+DDoS,Low,Server,Ej,Network,44,30.55,52,30.76,934221.19,2026-07-11,2026-07-15
+Ransomware,Low,Workstation,Ryo,Endpoint,177,19.85,14,66.01,757409.46,2026-08-15,2026-08-18
+Malware,Critical,Server,Ryo,Email,187,22.48,35,91.97,104331.73,2026-06-26,2026-06-27
+Unauthorized Access,Critical,Cloud,Kris,SIEM,183,20.08,28,40.66,231920.22,2026-04-09,2026-04-10
+Unauthorized Access,Medium,Workstation,Roman,SIEM,90,38.79,58,20.04,394776.28,2026-02-05,2026-02-08
+Phishing,Medium,Cloud,Jerean,Email,137,44.09,30,27.8,170936.78,2026-04-06,2026-04-07
+Phishing,High,Database,Kris,SIEM,99,35.7,90,85.55,495416.69,2026-06-01,2026-06-05
+Unauthorized Access,High,Cloud,Kris,SIEM,17,29.97,7,57.59,471896.79,2026-05-31,2026-06-05
+Malware,Critical,Database,Jerean,Network,32,16.0,39,46.05,956302.94,2026-07-09,2026-07-10
+DDoS,Low,Workstation,Ryo,Endpoint,88,35.26,95,15.81,434294.16,2026-08-12,2026-08-16
+DDoS,High,Database,Roman,Network,229,25.22,69,45.52,785841.18,2026-02-06,2026-02-08
+Malware,Critical,Workstation,Ryo,Endpoint,212,39.45,35,28.57,941968.63,2026-09-25,2026-09-29
+DDoS,High,Workstation,Kris,SIEM,66,48.94,52,94.37,877111.84,2026-07-02,2026-07-07
+Ransomware,Low,Network,Roman,Endpoint,97,45.97,14,88.52,209458.96,2026-01-13,2026-01-17
+Unauthorized Access,Critical,Workstation,Ej,SIEM,91,33.84,63,9.31,496533.86,2026-10-06,2026-10-09
+Unauthorized Access,Low,Database,Kris,SIEM,28,40.48,36,52.15,348392.04,2026-08-05,2026-08-10
+Malware,Critical,Network,Ryo,Network,102,21.22,91,23.28,400458.84,2026-12-21,2026-12-23
+DDoS,High,Network,Ryo,Network,11,2.72,24,41.67,361446.02,2026-12-27,2026-12-30
+Phishing,Medium,Workstation,Ryo,Firewall,170,45.38,40,87.81,826532.85,2026-10-13,2026-10-17
+Phishing,High,Cloud,Jerean,Email,41,18.93,29,53.22,452686.92,2026-09-30,2026-10-05
+DDoS,High,Cloud,Kris,Firewall,72,48.5,53,34.09,524170.64,2026-03-03,2026-03-05
+Phishing,Medium,Network,Roman,Firewall,230,54.04,22,21.58,982464.91,2026-03-25,2026-03-28
+Malware,Medium,Workstation,Ryo,Endpoint,174,66.03,72,80.23,60919.29,2026-08-05,2026-08-07
+Malware,Critical,Cloud,Ryo,SIEM,90,69.03,15,62.83,488469.68,2026-12-08,2026-12-12
+DDoS,Critical,Workstation,Jerean,SIEM,137,1.75,69,47.34,774287.65,2026-07-06,2026-07-08
+Phishing,Low,Workstation,Roman,SIEM,196,71.32,64,22.53,152010.8,2026-01-19,2026-01-20
+Malware,Low,Network,Kris,Email,182,49.49,4,34.09,611920.06,2026-06-26,2026-06-29
+Malware,High,Network,Ej,Endpoint,238,46.69,75,96.02,240225.31,2026-04-10,2026-04-12
+Ransomware,Medium,Server,Jerean,Endpoint,91,2.08,18,52.49,867536.71,2026-08-21,2026-08-25
+Ransomware,Low,Cloud,Kris,SIEM,19,62.15,42,40.67,327772.57,2026-03-17,2026-03-21
+Malware,High,Cloud,Ej,Firewall,227,11.33,30,52.62,329733.75,2026-09-22,2026-09-24
+DDoS,Medium,Cloud,Ryo,Email,127,60.45,15,78.12,598595.68,2026-10-11,2026-10-15
+Unauthorized Access,Critical,Database,Ryo,Firewall,205,2.1,70,34.67,184379.35,2026-07-25,2026-07-30
+Unauthorized Access,High,Workstation,Roman,Network,111,46.86,55,18.69,285603.75,2026-08-11,2026-08-16
+Malware,Critical,Network,Ej,Endpoint,185,31.87,53,58.91,417215.22,2026-02-21,2026-02-26
+Malware,Low,Cloud,Ryo,Endpoint,157,15.25,16,66.86,354284.23,2026-12-05,2026-12-06
+Malware,Low,Server,Ryo,Firewall,93,8.64,73,71.56,525352.34,2026-05-24,2026-05-26
+DDoS,Medium,Cloud,Roman,Email,129,32.25,34,88.32,600040.5,2026-03-10,2026-03-11
+Ransomware,High,Workstation,Kris,Endpoint,117,9.75,27,37.75,567100.79,2026-04-09,2026-04-13
+Malware,Critical,Workstation,Ryo,Firewall,217,35.54,13,8.46,654514.14,2026-01-25,2026-01-26
+Malware,Medium,Network,Jerean,Email,141,45.39,100,95.88,308441.77,2026-02-22,2026-02-26
+Phishing,Low,Database,Jerean,Firewall,170,59.74,27,44.07,127299.8,2026-05-31,2026-06-04
+DDoS,Low,Network,Kris,Email,154,49.18,73,62.7,761046.73,2026-05-24,2026-05-27
+Malware,High,Cloud,Ej,SIEM,111,5.63,69,66.96,850929.6,2026-02-26,2026-03-03
+Phishing,Critical,Server,Roman,Email,91,22.83,86,55.1,257749.23,2026-02-08,2026-02-12
+Unauthorized Access,High,Network,Jerean,Network,181,21.45,31,21.32,407684.86,2026-04-19,2026-04-22
+Malware,Critical,Database,Jerean,SIEM,72,65.97,3,75.76,499070.65,2026-06-30,2026-07-05
+Malware,Critical,Network,Kris,Firewall,225,62.61,30,80.57,533793.52,2026-02-11,2026-02-15
+Phishing,High,Workstation,Ej,SIEM,19,27.28,21,55.74,659830.68,2026-07-05,2026-07-09
+DDoS,Medium,Cloud,Ej,SIEM,69,6.05,99,49.37,42561.63,2026-08-11,2026-08-12
+Malware,High,Cloud,Kris,Firewall,58,64.48,6,12.28,721755.61,2026-05-02,2026-05-03
+Unauthorized Access,High,Cloud,Jerean,Firewall,162,64.06,92,9.31,62909.04,2026-05-13,2026-05-18
+Malware,Low,Cloud,Roman,Network,97,61.69,32,34.62,468820.28,2026-06-12,2026-06-16
+Unauthorized Access,Low,Cloud,Jerean,Firewall,24,61.0,42,31.77,827843.46,2026-08-03,2026-08-05
+Ransomware,High,Cloud,Ej,Endpoint,37,35.1,62,95.41,451764.1,2026-08-09,2026-08-10
+Ransomware,High,Server,Jerean,Endpoint,237,13.6,89,78.58,149940.66,2026-08-23,2026-08-28
+Unauthorized Access,Low,Database,Roman,Network,240,34.9,32,66.33,985048.81,2026-11-27,2026-12-01
+DDoS,Critical,Cloud,Ryo,Email,104,36.12,99,52.25,889396.18,2026-05-26,2026-05-30
+Malware,High,Database,Jerean,Email,218,35.79,86,17.57,771542.32,2026-08-27,2026-08-29
+Malware,Medium,Cloud,Kris,Endpoint,81,39.25,88,97.87,412100.09,2026-03-17,2026-03-22
+Ransomware,Medium,Network,Ryo,Firewall,139,19.29,39,38.13,184661.88,2026-01-09,2026-01-13
+Unauthorized Access,Medium,Cloud,Kris,Network,140,27.0,64,11.59,941469.77,2026-03-15,2026-03-16
+Malware,High,Workstation,Kris,Email,160,31.83,30,49.89,532818.78,2026-09-10,2026-09-12
+Malware,Critical,Server,Kris,Email,177,10.31,63,87.53,852503.1,2026-08-18,2026-08-23
+DDoS,Critical,Network,Jerean,SIEM,111,33.33,96,88.84,342752.91,2026-01-07,2026-01-09
+Phishing,Low,Network,Ej,Endpoint,205,58.54,31,2.09,335953.03,2026-06-23,2026-06-24
+Ransomware,High,Workstation,Ryo,Firewall,221,59.79,87,88.74,985554.94,2026-05-21,2026-05-26
+Ransomware,Critical,Cloud,Roman,Network,124,30.22,40,27.88,522311.22,2026-06-17,2026-06-19
+Phishing,High,Server,Ej,Email,212,37.84,33,4.86,141554.73,2026-06-19,2026-06-22
+Malware,Low,Network,Jerean,SIEM,78,3.39,63,84.93,220455.0,2026-10-10,2026-10-11
+DDoS,Low,Server,Kris,Endpoint,15,48.88,25,86.52,482462.34,2026-05-02,2026-05-03
+DDoS,Low,Network,Roman,Endpoint,35,29.73,36,60.03,43428.44,2026-07-13,2026-07-14
+Ransomware,Medium,Cloud,Ryo,Network,16,32.63,24,57.87,463071.45,2026-01-05,2026-01-08
+DDoS,High,Network,Ej,Email,128,63.03,95,81.5,419521.9,2026-01-29,2026-02-01
+Phishing,Low,Network,Ej,Network,227,33.79,58,78.84,779556.93,2026-06-14,2026-06-18
+Malware,High,Database,Roman,Network,82,2.5,39,89.12,355587.02,2026-12-05,2026-12-07
+Phishing,Medium,Cloud,Jerean,SIEM,183,17.15,46,55.72,982566.21,2026-05-16,2026-05-20
+Unauthorized Access,Medium,Workstation,Ryo,Endpoint,176,34.77,77,96.8,181589.15,2026-12-31,2027-01-02
+Ransomware,Low,Workstation,Roman,Firewall,100,31.13,10,99.62,591395.7,2026-11-17,2026-11-20
+DDoS,Low,Cloud,Kris,Endpoint,54,62.09,87,12.54,90609.6,2026-12-08,2026-12-11
+Unauthorized Access,Critical,Workstation,Ryo,Endpoint,121,39.49,82,85.1,734130.12,2026-05-25,2026-05-29
+DDoS,High,Cloud,Ej,SIEM,21,49.96,32,50.48,994758.93,2026-11-23,2026-11-28
+Malware,Low,Workstation,Roman,Firewall,167,34.32,97,39.37,819319.5,2026-08-05,2026-08-09
+Malware,Critical,Database,Ej,Email,133,32.22,36,61.69,556147.84,2026-10-28,2026-10-30
+Malware,High,Workstation,Ej,Firewall,161,32.69,28,6.54,485256.62,2026-05-12,2026-05-16
+DDoS,Low,Network,Ej,Email,183,30.18,16,51.14,835194.93,2026-10-19,2026-10-20
+Unauthorized Access,Critical,Cloud,Jerean,Firewall,68,39.24,16,87.22,936038.11,2026-03-11,2026-03-13
+Malware,Critical,Server,Ej,Network,136,18.78,18,22.13,989217.32,2026-09-09,2026-09-11
+Unauthorized Access,High,Server,Kris,Firewall,91,64.26,8,43.21,397142.69,2026-10-02,2026-10-07
+DDoS,Critical,Cloud,Kris,SIEM,160,24.65,80,94.01,990926.56,2026-12-30,2027-01-02
+Unauthorized Access,High,Database,Ryo,Email,20,11.47,75,43.43,156770.33,2026-07-01,2026-07-03
+DDoS,High,Workstation,Ej,Endpoint,67,7.86,70,36.48,254296.23,2026-06-16,2026-06-19
+DDoS,High,Database,Ej,SIEM,80,1.95,1,44.61,89927.11,2026-04-01,2026-04-05
+Ransomware,Medium,Server,Roman,Email,185,31.02,62,52.43,272466.78,2026-07-21,2026-07-22
+DDoS,Critical,Cloud,Jerean,Email,89,14.32,76,63.57,768169.61,2026-12-12,2026-12-17
+DDoS,High,Cloud,Ryo,Endpoint,113,2.54,38,80.27,853071.43,2026-01-19,2026-01-22
+Phishing,Low,Database,Ej,Network,21,37.92,92,45.76,779113.75,2026-02-08,2026-02-10
+Malware,Medium,Database,Roman,SIEM,172,49.28,45,81.93,631434.71,2026-05-06,2026-05-09
+Ransomware,Medium,Workstation,Jerean,Endpoint,145,7.09,58,53.84,514452.55,2026-06-22,2026-06-24
+Ransomware,Critical,Network,Ryo,Endpoint,184,33.73,81,34.51,708995.58,2026-05-21,2026-05-24
+Ransomware,High,Network,Ryo,Network,62,53.8,1,66.14,391442.72,2026-08-30,2026-09-01
+Phishing,Critical,Workstation,Ej,SIEM,228,70.99,32,72.05,841467.04,2026-08-08,2026-08-12
+DDoS,Medium,Network,Ryo,Endpoint,169,48.37,8,56.25,677512.9,2026-05-06,2026-05-08
+Malware,High,Server,Roman,Network,83,18.38,40,6.6,698106.89,2026-02-27,2026-03-01
+Unauthorized Access,Low,Network,Ryo,SIEM,208,51.88,56,17.82,536400.06,2026-05-28,2026-05-29
+DDoS,High,Workstation,Kris,Firewall,65,43.45,63,29.24,885343.76,2026-11-13,2026-11-15
+Phishing,Medium,Network,Roman,Email,117,16.04,88,28.98,252762.72,2026-12-27,2026-12-28
+DDoS,Low,Cloud,Jerean,Network,125,61.43,74,67.67,381766.51,2026-01-01,2026-01-06
+DDoS,High,Database,Jerean,Email,211,31.35,74,2.82,777864.93,2026-12-14,2026-12-15
+Phishing,Low,Server,Ej,Firewall,38,69.3,36,75.81,493256.15,2026-07-09,2026-07-13
+Ransomware,Low,Cloud,Ej,Endpoint,74,52.33,89,27.27,889324.8,2026-07-10,2026-07-11
+Ransomware,Medium,Cloud,Kris,Endpoint,21,46.76,57,31.69,347052.92,2026-11-08,2026-11-13
+Malware,Low,Workstation,Jerean,SIEM,24,52.71,74,53.26,369960.84,2026-04-27,2026-05-01
+Malware,Critical,Database,Jerean,Network,205,34.94,83,22.38,888847.05,2026-05-14,2026-05-17
+Ransomware,Medium,Database,Jerean,Network,63,36.87,45,88.56,464905.95,2026-02-27,2026-03-02
+Unauthorized Access,Critical,Server,Jerean,SIEM,73,61.44,79,9.45,516608.46,2026-02-13,2026-02-14
+DDoS,Low,Workstation,Ryo,Email,219,49.35,80,44.99,333430.95,2026-06-22,2026-06-23
+Unauthorized Access,Critical,Server,Roman,Endpoint,165,64.7,2,85.09,277393.27,2026-06-09,2026-06-14
+DDoS,High,Network,Roman,Endpoint,106,64.25,93,61.97,656292.76,2026-06-22,2026-06-27
+Ransomware,Low,Cloud,Kris,Network,124,70.33,68,29.94,120720.82,2026-11-13,2026-11-15
+Malware,High,Server,Ryo,Network,210,50.72,50,42.66,879393.37,2026-10-30,2026-11-04
+Malware,Critical,Cloud,Jerean,SIEM,149,36.66,29,70.96,779423.93,2026-05-29,2026-05-31
+Unauthorized Access,High,Workstation,Jerean,Firewall,61,12.81,95,97.35,191557.52,2026-03-21,2026-03-25
+Malware,Low,Network,Ej,Email,87,51.08,81,89.42,694325.93,2026-08-01,2026-08-02
+Ransomware,High,Workstation,Ej,Firewall,229,21.7,10,34.9,603030.29,2026-07-22,2026-07-26
+Unauthorized Access,Critical,Network,Kris,Firewall,133,21.09,27,99.82,185350.52,2026-09-09,2026-09-14
+DDoS,Critical,Network,Jerean,Network,17,17.92,15,1.35,273930.3,2026-08-17,2026-08-21
+Malware,Critical,Cloud,Kris,Network,159,63.13,60,3.74,409577.52,2026-06-13,2026-06-17
+Phishing,Low,Workstation,Ryo,Network,202,62.63,31,82.56,699543.49,2026-08-15,2026-08-19
+Malware,Critical,Workstation,Roman,Firewall,191,45.8,21,20.75,639084.69,2026-05-27,2026-06-01
+DDoS,Low,Server,Jerean,Email,10,34.58,60,7.02,532702.61,2026-01-20,2026-01-24
+Unauthorized Access,High,Workstation,Ryo,Network,101,48.72,58,24.48,768642.13,2026-02-16,2026-02-18
+DDoS,Critical,Server,Jerean,Endpoint,98,44.11,41,43.18,758179.8,2026-08-21,2026-08-26
+Phishing,High,Database,Ej,Email,114,30.52,46,73.33,618241.29,2026-11-01,2026-11-05
+Ransomware,Medium,Database,Kris,Endpoint,231,27.95,45,62.81,787203.09,2026-01-14,2026-01-19
+Malware,High,Database,Ej,Email,155,28.18,26,24.52,334929.11,2026-05-23,2026-05-26
+Unauthorized Access,Medium,Workstation,Roman,Network,142,42.83,51,50.82,881368.28,2026-01-01,2026-01-03
+Ransomware,High,Workstation,Ej,SIEM,55,46.98,36,92.7,615295.18,2026-02-23,2026-02-27
+DDoS,Low,Server,Jerean,Network,151,33.07,52,81.69,822541.15,2026-09-16,2026-09-19
+Unauthorized Access,High,Network,Ej,Firewall,55,69.78,81,33.0,546732.83,2026-05-24,2026-05-27
+Ransomware,Low,Server,Jerean,Firewall,224,6.95,51,98.24,219219.81,2026-01-12,2026-01-17
+Unauthorized Access,Low,Database,Roman,Email,91,25.64,3,71.15,542867.72,2026-11-26,2026-11-29
+Phishing,Critical,Server,Ej,Firewall,72,30.75,14,7.18,371740.55,2026-08-12,2026-08-14
+Phishing,Low,Network,Kris,Network,88,2.2,49,4.48,697801.54,2026-09-29,2026-10-01
+Malware,Medium,Workstation,Kris,Endpoint,215,26.91,77,17.67,476318.0,2026-12-24,2026-12-25
+Malware,Critical,Server,Kris,Network,46,20.43,91,73.06,836276.69,2026-06-05,2026-06-07
+Phishing,Critical,Database,Ej,Email,223,36.93,1,19.19,678394.44,2026-01-08,2026-01-11
+Unauthorized Access,High,Database,Ej,Firewall,61,24.89,57,51.64,684859.89,2026-05-02,2026-05-04
+Phishing,Low,Workstation,Ej,Endpoint,230,52.56,17,10.23,217938.18,2026-12-14,2026-12-19
+Malware,Low,Server,Jerean,SIEM,200,37.21,50,92.17,984265.52,2026-06-13,2026-06-14
+Phishing,Medium,Network,Roman,Endpoint,170,10.21,98,35.05,841833.53,2026-03-31,2026-04-03
+Phishing,High,Workstation,Kris,Endpoint,66,54.25,14,90.91,789215.88,2026-05-16,2026-05-17
+Unauthorized Access,High,Server,Jerean,Network,11,8.05,59,94.54,330885.01,2026-07-05,2026-07-08
+Ransomware,Critical,Cloud,Kris,SIEM,116,60.57,81,1.61,536096.02,2026-11-12,2026-11-17
+Malware,Critical,Database,Jerean,Email,203,67.13,3,46.95,137966.08,2026-06-27,2026-06-28
+Unauthorized Access,Critical,Network,Ej,Email,182,23.89,98,3.44,538937.5,2026-01-28,2026-02-01
+Phishing,Medium,Network,Kris,Endpoint,184,66.76,40,90.96,146743.36,2026-08-08,2026-08-11
+Phishing,Medium,Network,Ej,Endpoint,30,57.3,89,52.32,553484.81,2026-12-23,2026-12-27
+Ransomware,Critical,Database,Kris,Firewall,158,66.49,66,8.42,649073.16,2026-02-10,2026-02-11
+Malware,High,Server,Ryo,SIEM,23,48.31,34,11.92,390805.77,2026-08-16,2026-08-20
+Malware,Medium,Workstation,Jerean,Endpoint,13,17.73,90,38.97,499046.33,2026-07-11,2026-07-15
+DDoS,High,Server,Ryo,Firewall,65,64.51,95,94.08,875777.73,2026-05-25,2026-05-26
+Malware,High,Workstation,Jerean,SIEM,24,14.08,9,69.6,109454.58,2026-07-20,2026-07-25
+Ransomware,Low,Network,Roman,Email,110,16.13,94,86.89,791941.16,2026-07-31,2026-08-04
+DDoS,Critical,Server,Kris,Firewall,54,20.25,84,37.28,171583.8,2026-08-08,2026-08-12
+DDoS,Low,Network,Roman,SIEM,212,22.6,21,5.28,37671.27,2026-08-28,2026-09-02
+Phishing,Critical,Cloud,Roman,Firewall,85,37.53,93,97.46,186389.03,2026-02-15,2026-02-19
+Phishing,Critical,Network,Jerean,Endpoint,154,51.66,25,2.7,765278.15,2026-02-04,2026-02-08
+Malware,High,Network,Ryo,Network,145,66.76,44,94.82,405720.95,2026-09-10,2026-09-14
+DDoS,Critical,Workstation,Ej,Email,144,7.28,25,37.5,872648.0,2026-03-23,2026-03-25
+Phishing,High,Cloud,Jerean,Endpoint,14,68.76,9,2.0,525182.83,2026-09-13,2026-09-18
+Ransomware,High,Network,Ej,Endpoint,69,66.41,62,69.23,23228.1,2026-07-16,2026-07-20
+Phishing,Critical,Network,Roman,SIEM,228,4.83,26,98.07,716996.9,2026-10-30,2026-11-04
+Phishing,High,Cloud,Ej,Firewall,162,26.58,57,96.6,111122.68,2026-01-10,2026-01-13
+DDoS,High,Cloud,Ryo,Email,12,58.73,37,16.93,789590.25,2026-11-08,2026-11-11
+DDoS,High,Server,Jerean,Endpoint,153,44.42,16,18.94,168934.45,2026-10-13,2026-10-17
+Unauthorized Access,Medium,Workstation,Ryo,SIEM,26,56.32,37,56.99,346100.94,2026-08-30,2026-09-04
+Ransomware,High,Cloud,Ryo,Email,22,52.05,76,64.09,761510.16,2026-09-08,2026-09-13
+DDoS,Medium,Cloud,Jerean,Firewall,198,36.27,24,74.2,954277.13,2026-12-31,2027-01-05
+Malware,Medium,Database,Ryo,Endpoint,180,3.93,26,18.92,372062.52,2026-01-05,2026-01-07
+Ransomware,High,Cloud,Kris,Endpoint,176,42.48,20,95.94,829570.82,2026-04-29,2026-05-02
+Ransomware,High,Workstation,Kris,Endpoint,13,4.45,9,64.24,191601.47,2026-10-16,2026-10-21
+DDoS,Medium,Network,Kris,Email,199,43.86,87,84.86,807372.59,2026-03-06,2026-03-11
+Ransomware,Medium,Network,Ej,Email,58,57.83,29,54.47,657836.57,2026-05-26,2026-05-28
+DDoS,High,Network,Ryo,Email,30,42.53,31,42.01,193550.76,2026-08-12,2026-08-14
+Phishing,High,Network,Jerean,Email,217,71.79,19,97.74,303201.46,2026-08-27,2026-09-01
+Unauthorized Access,Critical,Database,Jerean,SIEM,98,33.37,20,58.63,132639.12,2026-06-26,2026-06-27
+Phishing,Medium,Cloud,Ej,Network,224,54.17,87,86.82,383584.04,2026-09-24,2026-09-29
+DDoS,Medium,Network,Jerean,SIEM,104,48.37,27,95.38,204444.99,2026-12-07,2026-12-12
+DDoS,Critical,Server,Kris,Endpoint,30,71.39,94,67.86,644353.96,2026-10-09,2026-10-11
+Phishing,Medium,Network,Ryo,SIEM,38,51.64,85,55.34,994510.6,2026-03-04,2026-03-06
+Malware,Low,Cloud,Jerean,Firewall,12,12.65,44,1.35,12997.15,2026-08-05,2026-08-10
+Malware,Medium,Network,Jerean,Email,142,68.84,35,4.96,541378.89,2026-12-08,2026-12-13
+Malware,Critical,Database,Roman,Firewall,52,48.41,71,20.88,574092.93,2026-11-11,2026-11-16
+DDoS,Low,Workstation,Roman,Firewall,187,5.21,22,19.41,914294.58,2026-10-10,2026-10-12
+Ransomware,High,Workstation,Roman,Endpoint,111,47.69,74,26.22,506499.33,2026-06-26,2026-07-01
+DDoS,Critical,Cloud,Ryo,Email,58,63.7,87,31.19,544157.72,2026-04-08,2026-04-13
+Ransomware,Critical,Workstation,Kris,Firewall,210,41.97,15,36.65,472181.15,2026-04-15,2026-04-19
+Phishing,High,Workstation,Kris,Endpoint,172,26.14,94,42.63,269635.4,2026-04-09,2026-04-10
+Unauthorized Access,Critical,Server,Kris,Email,123,59.28,98,10.79,56973.1,2026-11-07,2026-11-10
+Ransomware,Medium,Cloud,Ryo,Network,147,56.56,13,5.19,409249.02,2026-01-06,2026-01-07
+Malware,High,Cloud,Ryo,Endpoint,85,39.64,4,67.72,53538.88,2026-07-16,2026-07-20
+DDoS,Critical,Workstation,Roman,SIEM,150,11.96,82,54.2,550941.98,2026-12-17,2026-12-20
+Phishing,High,Workstation,Jerean,Email,100,18.82,56,44.97,307986.35,2026-05-13,2026-05-18
+Malware,High,Workstation,Ej,Firewall,106,53.43,23,63.81,534068.8,2026-12-24,2026-12-28
+Phishing,High,Database,Ej,Firewall,155,58.23,97,82.94,135162.67,2026-09-16,2026-09-21
+Unauthorized Access,Low,Network,Jerean,SIEM,66,20.83,98,43.34,932697.34,2026-01-23,2026-01-25
+DDoS,Critical,Database,Roman,SIEM,50,27.13,34,64.47,894626.72,2026-02-22,2026-02-26
+DDoS,Low,Cloud,Jerean,Firewall,91,6.51,100,95.4,190806.51,2026-06-14,2026-06-16
+Unauthorized Access,Critical,Server,Jerean,Email,103,51.66,99,84.12,344100.84,2026-07-21,2026-07-25
+DDoS,Medium,Network,Ej,Endpoint,43,1.25,17,43.17,613879.28,2026-03-24,2026-03-28
+Ransomware,Medium,Server,Roman,SIEM,147,4.3,28,64.83,96590.52,2026-05-25,2026-05-27
+Phishing,Medium,Cloud,Ryo,SIEM,57,1.31,14,18.53,355213.25,2026-03-26,2026-03-29
+Malware,Critical,Cloud,Ej,SIEM,220,46.82,34,56.49,251861.17,2026-03-19,2026-03-20
+Unauthorized Access,High,Server,Ryo,Network,196,30.63,75,98.15,915601.21,2026-01-01,2026-01-06
+Ransomware,High,Server,Roman,Email,195,22.13,57,52.31,852658.13,2026-02-20,2026-02-24
+Malware,Low,Server,Jerean,Email,224,65.8,77,92.84,580252.91,2026-06-22,2026-06-27
+Malware,Low,Cloud,Kris,Email,84,14.69,97,41.33,520825.99,2026-07-24,2026-07-26
+Unauthorized Access,Medium,Workstation,Kris,Email,20,28.65,55,99.89,930795.07,2026-09-17,2026-09-22
+Ransomware,Low,Server,Roman,Email,108,67.76,66,58.34,932495.36,2026-10-15,2026-10-17
+Malware,Critical,Network,Kris,Firewall,235,31.32,98,5.18,969360.8,2026-02-03,2026-02-08
+Malware,Critical,Cloud,Ryo,SIEM,74,40.38,93,59.09,126253.51,2026-12-14,2026-12-15
+Ransomware,Low,Database,Kris,Firewall,198,6.7,37,28.18,161397.25,2026-04-05,2026-04-06
+DDoS,Low,Database,Roman,Network,145,57.1,68,4.22,677059.96,2026-03-13,2026-03-14
+Malware,Low,Network,Roman,Endpoint,112,31.02,76,82.26,541893.04,2026-02-08,2026-02-09
+Phishing,Low,Workstation,Ryo,SIEM,51,57.84,26,28.3,19447.44,2026-06-03,2026-06-04
+Ransomware,Medium,Server,Kris,Network,13,19.02,61,79.86,62913.06,2026-09-07,2026-09-08
+Malware,Medium,Cloud,Kris,Firewall,195,31.0,92,29.53,888192.3,2026-06-11,2026-06-13
+Unauthorized Access,Low,Server,Jerean,Endpoint,38,56.84,67,20.24,869001.92,2026-04-28,2026-05-02
+Phishing,Critical,Cloud,Ej,Network,213,70.15,84,97.42,357913.65,2026-09-16,2026-09-21
+Malware,Medium,Database,Roman,Endpoint,223,5.23,74,36.8,891159.57,2026-11-02,2026-11-03
+Phishing,Critical,Server,Jerean,Network,161,58.68,52,60.54,594081.4,2026-09-25,2026-09-27
+Phishing,High,Network,Roman,Firewall,169,22.35,18,61.39,806099.74,2026-02-23,2026-02-25
+DDoS,Critical,Workstation,Jerean,Endpoint,175,40.1,53,56.49,428003.64,2026-08-24,2026-08-26
+Phishing,Low,Network,Ej,Network,90,21.6,63,91.55,114284.93,2026-08-10,2026-08-14
+DDoS,High,Workstation,Jerean,Firewall,119,44.55,53,67.77,434293.34,2026-09-08,2026-09-13
+Ransomware,Medium,Server,Roman,SIEM,68,26.12,27,40.97,457842.5,2026-11-09,2026-11-13
+DDoS,Medium,Server,Kris,Firewall,156,24.69,31,86.38,551393.25,2026-04-22,2026-04-25
+Unauthorized Access,High,Workstation,Roman,Firewall,203,3.69,91,18.93,106477.13,2026-09-12,2026-09-14
+Malware,Critical,Database,Ryo,SIEM,38,11.43,1,54.88,991410.46,2026-10-30,2026-11-02
+Ransomware,Medium,Cloud,Ryo,Firewall,180,66.11,6,95.1,244892.68,2026-07-26,2026-07-27
+Ransomware,Low,Network,Ryo,SIEM,16,71.88,11,62.91,199353.85,2026-08-17,2026-08-18
+Unauthorized Access,High,Network,Ryo,SIEM,155,56.42,34,81.88,527276.12,2026-12-07,2026-12-11
+DDoS,Low,Network,Ej,SIEM,211,21.36,84,65.7,537670.97,2026-03-07,2026-03-12
+Malware,High,Server,Kris,Network,101,29.57,63,84.1,440380.92,2026-03-16,2026-03-19
+DDoS,Medium,Network,Kris,Endpoint,125,53.5,53,94.5,772120.25,2026-04-13,2026-04-18
+Phishing,Critical,Cloud,Roman,Network,145,69.76,85,28.02,517137.75,2026-07-11,2026-07-15
+DDoS,High,Cloud,Jerean,SIEM,91,33.34,85,17.8,610085.76,2026-09-09,2026-09-10
+Ransomware,High,Workstation,Roman,Endpoint,106,59.9,18,48.92,724022.64,2026-08-14,2026-08-19
+Malware,Low,Server,Roman,Endpoint,100,70.23,21,70.48,26000.08,2026-10-21,2026-10-26
+DDoS,Medium,Cloud,Roman,SIEM,177,63.02,19,23.49,571073.54,2026-11-02,2026-11-03
+Malware,Low,Database,Roman,Endpoint,118,17.13,4,1.41,884310.28,2026-04-08,2026-04-11
+Malware,Medium,Server,Kris,Endpoint,231,1.57,77,34.95,18371.35,2026-12-04,2026-12-05
+Phishing,Low,Server,Jerean,Network,197,35.94,82,96.92,405776.92,2026-10-13,2026-10-18
+Phishing,High,Cloud,Roman,Endpoint,51,38.73,29,69.8,926301.22,2026-12-01,2026-12-04
+Ransomware,Low,Database,Kris,SIEM,62,15.29,25,40.73,353801.25,2026-12-13,2026-12-16
+Unauthorized Access,Critical,Workstation,Roman,Email,137,21.21,56,20.07,459270.1,2026-11-04,2026-11-05
+Malware,Medium,Cloud,Ryo,Email,125,55.33,77,36.25,981559.85,2026-09-06,2026-09-11
+Unauthorized Access,Medium,Database,Roman,Email,209,34.39,63,17.81,200124.54,2026-06-15,2026-06-19
+Ransomware,High,Server,Roman,SIEM,122,23.53,27,11.52,66189.93,2026-12-01,2026-12-06
+Malware,Medium,Database,Ej,Email,9,45.21,60,90.77,859563.17,2026-01-30,2026-02-01
+Malware,Critical,Server,Ryo,Network,192,47.35,83,99.77,868596.88,2026-09-04,2026-09-08
+Unauthorized Access,Low,Cloud,Jerean,SIEM,100,55.63,49,17.25,472605.76,2026-04-16,2026-04-19
+DDoS,High,Cloud,Roman,SIEM,25,12.13,65,6.4,514692.97,2026-02-20,2026-02-24
+Phishing,Critical,Network,Jerean,SIEM,156,53.65,38,33.64,835970.56,2026-03-22,2026-03-25
+DDoS,Medium,Network,Ryo,Endpoint,132,43.56,83,46.7,738820.94,2026-05-13,2026-05-16
+Unauthorized Access,Medium,Network,Roman,Endpoint,128,5.09,52,21.28,265883.85,2026-10-12,2026-10-16
+Phishing,Critical,Cloud,Ej,Endpoint,150,56.2,1,30.84,17876.46,2026-05-18,2026-05-21
+DDoS,Low,Workstation,Kris,Firewall,25,28.2,40,20.89,480220.46,2026-07-03,2026-07-06
+Phishing,Low,Cloud,Ej,Network,58,24.46,81,77.65,859053.41,2026-11-26,2026-11-28
+Malware,High,Database,Ej,SIEM,142,32.81,21,71.55,895938.84,2026-09-30,2026-10-05
+DDoS,Medium,Cloud,Kris,SIEM,156,25.58,86,63.86,956269.97,2026-12-06,2026-12-11
+Phishing,Critical,Cloud,Kris,Endpoint,108,25.02,15,39.33,879683.67,2026-03-10,2026-03-12
+Phishing,Low,Server,Kris,SIEM,115,58.37,50,91.0,580463.51,2026-02-03,2026-02-07
+Phishing,High,Server,Roman,SIEM,217,9.84,48,96.98,445160.99,2026-09-19,2026-09-20
+DDoS,Medium,Server,Jerean,Email,221,69.91,32,18.19,775075.0,2026-02-22,2026-02-23
+Ransomware,Medium,Cloud,Jerean,SIEM,120,40.4,49,23.08,740081.81,2026-07-24,2026-07-25
+DDoS,High,Workstation,Kris,Firewall,192,13.99,68,53.04,538605.29,2026-05-06,2026-05-08
+Unauthorized Access,High,Database,Ej,Endpoint,61,10.32,45,10.03,88240.05,2026-08-23,2026-08-25
+DDoS,Low,Database,Ryo,Network,132,43.0,32,44.21,926155.27,2026-02-12,2026-02-15
+Phishing,Critical,Workstation,Kris,Network,155,45.94,4,58.6,456146.93,2026-08-28,2026-08-29
+Malware,Medium,Workstation,Ej,Email,154,4.76,65,52.69,363970.45,2026-04-21,2026-04-25
+DDoS,Critical,Database,Ej,Network,200,18.25,97,33.76,629937.83,2026-09-06,2026-09-10
+DDoS,Medium,Network,Roman,Network,166,57.48,71,54.7,674164.12,2026-05-31,2026-06-01
+Phishing,Medium,Server,Roman,Endpoint,124,4.52,73,95.92,211477.23,2026-07-02,2026-07-03
+Malware,Critical,Server,Jerean,Endpoint,74,61.71,65,21.4,837101.91,2026-12-02,2026-12-03
+Malware,High,Database,Jerean,Firewall,160,47.73,80,65.83,290647.16,2026-04-05,2026-04-07
+Unauthorized Access,Low,Workstation,Ryo,Email,99,31.84,18,5.3,187497.24,2026-01-08,2026-01-10
+DDoS,Medium,Network,Ryo,Network,103,25.6,54,7.58,406993.45,2026-12-26,2026-12-28
+Malware,High,Database,Ryo,Firewall,171,2.37,47,55.63,730829.52,2026-07-03,2026-07-08
+Malware,Medium,Server,Ryo,Email,46,59.59,6,11.39,965492.72,2026-10-08,2026-10-12
+Ransomware,Low,Cloud,Ej,Network,155,11.13,66,3.21,809471.98,2026-07-14,2026-07-18
+Ransomware,Medium,Workstation,Ej,Network,74,22.98,9,17.98,940408.03,2026-12-18,2026-12-21
+Malware,Low,Cloud,Jerean,Endpoint,212,41.41,68,56.92,141465.2,2026-07-14,2026-07-16
+Unauthorized Access,Low,Database,Roman,SIEM,6,18.47,23,70.63,72105.62,2026-06-04,2026-06-09
+Malware,Medium,Server,Roman,Email,156,36.3,43,21.05,558147.06,2026-04-03,2026-04-08
+Phishing,Medium,Network,Kris,Network,149,58.46,51,67.16,291007.19,2026-06-09,2026-06-13
+DDoS,Low,Cloud,Ej,Email,113,34.41,72,19.07,828226.92,2026-03-02,2026-03-04
+Unauthorized Access,High,Network,Ryo,Firewall,69,68.38,25,61.73,672315.88,2026-05-02,2026-05-05
+Phishing,Critical,Server,Ryo,Firewall,74,61.17,80,41.78,970757.44,2026-02-20,2026-02-22
+Unauthorized Access,Low,Cloud,Kris,SIEM,73,24.65,35,65.73,255537.56,2026-10-04,2026-10-05
+Phishing,Medium,Network,Roman,Network,125,29.4,17,99.51,486298.33,2026-01-05,2026-01-07
+DDoS,Medium,Network,Ryo,Endpoint,113,31.06,18,93.84,501739.24,2026-04-02,2026-04-03
+DDoS,High,Cloud,Roman,Network,64,45.46,27,1.42,239937.62,2026-06-19,2026-06-20
+Ransomware,Critical,Server,Kris,Email,182,21.36,15,88.66,590503.31,2026-11-13,2026-11-16
+Phishing,Low,Network,Roman,Firewall,97,69.82,81,7.58,443842.7,2026-01-22,2026-01-26
+Ransomware,Low,Database,Roman,Email,16,44.22,69,95.35,447274.83,2026-11-22,2026-11-24
+Phishing,Critical,Cloud,Roman,SIEM,107,29.36,80,28.9,363373.91,2026-01-01,2026-01-02
+Ransomware,Low,Workstation,Ryo,Firewall,179,46.8,15,38.82,17912.42,2026-05-13,2026-05-15
+DDoS,Critical,Workstation,Jerean,Endpoint,199,29.07,42,10.07,522573.14,2026-08-21,2026-08-25
+Unauthorized Access,Medium,Server,Ej,Firewall,116,59.06,34,12.12,335912.59,2026-01-12,2026-01-16
+Ransomware,Critical,Database,Roman,Network,69,41.32,48,72.95,2318.55,2026-12-12,2026-12-17
+Phishing,Low,Network,Roman,Network,159,3.98,83,94.49,308635.76,2026-02-15,2026-02-19
+Phishing,Critical,Workstation,Roman,Firewall,52,13.55,8,61.46,279349.7,2026-02-03,2026-02-06
+DDoS,High,Server,Jerean,SIEM,92,62.41,10,71.87,394054.71,2026-03-19,2026-03-20
+Phishing,Medium,Database,Kris,Network,66,40.97,5,76.44,132720.14,2026-08-06,2026-08-11
+Malware,Medium,Database,Ryo,Network,48,68.47,48,27.02,508176.14,2026-10-28,2026-10-31
+Unauthorized Access,Critical,Server,Jerean,Endpoint,151,6.14,26,5.48,692747.91,2026-03-14,2026-03-16
+Ransomware,Low,Server,Roman,Firewall,191,21.96,86,1.19,630555.38,2026-10-09,2026-10-10
+Unauthorized Access,High,Network,Jerean,Network,140,14.74,23,35.71,803951.19,2026-09-06,2026-09-10
+DDoS,Medium,Server,Jerean,SIEM,59,40.32,62,24.9,452556.28,2026-02-16,2026-02-17
+Ransomware,Medium,Network,Jerean,Email,112,28.18,13,7.17,519572.64,2026-05-01,2026-05-03
+Ransomware,Low,Network,Kris,Firewall,51,12.17,9,18.77,810591.54,2026-08-02,2026-08-07
+Malware,Low,Cloud,Ej,Endpoint,6,46.64,20,13.33,428273.47,2026-08-27,2026-09-01
+DDoS,High,Database,Ryo,Network,226,39.08,92,91.57,701897.75,2026-02-25,2026-03-02
+Phishing,Critical,Database,Kris,SIEM,226,20.51,57,14.89,435167.77,2026-12-16,2026-12-20
+Malware,Low,Database,Kris,Firewall,117,35.06,24,54.23,418318.46,2026-04-17,2026-04-20
+Malware,Critical,Cloud,Ej,SIEM,171,53.95,33,59.72,760445.42,2026-11-15,2026-11-18
+Unauthorized Access,High,Network,Kris,SIEM,177,15.57,20,54.81,175662.08,2026-02-17,2026-02-18
+Unauthorized Access,Critical,Network,Jerean,Endpoint,164,21.8,60,10.81,339247.39,2026-03-02,2026-03-06
+Unauthorized Access,Medium,Server,Jerean,Firewall,197,25.57,48,32.56,224948.1,2026-12-03,2026-12-08
+Malware,Critical,Cloud,Roman,Network,170,54.02,64,6.08,359750.83,2026-01-26,2026-01-31
+Phishing,High,Server,Kris,Endpoint,209,61.13,30,40.17,231144.45,2026-10-19,2026-10-21
+Ransomware,High,Cloud,Roman,Network,15,27.72,73,19.67,579826.23,2026-09-14,2026-09-16
+Unauthorized Access,High,Server,Ryo,Email,142,22.06,17,56.6,798372.63,2026-01-08,2026-01-13
+Phishing,Critical,Workstation,Jerean,SIEM,116,64.15,100,69.59,786826.45,2026-04-23,2026-04-28
+DDoS,Medium,Database,Ryo,Email,191,71.95,14,53.68,365136.46,2026-12-21,2026-12-25
+Unauthorized Access,Low,Database,Ej,SIEM,94,48.6,19,43.99,988771.65,2026-09-10,2026-09-13
+Ransomware,Medium,Network,Jerean,Endpoint,59,71.29,71,39.35,594260.51,2026-06-29,2026-07-01
+DDoS,Critical,Workstation,Ryo,Network,152,47.86,59,84.33,400000.9,2026-07-26,2026-07-29
+DDoS,Critical,Database,Ej,Network,213,53.08,67,22.72,835703.74,2026-10-30,2026-11-03
+Ransomware,Low,Network,Ryo,Endpoint,21,28.59,97,73.69,730144.14,2026-05-07,2026-05-12
+Unauthorized Access,Critical,Workstation,Ej,Firewall,72,31.74,44,75.99,749526.06,2026-02-25,2026-02-28
+Malware,High,Database,Ej,Email,137,11.23,32,42.5,196943.21,2026-08-02,2026-08-07
+Ransomware,High,Server,Jerean,Email,192,59.42,11,30.43,468855.98,2026-01-14,2026-01-19
+Ransomware,High,Cloud,Roman,Network,155,67.11,2,47.58,861966.3,2026-01-28,2026-01-29
+Ransomware,High,Workstation,Ej,Network,178,45.26,90,10.23,504533.97,2026-03-19,2026-03-22
+DDoS,High,Network,Ej,Network,56,25.4,68,5.55,683769.29,2026-08-04,2026-08-07
+Phishing,Critical,Workstation,Jerean,Endpoint,142,11.94,17,12.05,588345.8,2026-12-31,2027-01-05
+Malware,Low,Network,Roman,Firewall,178,19.83,81,19.53,842514.43,2026-06-03,2026-06-07
+Unauthorized Access,Low,Workstation,Kris,Email,160,19.13,92,50.91,285276.28,2026-01-14,2026-01-15
+Unauthorized Access,High,Network,Kris,SIEM,101,44.56,94,85.06,575899.8,2026-07-06,2026-07-11
+Phishing,Critical,Database,Roman,Endpoint,175,68.1,40,24.33,124111.43,2026-11-08,2026-11-10
+Ransomware,Medium,Server,Ryo,Email,158,4.43,87,93.58,690520.57,2026-01-07,2026-01-09
+Malware,Medium,Database,Jerean,Firewall,187,1.07,46,95.54,732235.87,2026-01-03,2026-01-04
+Unauthorized Access,Critical,Server,Roman,Endpoint,52,43.61,88,95.93,43794.48,2026-04-21,2026-04-25
+Unauthorized Access,High,Database,Kris,Email,33,21.17,93,83.92,676115.17,2026-08-26,2026-08-31
+Ransomware,Low,Database,Ej,Endpoint,31,63.52,4,37.02,415275.46,2026-12-29,2027-01-01
+Phishing,Critical,Workstation,Kris,Email,150,24.23,38,8.2,124972.78,2026-08-27,2026-08-28
+Malware,Medium,Cloud,Ej,Email,108,21.57,63,57.31,420487.64,2026-10-01,2026-10-05
+Phishing,Medium,Network,Jerean,Firewall,64,20.14,29,56.31,195038.7,2026-10-21,2026-10-24
+Phishing,Medium,Network,Ej,SIEM,206,11.28,19,85.15,416143.97,2026-08-15,2026-08-17
+Malware,High,Network,Roman,Firewall,110,42.29,91,99.6,384954.69,2026-01-15,2026-01-17
+Malware,Medium,Server,Ej,Email,73,12.94,29,51.31,738653.25,2026-07-11,2026-07-14
+Unauthorized Access,Critical,Network,Ryo,Endpoint,206,31.15,100,35.18,774441.34,2026-04-29,2026-04-30
+Unauthorized Access,Critical,Network,Roman,Firewall,118,33.73,35,19.4,607421.63,2026-01-28,2026-01-30
+Malware,Medium,Workstation,Jerean,SIEM,25,2.45,70,1.48,23664.16,2026-07-21,2026-07-26
+DDoS,Critical,Database,Roman,Email,156,2.19,23,51.4,931091.26,2026-02-08,2026-02-11
+Unauthorized Access,Medium,Network,Ryo,Firewall,106,37.94,46,56.0,686547.05,2026-09-30,2026-10-03
+DDoS,Medium,Cloud,Jerean,Firewall,135,50.42,44,82.67,35161.25,2026-08-19,2026-08-21
+Malware,Low,Network,Kris,Firewall,236,67.89,48,50.95,819014.07,2026-03-27,2026-03-28
+Unauthorized Access,High,Server,Ryo,Firewall,99,13.72,52,91.73,201065.89,2026-05-06,2026-05-11
+Phishing,High,Server,Jerean,Endpoint,194,8.33,8,63.18,579641.97,2026-10-27,2026-10-28
+Malware,Low,Server,Ej,SIEM,109,4.7,55,84.19,467167.74,2026-01-25,2026-01-29
+Ransomware,Low,Network,Roman,SIEM,233,31.96,66,15.68,420418.94,2026-05-25,2026-05-29
+DDoS,High,Workstation,Jerean,Email,129,45.24,77,85.68,889824.01,2026-01-13,2026-01-15
+Malware,Medium,Cloud,Roman,Network,6,60.68,40,67.84,437923.93,2026-07-31,2026-08-02
+Malware,Medium,Network,Ej,Endpoint,70,49.47,85,17.85,76268.77,2026-01-25,2026-01-27
+Unauthorized Access,High,Workstation,Jerean,Email,235,15.79,31,19.79,946692.09,2026-03-09,2026-03-13
+Unauthorized Access,Medium,Workstation,Kris,Email,117,33.79,48,92.72,920614.7,2026-03-08,2026-03-09
+Unauthorized Access,Low,Network,Ryo,Firewall,174,65.63,100,4.19,684748.26,2026-08-21,2026-08-22
+Ransomware,Medium,Network,Jerean,Network,240,24.2,61,46.79,468424.64,2026-04-19,2026-04-21
+Unauthorized Access,Medium,Workstation,Ej,Network,166,36.41,52,32.03,93766.61,2026-05-26,2026-05-31
+Malware,Critical,Workstation,Jerean,Endpoint,46,69.06,38,66.84,790957.37,2026-04-21,2026-04-22
+Unauthorized Access,Critical,Workstation,Roman,Network,24,53.16,91,84.12,76402.44,2026-08-16,2026-08-20
+Phishing,Critical,Network,Jerean,Email,101,54.09,36,36.68,69532.38,2026-04-21,2026-04-24
+Unauthorized Access,Medium,Workstation,Kris,Network,72,18.92,87,43.26,537846.46,2026-02-03,2026-02-06
+Ransomware,High,Server,Jerean,Network,177,30.44,55,98.21,160968.11,2026-04-21,2026-04-24
+Phishing,Low,Network,Ryo,SIEM,240,6.85,85,78.61,8722.54,2026-09-21,2026-09-26
+Malware,Medium,Server,Jerean,Email,79,44.06,13,89.82,423690.32,2026-08-24,2026-08-26
+Malware,High,Database,Roman,Network,129,8.36,37,44.44,138080.01,2026-03-24,2026-03-28
+DDoS,Medium,Network,Jerean,Network,174,60.35,47,24.17,161354.9,2026-02-11,2026-02-16
+Phishing,Low,Database,Kris,Firewall,51,58.83,90,41.77,77833.73,2026-04-11,2026-04-15
+DDoS,Medium,Workstation,Ej,Network,9,38.89,71,71.89,205888.66,2026-01-06,2026-01-10
+Phishing,Low,Workstation,Jerean,Network,221,11.02,22,11.83,715768.7,2026-06-29,2026-07-01
+Phishing,Medium,Cloud,Jerean,SIEM,53,2.82,39,27.78,809118.38,2026-10-09,2026-10-12
+Ransomware,Low,Workstation,Ryo,Email,128,57.57,87,5.62,453081.11,2026-11-16,2026-11-18
+DDoS,Medium,Database,Kris,Endpoint,41,43.61,58,43.8,507047.26,2026-08-14,2026-08-19
+Ransomware,Low,Workstation,Ej,Email,166,51.48,30,82.92,33622.38,2026-11-11,2026-11-16
+Phishing,Critical,Network,Roman,Firewall,205,22.57,18,3.44,70246.95,2026-12-31,2027-01-05
+Malware,Medium,Workstation,Jerean,Email,202,37.17,18,67.86,258310.16,2026-08-17,2026-08-19
+Phishing,Medium,Cloud,Ej,Network,150,54.05,74,93.32,544354.52,2026-10-16,2026-10-20
+Ransomware,High,Workstation,Roman,Firewall,210,33.84,39,24.46,739811.6,2026-05-30,2026-06-03
+DDoS,High,Database,Kris,Email,23,43.7,94,69.67,605398.06,2026-10-04,2026-10-05
+DDoS,Low,Database,Kris,Firewall,210,57.07,26,97.54,392735.73,2026-07-17,2026-07-22
+Ransomware,Medium,Workstation,Ej,Endpoint,44,16.28,71,96.27,119205.75,2026-03-11,2026-03-15
+DDoS,Low,Database,Roman,Email,21,5.68,7,24.26,780992.46,2026-04-22,2026-04-23
+Unauthorized Access,Critical,Database,Kris,Network,192,38.76,69,10.93,364422.27,2026-01-04,2026-01-08
+Malware,High,Cloud,Ej,Firewall,103,5.41,65,15.68,736317.96,2026-12-16,2026-12-21
+Malware,Low,Network,Kris,SIEM,97,55.43,46,70.5,513465.86,2026-11-27,2026-11-30
+Malware,Low,Cloud,Kris,Firewall,46,52.06,18,72.85,738923.39,2026-11-14,2026-11-19
+DDoS,High,Server,Kris,SIEM,213,63.6,13,67.75,907382.27,2026-12-16,2026-12-18
+DDoS,Medium,Cloud,Ryo,Network,127,46.41,25,34.27,921108.49,2026-04-05,2026-04-09
+Phishing,Low,Workstation,Roman,Endpoint,111,5.77,8,17.81,535571.67,2026-06-01,2026-06-05
+Phishing,High,Network,Ej,SIEM,76,18.97,74,58.5,511996.86,2026-11-07,2026-11-09
+Malware,Medium,Workstation,Ej,Endpoint,69,58.36,32,48.88,266412.79,2026-05-17,2026-05-19
+Unauthorized Access,Critical,Server,Roman,Firewall,113,12.87,17,73.15,935864.03,2026-09-04,2026-09-07
+Phishing,High,Network,Roman,Network,57,50.59,79,44.69,458461.25,2026-08-31,2026-09-04
+Phishing,Low,Database,Roman,SIEM,232,56.4,79,34.53,128463.65,2026-01-31,2026-02-04
+DDoS,Critical,Cloud,Roman,Firewall,139,24.44,48,30.05,433272.21,2026-02-09,2026-02-12
+Unauthorized Access,Medium,Workstation,Jerean,Email,137,23.88,63,21.94,127926.2,2026-08-17,2026-08-18
+Malware,Medium,Server,Ej,Firewall,28,40.6,40,27.31,503029.15,2026-02-05,2026-02-08
+Phishing,High,Database,Jerean,Endpoint,32,62.15,84,10.39,561714.24,2026-08-11,2026-08-16
+Unauthorized Access,High,Cloud,Kris,Network,66,16.9,15,35.34,338418.01,2026-01-06,2026-01-10
+Unauthorized Access,High,Database,Kris,Network,239,67.83,99,4.62,72578.96,2026-11-18,2026-11-20
+Malware,Medium,Cloud,Ej,Firewall,21,43.54,6,19.45,943560.03,2026-08-08,2026-08-13
+Unauthorized Access,Critical,Network,Kris,Email,233,71.44,94,74.93,773579.76,2026-03-16,2026-03-20
+Unauthorized Access,Medium,Database,Roman,Endpoint,24,7.36,63,33.22,839042.2,2026-01-04,2026-01-07
+Unauthorized Access,Low,Database,Jerean,Firewall,7,9.99,8,67.16,367501.53,2026-12-01,2026-12-06
+Phishing,Medium,Database,Roman,Firewall,169,59.69,95,71.97,761070.2,2026-05-14,2026-05-18
+Malware,Low,Network,Kris,Network,222,62.4,32,58.54,485887.52,2026-04-28,2026-04-29
+Unauthorized Access,Critical,Server,Jerean,Endpoint,147,32.63,45,95.91,201882.4,2026-04-04,2026-04-05
+Unauthorized Access,High,Cloud,Roman,Email,55,51.7,52,3.12,125298.95,2026-03-03,2026-03-05
+Phishing,High,Database,Ej,Network,180,62.6,79,74.13,345705.82,2026-07-13,2026-07-17
+Malware,Medium,Network,Roman,Firewall,140,4.06,82,95.92,138414.56,2026-12-01,2026-12-02
+DDoS,High,Server,Kris,Network,145,41.75,13,86.36,998270.71,2026-07-22,2026-07-25
+Phishing,Critical,Cloud,Jerean,Network,180,61.6,24,17.62,50139.8,2026-01-26,2026-01-30
+Malware,High,Network,Ej,SIEM,7,29.27,40,33.36,441702.46,2026-06-22,2026-06-25
+Unauthorized Access,Medium,Cloud,Jerean,Network,197,22.47,14,18.07,452641.43,2026-10-27,2026-10-30
+Malware,Critical,Database,Ej,Network,77,57.5,92,60.53,301331.3,2026-05-13,2026-05-14
+Malware,Low,Server,Jerean,Endpoint,163,24.84,75,71.51,571780.21,2026-11-22,2026-11-26
+Malware,Medium,Network,Kris,Network,109,1.23,70,32.39,150827.05,2026-04-28,2026-05-03
+DDoS,Low,Server,Ej,Email,122,69.13,62,54.41,784128.47,2026-11-20,2026-11-21
+Malware,Critical,Database,Ryo,Firewall,158,43.04,89,69.4,333115.27,2026-10-02,2026-10-03
+DDoS,Medium,Server,Jerean,Endpoint,213,59.19,61,42.71,591751.25,2026-07-31,2026-08-04
+Unauthorized Access,Medium,Server,Jerean,Network,188,59.6,1,85.55,715923.6,2026-08-13,2026-08-17
+DDoS,Critical,Workstation,Roman,Email,38,5.72,89,77.38,889153.08,2026-01-20,2026-01-23
+Unauthorized Access,High,Server,Ej,Firewall,141,13.13,66,7.4,835951.65,2026-04-23,2026-04-27
+Unauthorized Access,Medium,Cloud,Ryo,Endpoint,66,23.09,32,62.49,608700.72,2026-05-20,2026-05-23
+DDoS,Medium,Network,Kris,Email,124,23.77,13,24.3,389004.79,2026-02-16,2026-02-17
+Phishing,Low,Workstation,Roman,Network,119,47.77,33,56.19,503701.47,2026-01-01,2026-01-03
+Ransomware,High,Network,Ryo,SIEM,17,45.24,32,95.73,768966.06,2026-03-31,2026-04-05
+Malware,Low,Network,Ej,SIEM,73,36.12,56,88.03,877668.0,2026-05-22,2026-05-23
+Ransomware,Low,Database,Ryo,Endpoint,173,16.0,24,41.05,104678.15,2026-11-16,2026-11-20
+Malware,High,Database,Jerean,Email,81,28.12,91,29.86,385471.41,2026-02-07,2026-02-12
+Malware,High,Workstation,Jerean,Firewall,5,39.6,4,24.21,776340.48,2026-10-20,2026-10-22
+Unauthorized Access,Critical,Database,Roman,Email,93,34.23,88,53.72,432220.11,2026-05-19,2026-05-21
+Malware,High,Database,Ej,SIEM,51,10.04,23,12.31,332895.54,2026-12-22,2026-12-25
+Malware,Medium,Database,Ej,Endpoint,8,47.12,29,55.38,411911.37,2026-11-29,2026-12-04
+DDoS,High,Network,Ryo,Network,232,6.19,98,1.13,603241.9,2026-09-16,2026-09-19
+Ransomware,Critical,Workstation,Roman,Email,195,27.85,21,33.06,999805.34,2026-06-10,2026-06-11
+DDoS,Critical,Network,Ej,SIEM,184,51.41,30,22.77,493499.44,2026-06-27,2026-07-02
+Malware,Critical,Cloud,Jerean,Firewall,14,2.42,90,97.15,209285.98,2026-01-10,2026-01-11
+Unauthorized Access,High,Network,Ryo,Endpoint,32,41.47,20,73.0,163683.73,2026-09-18,2026-09-21
+DDoS,High,Cloud,Kris,Network,125,24.75,16,35.62,43307.4,2026-05-18,2026-05-23
+DDoS,Low,Server,Jerean,Email,130,1.63,67,10.19,559258.42,2026-06-21,2026-06-24
+Phishing,Low,Server,Roman,Firewall,138,14.52,49,52.16,545027.52,2026-01-13,2026-01-18
+Malware,Medium,Cloud,Ej,Network,159,67.81,58,22.13,206028.69,2026-06-17,2026-06-20
+Unauthorized Access,Low,Cloud,Jerean,SIEM,144,38.0,44,54.11,695634.08,2026-05-10,2026-05-12
+DDoS,Medium,Network,Kris,SIEM,66,71.8,25,83.7,741365.93,2026-03-25,2026-03-28
+DDoS,Critical,Cloud,Kris,Firewall,184,38.26,23,61.96,259839.11,2026-11-17,2026-11-19
+Unauthorized Access,Low,Workstation,Roman,SIEM,180,39.62,59,63.75,344755.66,2026-11-15,2026-11-18
+Malware,High,Server,Jerean,Endpoint,71,28.82,1,54.56,990481.2,2026-04-11,2026-04-16
+Phishing,Low,Server,Ryo,Firewall,178,23.01,97,92.8,374890.2,2026-11-25,2026-11-30
+DDoS,Medium,Cloud,Jerean,SIEM,229,18.86,15,93.26,761040.87,2026-09-30,2026-10-05
+Phishing,Low,Database,Kris,Email,78,25.38,81,51.76,453272.7,2026-09-22,2026-09-26
+Ransomware,Critical,Database,Roman,SIEM,99,33.65,98,31.27,793551.48,2026-02-07,2026-02-08
+Malware,High,Cloud,Roman,Endpoint,147,14.63,81,46.5,769254.22,2026-04-04,2026-04-09
+Ransomware,Medium,Workstation,Ryo,Network,203,16.97,52,19.47,668088.27,2026-04-05,2026-04-07
+Ransomware,High,Database,Roman,Network,40,20.28,58,64.0,854923.57,2026-11-01,2026-11-06
+Ransomware,High,Cloud,Roman,SIEM,146,32.9,41,50.51,939279.28,2026-03-10,2026-03-14
+Malware,Medium,Workstation,Roman,Network,116,47.35,44,11.23,580403.34,2026-11-14,2026-11-16
+Malware,High,Workstation,Roman,SIEM,210,61.79,4,20.57,238231.44,2026-08-24,2026-08-28
+Unauthorized Access,High,Network,Roman,Endpoint,135,21.39,77,48.48,399230.33,2026-11-30,2026-12-02
+Phishing,Low,Workstation,Kris,Network,117,14.04,68,88.87,758547.41,2026-05-17,2026-05-20
+Phishing,High,Database,Jerean,Email,114,27.9,7,57.07,651232.6,2026-03-17,2026-03-18
+Unauthorized Access,High,Database,Ej,SIEM,118,64.5,46,68.47,178620.54,2026-02-04,2026-02-05
+Unauthorized Access,High,Cloud,Roman,Network,71,1.7,9,34.56,52188.3,2026-01-01,2026-01-05
+Ransomware,High,Cloud,Ej,Endpoint,130,49.13,87,57.57,683278.63,2026-10-23,2026-10-24
+Unauthorized Access,Medium,Workstation,Ej,Endpoint,90,34.88,33,45.29,251827.95,2026-11-16,2026-11-20
+DDoS,Critical,Server,Kris,Email,23,12.43,33,66.25,500170.57,2026-03-01,2026-03-05
+Phishing,Low,Network,Roman,Endpoint,231,23.79,84,6.01,747000.03,2026-11-16,2026-11-20
+Unauthorized Access,High,Server,Ej,Endpoint,208,16.97,4,49.84,563104.11,2026-12-15,2026-12-16
+DDoS,High,Workstation,Roman,Network,186,63.33,65,30.3,84219.28,2026-11-24,2026-11-28
+DDoS,Medium,Workstation,Ryo,SIEM,73,35.21,34,33.29,186394.66,2026-09-24,2026-09-25
+DDoS,Critical,Server,Ryo,Firewall,14,40.98,91,96.13,220108.86,2026-12-27,2026-12-31
+DDoS,High,Network,Ryo,Endpoint,237,43.15,85,19.09,258606.39,2026-08-17,2026-08-22
+Ransomware,Medium,Server,Ej,Endpoint,165,46.41,88,31.81,565837.99,2026-09-27,2026-10-01
+DDoS,Low,Cloud,Ryo,Firewall,145,36.18,79,51.48,504461.81,2026-11-12,2026-11-14
+Ransomware,Low,Database,Kris,Endpoint,132,2.27,99,86.44,203956.88,2026-10-13,2026-10-17
+Ransomware,High,Cloud,Kris,Network,103,24.77,64,42.25,68487.29,2026-10-18,2026-10-21
+DDoS,High,Database,Ej,Network,183,14.06,25,74.64,172260.77,2026-08-01,2026-08-05
+Phishing,Critical,Workstation,Roman,Firewall,36,49.29,55,85.78,984396.93,2026-06-14,2026-06-16
+DDoS,Critical,Network,Jerean,Endpoint,207,5.03,9,31.69,469078.4,2026-01-05,2026-01-07
+DDoS,High,Server,Roman,Endpoint,116,41.03,17,39.88,867478.16,2026-12-05,2026-12-06
+DDoS,Medium,Network,Roman,SIEM,234,15.95,21,36.3,848903.71,2026-03-19,2026-03-24
+Phishing,Critical,Server,Roman,Endpoint,28,68.37,60,83.45,512008.04,2026-03-03,2026-03-07
+Malware,High,Cloud,Roman,Network,39,24.82,13,5.39,706981.02,2026-05-12,2026-05-13
+Malware,Critical,Cloud,Jerean,Email,87,24.09,3,31.53,193559.26,2026-03-30,2026-04-04
+Ransomware,High,Server,Ryo,Email,74,66.56,68,68.26,688708.31,2026-08-25,2026-08-29
+Ransomware,Low,Network,Roman,Email,172,30.63,4,56.98,273112.19,2026-02-11,2026-02-14
+Phishing,High,Server,Kris,Email,186,69.36,92,44.19,832230.03,2026-03-30,2026-04-03
+Unauthorized Access,Low,Workstation,Ej,Endpoint,113,2.72,7,54.45,84640.41,2026-10-23,2026-10-25
+Malware,Critical,Cloud,Ej,Endpoint,176,22.75,26,20.56,773365.53,2026-11-24,2026-11-26
+Ransomware,High,Workstation,Kris,SIEM,194,48.3,75,43.64,100836.97,2026-10-22,2026-10-25
+Malware,Critical,Cloud,Roman,Endpoint,238,64.25,24,50.67,881308.05,2026-04-14,2026-04-15
+Phishing,Low,Cloud,Jerean,Email,103,19.2,10,90.22,304900.31,2026-01-14,2026-01-19
+Phishing,High,Database,Ryo,Firewall,200,67.06,13,26.82,654738.97,2026-10-15,2026-10-19
+Unauthorized Access,Critical,Workstation,Ej,Firewall,37,43.18,44,86.92,488014.78,2026-06-28,2026-06-30
+Unauthorized Access,Low,Workstation,Ryo,Network,209,57.87,39,64.78,366936.84,2026-05-05,2026-05-06
+Phishing,Critical,Database,Jerean,Network,60,29.2,19,3.01,645796.39,2026-12-19,2026-12-22
+Ransomware,Medium,Network,Ej,Endpoint,168,16.06,51,72.74,947575.46,2026-01-23,2026-01-25
+Malware,Low,Workstation,Ryo,Firewall,186,65.7,19,4.52,42228.48,2026-03-04,2026-03-07
+DDoS,Low,Server,Jerean,Email,239,67.25,76,99.74,918934.0,2026-05-23,2026-05-27
+Unauthorized Access,Low,Database,Ryo,Email,151,36.33,52,87.39,609472.57,2026-06-02,2026-06-07
+DDoS,High,Workstation,Roman,Email,175,1.46,86,30.44,807506.99,2026-05-25,2026-05-27
+Ransomware,High,Network,Jerean,Endpoint,16,8.79,47,26.48,384491.08,2026-08-13,2026-08-15
+Unauthorized Access,High,Workstation,Ryo,Endpoint,15,41.68,30,38.76,472371.13,2026-11-05,2026-11-09
+DDoS,Medium,Cloud,Roman,SIEM,74,2.69,46,36.26,868981.9,2026-04-14,2026-04-15
+Ransomware,Medium,Server,Roman,Email,144,29.18,76,37.86,415433.12,2026-04-14,2026-04-19
+Malware,Low,Database,Jerean,Email,223,22.54,93,32.51,535124.91,2026-02-08,2026-02-10
+Ransomware,Medium,Cloud,Kris,Endpoint,45,51.72,21,62.49,21174.73,2026-07-17,2026-07-22
+Unauthorized Access,Critical,Network,Ej,Endpoint,157,4.95,75,17.26,159439.41,2026-05-14,2026-05-16
+Phishing,Low,Cloud,Jerean,SIEM,110,35.7,48,84.75,642044.82,2026-03-08,2026-03-13
+Malware,Low,Cloud,Roman,SIEM,7,42.12,62,81.43,717259.92,2026-06-28,2026-07-01
+DDoS,Critical,Network,Roman,Network,7,44.83,58,48.17,583018.34,2026-02-11,2026-02-13
+Unauthorized Access,Low,Cloud,Jerean,Firewall,88,29.77,18,85.42,144166.73,2026-01-15,2026-01-20
+Phishing,Medium,Database,Kris,Email,160,22.61,59,25.47,445960.02,2026-04-21,2026-04-22
+Ransomware,High,Workstation,Ej,Email,155,49.46,91,2.74,355739.67,2026-06-06,2026-06-09
+Phishing,Critical,Cloud,Ryo,SIEM,180,61.18,48,62.3,496165.68,2026-10-16,2026-10-19
+Unauthorized Access,Medium,Database,Jerean,SIEM,199,50.25,63,46.33,870458.71,2026-08-19,2026-08-20
+Unauthorized Access,Critical,Workstation,Ej,Network,174,67.18,12,57.15,776085.58,2026-06-06,2026-06-11
+Phishing,Critical,Workstation,Ej,Firewall,220,51.93,87,90.03,84905.51,2026-02-07,2026-02-11
+Ransomware,Low,Cloud,Roman,Network,111,55.29,34,97.02,890418.89,2026-04-07,2026-04-08
+Phishing,Low,Database,Ryo,Firewall,172,12.92,61,63.81,472295.38,2026-10-16,2026-10-21
+Unauthorized Access,Medium,Cloud,Jerean,Email,138,30.79,87,76.64,744118.28,2026-09-11,2026-09-12
+Unauthorized Access,Critical,Network,Roman,Network,24,35.44,53,9.3,140899.19,2026-07-15,2026-07-16
+DDoS,Low,Workstation,Roman,SIEM,143,19.2,25,16.91,671048.81,2026-03-27,2026-03-29
+DDoS,Low,Cloud,Kris,Network,100,38.53,62,73.59,237089.69,2026-11-18,2026-11-23
+Malware,Critical,Workstation,Ej,Network,128,21.65,4,43.71,438942.52,2026-01-10,2026-01-14
+Unauthorized Access,Medium,Database,Jerean,Email,159,49.81,94,45.15,17846.01,2026-01-05,2026-01-07
+DDoS,Medium,Server,Jerean,SIEM,25,34.39,94,31.55,152459.03,2026-05-03,2026-05-04
+Phishing,Critical,Cloud,Jerean,SIEM,240,33.58,13,61.13,92988.41,2026-11-26,2026-11-27
+Ransomware,Medium,Cloud,Roman,Endpoint,118,70.84,42,19.33,240504.43,2026-12-19,2026-12-20
+Phishing,Low,Workstation,Kris,Endpoint,17,28.86,49,63.06,100918.07,2026-04-28,2026-05-03
+Ransomware,Critical,Database,Ryo,Endpoint,90,26.72,78,18.21,692218.12,2026-10-21,2026-10-26
+DDoS,Low,Network,Roman,Email,39,23.62,56,7.32,30010.86,2026-06-08,2026-06-10
+Malware,High,Database,Ryo,Network,51,64.53,47,33.71,618122.76,2026-10-30,2026-11-03
+Phishing,High,Cloud,Kris,SIEM,218,36.27,8,23.88,141567.12,2026-08-16,2026-08-18
+Phishing,Medium,Network,Ej,SIEM,160,43.6,55,89.01,945216.3,2026-12-31,2027-01-03
+Phishing,High,Database,Jerean,Network,153,13.84,88,6.44,933160.98,2026-08-04,2026-08-05
+Ransomware,Low,Server,Ryo,SIEM,150,39.41,18,18.48,226277.6,2026-07-03,2026-07-04
+DDoS,High,Workstation,Roman,Network,163,20.5,35,55.32,614806.88,2026-01-15,2026-01-16
+Phishing,Low,Database,Ryo,Email,192,52.88,89,48.63,28977.31,2026-06-06,2026-06-08
+Phishing,Medium,Database,Ej,Email,129,60.11,81,5.54,931856.75,2026-05-16,2026-05-18
+Malware,Medium,Server,Jerean,Email,114,51.75,32,1.72,523464.32,2026-09-18,2026-09-19
+Malware,Low,Cloud,Ryo,Network,41,52.85,24,98.82,44179.93,2026-06-06,2026-06-08
+DDoS,High,Workstation,Ej,Network,25,37.39,7,66.22,343157.49,2026-02-16,2026-02-21
+DDoS,Medium,Database,Roman,Firewall,18,51.56,13,37.18,77772.61,2026-11-20,2026-11-25
+Unauthorized Access,Critical,Network,Kris,SIEM,221,31.01,91,47.57,393551.49,2026-11-28,2026-11-30
+Malware,Medium,Database,Roman,SIEM,95,47.26,69,27.39,670256.42,2026-06-22,2026-06-23
+Unauthorized Access,High,Workstation,Jerean,Firewall,236,19.39,100,35.14,470420.02,2026-05-10,2026-05-12
+Ransomware,Critical,Database,Roman,Firewall,64,5.95,90,65.26,384338.45,2026-04-05,2026-04-07
+Unauthorized Access,High,Server,Roman,Email,128,30.36,42,88.4,120037.89,2026-04-25,2026-04-27
+Phishing,Low,Database,Roman,Firewall,27,33.79,31,19.23,245694.11,2026-08-31,2026-09-03
+Unauthorized Access,Critical,Database,Roman,Network,227,19.2,74,84.2,101043.14,2026-10-19,2026-10-24
+DDoS,High,Network,Jerean,Endpoint,115,52.67,26,13.03,807691.23,2026-10-09,2026-10-13
+Ransomware,Critical,Server,Ej,Network,128,6.22,86,22.28,136104.59,2026-10-26,2026-10-30
+Phishing,High,Server,Ryo,Firewall,161,16.82,76,4.68,595777.99,2026-10-10,2026-10-13
+Unauthorized Access,Critical,Database,Kris,SIEM,179,54.15,32,14.94,343397.67,2026-03-10,2026-03-12
+Ransomware,High,Network,Ryo,Network,34,32.04,91,91.81,226752.41,2026-05-28,2026-05-31
+Ransomware,Low,Database,Ryo,SIEM,119,51.08,97,46.48,639828.97,2026-01-11,2026-01-14
+Phishing,Critical,Database,Kris,Network,94,41.29,52,8.69,457545.31,2026-09-11,2026-09-12
+Unauthorized Access,Critical,Workstation,Jerean,SIEM,216,68.5,20,96.01,400745.32,2026-11-26,2026-12-01
+Ransomware,Critical,Workstation,Kris,Network,42,43.44,40,88.02,593259.15,2026-12-26,2026-12-30
+Ransomware,Critical,Network,Jerean,SIEM,87,2.06,59,75.71,491776.36,2026-02-07,2026-02-09
+Malware,Low,Cloud,Ryo,Endpoint,31,26.05,77,93.41,304180.72,2026-05-14,2026-05-18
+Ransomware,Critical,Workstation,Jerean,Email,221,11.16,14,22.79,559502.23,2026-07-19,2026-07-23
+Malware,Medium,Cloud,Ej,Network,108,66.65,44,83.8,669829.08,2026-01-23,2026-01-28
+Unauthorized Access,Low,Server,Kris,Endpoint,234,8.38,86,69.31,27666.47,2026-10-30,2026-11-03
+Unauthorized Access,Medium,Workstation,Ej,Email,120,28.53,82,87.11,466405.86,2026-12-12,2026-12-16
+Unauthorized Access,Critical,Workstation,Ryo,Network,219,17.05,48,79.89,58625.6,2026-10-29,2026-11-01
+DDoS,High,Network,Kris,Endpoint,225,61.12,93,35.3,187219.01,2026-12-29,2027-01-03
+Unauthorized Access,Medium,Cloud,Ryo,Endpoint,19,22.91,43,77.67,560948.23,2026-08-06,2026-08-07
+Ransomware,Critical,Workstation,Ej,Endpoint,191,71.42,16,26.98,866322.73,2026-05-21,2026-05-23
+Phishing,Medium,Workstation,Ryo,Firewall,7,3.74,35,33.53,882922.87,2026-04-14,2026-04-18
+Malware,Critical,Network,Kris,SIEM,14,10.11,53,11.68,70874.07,2026-07-29,2026-07-31
+DDoS,Critical,Network,Kris,Email,211,16.95,34,93.57,419685.98,2026-04-21,2026-04-22
+Unauthorized Access,Critical,Cloud,Ryo,SIEM,124,58.59,3,29.81,583423.48,2026-04-14,2026-04-16
+Unauthorized Access,High,Server,Kris,SIEM,212,63.37,68,52.54,147922.83,2026-11-12,2026-11-13
+Phishing,Medium,Server,Kris,SIEM,149,6.07,5,39.74,765666.78,2026-06-20,2026-06-23
+Phishing,Low,Database,Ryo,Endpoint,132,3.3,10,96.03,744491.02,2026-12-22,2026-12-26
+DDoS,Low,Workstation,Ej,SIEM,215,53.86,52,34.17,903437.67,2026-11-20,2026-11-21
+Malware,Low,Cloud,Kris,Firewall,15,10.47,29,78.08,9477.53,2026-05-13,2026-05-15
+Unauthorized Access,Low,Workstation,Kris,Network,180,10.44,96,85.69,217467.56,2026-10-20,2026-10-24
+DDoS,Critical,Cloud,Kris,Endpoint,137,2.59,31,44.13,827359.53,2026-11-24,2026-11-27
+Ransomware,Medium,Cloud,Kris,Email,73,4.54,66,38.44,670909.47,2026-05-07,2026-05-11
+Ransomware,Medium,Cloud,Ryo,Network,68,19.72,76,75.03,894495.46,2026-04-16,2026-04-17
+DDoS,High,Workstation,Ej,Network,18,5.62,91,91.38,58122.47,2026-04-02,2026-04-05
+Unauthorized Access,Medium,Network,Ej,Network,54,27.19,69,75.74,597367.0,2026-10-14,2026-10-16
+DDoS,Medium,Workstation,Jerean,SIEM,158,60.13,37,23.49,569477.53,2026-02-20,2026-02-23
+Unauthorized Access,Medium,Cloud,Kris,SIEM,76,24.17,27,88.94,36638.74,2026-01-29,2026-02-01
+Phishing,High,Database,Kris,Endpoint,73,52.68,87,39.37,514008.55,2026-10-23,2026-10-28
+DDoS,Low,Server,Jerean,SIEM,139,7.67,33,58.05,609910.79,2026-10-24,2026-10-27
+Unauthorized Access,Medium,Cloud,Ej,SIEM,131,47.82,68,83.31,192101.88,2026-08-02,2026-08-05
+DDoS,High,Database,Roman,SIEM,20,23.49,59,19.65,274056.25,2026-09-24,2026-09-28
+DDoS,High,Network,Roman,Endpoint,187,54.23,64,78.67,640707.0,2026-09-14,2026-09-16
+Unauthorized Access,Critical,Cloud,Ej,Endpoint,82,10.67,85,60.02,468832.65,2026-10-29,2026-11-02
+Unauthorized Access,High,Database,Kris,Firewall,105,64.75,88,89.44,858155.64,2026-04-11,2026-04-15
+Malware,Low,Cloud,Roman,Firewall,60,18.22,44,18.03,343039.38,2026-12-12,2026-12-13
+DDoS,Medium,Workstation,Ryo,Firewall,109,26.07,95,42.65,267393.0,2026-04-20,2026-04-24
+Ransomware,High,Database,Ryo,Firewall,136,68.46,88,83.45,984881.07,2026-07-01,2026-07-06
+DDoS,Low,Workstation,Jerean,Network,232,42.07,49,2.9,911224.63,2026-11-09,2026-11-14
+DDoS,High,Workstation,Ej,Network,52,26.97,53,12.11,29963.75,2026-01-01,2026-01-02
+Unauthorized Access,High,Database,Ej,Firewall,21,68.42,74,99.07,770957.89,2026-11-15,2026-11-17
+DDoS,High,Server,Roman,Firewall,115,24.36,49,28.76,111224.44,2026-02-24,2026-02-26
+DDoS,High,Database,Kris,Email,168,7.74,66,97.58,28457.71,2026-05-29,2026-06-02
+Ransomware,High,Server,Ej,Network,74,71.78,95,19.07,274421.82,2026-11-05,2026-11-09
+Unauthorized Access,Low,Cloud,Roman,Email,84,20.02,63,36.75,270076.53,2026-05-17,2026-05-21
+DDoS,Medium,Cloud,Roman,Email,97,61.44,25,75.53,819499.44,2026-07-21,2026-07-23
+Phishing,Medium,Database,Ej,SIEM,232,12.75,4,66.12,710956.58,2026-11-09,2026-11-12
+Malware,Medium,Cloud,Roman,Endpoint,42,52.93,51,58.53,981627.82,2026-04-27,2026-05-02
+Ransomware,Medium,Network,Jerean,Network,105,38.24,11,53.46,711801.39,2026-06-03,2026-06-06
+DDoS,Low,Workstation,Jerean,Firewall,66,70.64,17,84.5,418837.3,2026-10-18,2026-10-21
+Phishing,Critical,Workstation,Ej,Firewall,125,40.25,66,24.26,699228.73,2026-03-04,2026-03-06
+DDoS,Critical,Server,Kris,Endpoint,52,2.78,70,44.8,999459.61,2026-09-01,2026-09-04
+DDoS,Low,Cloud,Jerean,Network,14,43.88,73,16.39,710431.74,2026-01-25,2026-01-26
+Unauthorized Access,Low,Server,Jerean,Firewall,237,11.32,69,60.0,761919.67,2026-03-31,2026-04-04
+Unauthorized Access,High,Workstation,Ej,Firewall,40,57.7,84,25.8,938426.65,2026-03-16,2026-03-17
+Unauthorized Access,High,Workstation,Ryo,SIEM,161,61.82,29,34.05,114537.61,2026-10-21,2026-10-26
+Phishing,High,Cloud,Roman,Email,210,35.23,85,47.65,705079.51,2026-07-29,2026-08-02
+DDoS,Medium,Network,Jerean,Firewall,8,56.61,73,3.65,850955.15,2026-12-13,2026-12-16
+Malware,High,Network,Ryo,Network,48,11.3,92,10.1,954424.22,2026-01-17,2026-01-22
+Ransomware,Critical,Cloud,Kris,Endpoint,60,35.94,72,68.91,211758.32,2026-05-08,2026-05-12
+Unauthorized Access,Medium,Cloud,Ryo,SIEM,46,28.97,95,43.47,504425.08,2026-12-30,2027-01-02
+Unauthorized Access,High,Server,Ej,Network,232,44.4,20,86.61,680874.29,2026-09-08,2026-09-09
+DDoS,Medium,Cloud,Kris,SIEM,118,4.16,27,69.77,248220.26,2026-06-28,2026-07-02
+DDoS,Critical,Network,Kris,Email,145,54.4,8,1.8,600872.39,2026-07-01,2026-07-04
+Phishing,High,Cloud,Ryo,Firewall,178,6.62,85,62.05,258321.2,2026-06-01,2026-06-02
+Phishing,Critical,Server,Ej,Network,214,47.61,61,10.28,334123.56,2026-01-25,2026-01-30
+Unauthorized Access,Critical,Server,Jerean,Endpoint,165,2.31,28,78.31,442077.18,2026-06-29,2026-07-04
+DDoS,Critical,Server,Ryo,Email,25,60.06,87,99.16,529660.91,2026-07-17,2026-07-22
+Malware,High,Server,Jerean,Email,212,13.4,70,53.59,449916.51,2026-12-10,2026-12-15
+Ransomware,Low,Database,Ryo,SIEM,83,37.6,3,68.6,493702.32,2026-06-10,2026-06-12
+DDoS,High,Cloud,Jerean,Email,189,19.57,69,24.49,299290.17,2026-06-26,2026-06-30
+DDoS,Critical,Workstation,Ryo,Network,73,52.31,73,44.32,159806.13,2026-10-12,2026-10-16
+Phishing,High,Cloud,Kris,SIEM,74,23.82,7,85.75,48302.63,2026-03-04,2026-03-06
+Ransomware,Critical,Database,Roman,Email,234,52.45,60,17.57,196782.74,2026-05-30,2026-06-02
+Unauthorized Access,Low,Server,Kris,Endpoint,71,21.23,4,27.29,582361.7,2026-06-03,2026-06-06
+DDoS,Medium,Database,Jerean,Network,52,54.43,5,45.1,786329.33,2026-06-05,2026-06-10
+Unauthorized Access,Low,Network,Ej,Endpoint,208,3.17,11,71.51,170078.35,2026-02-18,2026-02-19
+DDoS,Low,Network,Kris,Endpoint,232,21.12,15,38.21,109446.8,2026-12-03,2026-12-06
+Unauthorized Access,Medium,Cloud,Roman,SIEM,165,36.4,64,92.85,749541.07,2026-03-25,2026-03-26
+Ransomware,High,Cloud,Jerean,Firewall,40,4.2,98,10.35,305853.17,2026-12-27,2026-12-31
+Phishing,Medium,Workstation,Kris,SIEM,165,14.21,13,37.71,951547.94,2026-06-26,2026-06-27
+Ransomware,High,Workstation,Ryo,Network,163,67.35,7,71.19,714603.65,2026-05-28,2026-06-01
+Malware,High,Network,Ej,Network,153,70.36,6,23.37,327429.29,2026-04-28,2026-04-30
+Phishing,Critical,Server,Jerean,SIEM,31,53.52,56,65.98,290253.21,2026-12-08,2026-12-10
+Ransomware,Critical,Database,Kris,Firewall,223,18.91,64,17.26,524174.69,2026-03-04,2026-03-09
+Malware,Medium,Workstation,Jerean,SIEM,76,19.5,50,6.54,80065.52,2026-07-08,2026-07-11
+DDoS,Low,Workstation,Ryo,Network,105,46.85,30,12.98,118558.84,2026-12-26,2026-12-31
+DDoS,Medium,Server,Roman,Firewall,194,9.35,22,93.07,176682.02,2026-02-18,2026-02-22
+Unauthorized Access,High,Server,Kris,Network,100,68.33,25,55.62,774948.87,2026-11-23,2026-11-28
+Phishing,Critical,Cloud,Jerean,Firewall,132,16.96,28,79.84,514343.5,2026-09-14,2026-09-15
+DDoS,Medium,Database,Jerean,Firewall,30,71.97,84,33.93,11556.56,2026-08-12,2026-08-16
+Phishing,Medium,Server,Jerean,SIEM,70,36.2,39,59.67,673843.01,2026-05-21,2026-05-23
+DDoS,Critical,Workstation,Roman,SIEM,144,55.77,67,50.0,424266.49,2026-08-03,2026-08-06
+Unauthorized Access,Critical,Workstation,Jerean,SIEM,26,1.16,5,94.63,511341.51,2026-07-30,2026-08-03
+Ransomware,Critical,Network,Ej,Firewall,21,64.1,65,75.01,214902.13,2026-11-14,2026-11-18
+Unauthorized Access,High,Server,Ej,Firewall,11,20.17,15,73.32,552230.45,2026-02-01,2026-02-02
+Malware,Critical,Cloud,Jerean,Network,111,48.42,90,5.59,979174.09,2026-06-07,2026-06-10
+DDoS,Low,Database,Ej,Endpoint,72,58.25,67,55.42,74371.25,2026-10-12,2026-10-14
+Malware,Medium,Cloud,Kris,SIEM,132,12.65,40,47.23,284633.48,2026-11-01,2026-11-05
+Malware,Critical,Workstation,Ej,Network,41,32.42,98,92.86,243754.6,2026-10-13,2026-10-17
+Phishing,Critical,Cloud,Jerean,Network,42,36.06,69,26.48,249300.76,2026-05-24,2026-05-25
+DDoS,High,Workstation,Ryo,Email,100,23.16,95,27.71,379327.65,2026-01-19,2026-01-24
+Malware,High,Workstation,Kris,SIEM,143,35.2,77,41.72,818291.67,2026-01-18,2026-01-20
+Ransomware,Medium,Workstation,Roman,Network,5,23.55,43,25.09,912945.83,2026-09-14,2026-09-17
+Malware,Low,Workstation,Jerean,Email,157,26.61,1,13.79,203012.87,2026-03-19,2026-03-23
+Ransomware,Medium,Workstation,Roman,SIEM,46,48.52,22,85.88,543406.99,2026-06-24,2026-06-28
+Phishing,Critical,Network,Ryo,Firewall,184,45.91,62,56.27,637262.07,2026-07-13,2026-07-15
+Malware,Low,Cloud,Roman,Email,156,17.49,79,86.27,522305.65,2026-04-23,2026-04-28
+Unauthorized Access,Low,Network,Jerean,Firewall,185,64.72,26,83.28,434642.32,2026-04-24,2026-04-28
+Phishing,Low,Network,Jerean,Endpoint,239,62.26,18,28.92,192783.53,2026-08-10,2026-08-12
+Ransomware,Low,Server,Ryo,Endpoint,188,37.14,48,55.23,488731.14,2026-06-15,2026-06-16
+Phishing,Medium,Server,Jerean,Endpoint,67,31.76,9,9.24,401813.61,2026-11-15,2026-11-20
+Malware,High,Server,Ryo,Endpoint,85,27.76,1,91.61,795767.8,2026-05-12,2026-05-15
+DDoS,High,Database,Ryo,Network,12,51.22,9,41.02,763840.75,2026-09-21,2026-09-25
+DDoS,Critical,Server,Jerean,Endpoint,191,48.69,23,39.97,134864.68,2026-02-24,2026-02-26
+Ransomware,High,Cloud,Ej,Network,177,14.93,45,30.97,89430.53,2026-12-25,2026-12-26
+Ransomware,High,Network,Ryo,Network,31,48.67,2,46.61,908245.79,2026-05-11,2026-05-14
+DDoS,High,Cloud,Jerean,SIEM,56,18.92,14,25.92,535972.88,2026-10-15,2026-10-17
+Ransomware,High,Server,Ej,Network,150,2.32,38,38.11,857943.14,2026-09-23,2026-09-25
+Phishing,Critical,Database,Ryo,Network,95,50.64,40,80.19,59092.97,2026-06-11,2026-06-14
+Unauthorized Access,Medium,Database,Ej,Endpoint,90,46.78,63,83.59,526989.1,2026-03-28,2026-03-29
+Unauthorized Access,Low,Network,Kris,Network,20,30.17,82,31.11,539887.09,2026-02-24,2026-02-25
+Phishing,High,Cloud,Kris,Firewall,70,38.32,16,47.43,860841.33,2026-10-15,2026-10-20
+Unauthorized Access,Medium,Workstation,Ej,Endpoint,9,68.25,93,87.51,98512.39,2026-06-27,2026-07-01
+Malware,High,Cloud,Ryo,Email,86,43.26,75,6.21,241205.12,2026-12-15,2026-12-18
+Phishing,High,Server,Jerean,Endpoint,135,47.71,6,89.03,407131.78,2026-01-08,2026-01-11
+Ransomware,Low,Workstation,Roman,Network,223,5.54,3,22.7,865975.63,2026-11-17,2026-11-20
+Phishing,Low,Database,Jerean,Firewall,122,12.79,14,68.18,938944.43,2026-11-09,2026-11-10
+DDoS,Low,Network,Roman,Endpoint,85,22.37,66,58.67,992731.89,2026-09-04,2026-09-08
+Ransomware,High,Network,Roman,Firewall,212,39.3,96,55.74,959234.29,2026-11-19,2026-11-24
+DDoS,High,Database,Ryo,Email,74,56.14,95,86.08,6935.81,2026-09-12,2026-09-14
+Ransomware,High,Server,Ej,Email,119,23.81,75,11.06,48660.63,2026-11-24,2026-11-26
+Unauthorized Access,Low,Database,Jerean,SIEM,11,26.3,86,35.36,148459.21,2026-02-23,2026-02-26
+Phishing,Critical,Server,Ej,SIEM,54,19.19,67,54.29,349513.23,2026-09-06,2026-09-10
+Malware,Medium,Workstation,Kris,Endpoint,146,19.08,31,81.32,830088.11,2026-08-27,2026-08-28
+Ransomware,Critical,Database,Ryo,SIEM,170,68.37,33,22.43,892763.54,2026-08-17,2026-08-21
+Ransomware,High,Server,Ryo,Firewall,236,46.12,88,80.49,187647.57,2026-03-08,2026-03-12
+DDoS,High,Workstation,Kris,SIEM,211,12.07,1,40.56,620044.49,2026-02-20,2026-02-21
+Unauthorized Access,Critical,Database,Jerean,Firewall,115,52.28,44,19.7,917444.62,2026-04-07,2026-04-10
+DDoS,High,Network,Kris,SIEM,51,52.26,15,76.14,464268.0,2026-04-02,2026-04-06
+DDoS,Medium,Database,Jerean,SIEM,116,48.32,37,10.0,104440.03,2026-09-21,2026-09-23
+Unauthorized Access,High,Cloud,Roman,SIEM,165,10.57,27,51.96,458355.84,2026-10-18,2026-10-19
+Malware,Medium,Database,Ryo,Network,47,29.97,48,7.32,376419.11,2026-04-06,2026-04-11
+DDoS,Critical,Cloud,Jerean,Network,95,8.58,27,36.29,578080.34,2026-03-29,2026-04-01
+DDoS,Critical,Workstation,Ej,SIEM,33,58.98,12,60.51,439220.03,2026-03-19,2026-03-20
+Ransomware,High,Database,Ej,Firewall,132,47.52,67,56.06,18328.58,2026-10-15,2026-10-20
+Unauthorized Access,Medium,Workstation,Ryo,Endpoint,189,37.01,30,41.06,994003.74,2026-04-30,2026-05-05
+Phishing,High,Workstation,Kris,Email,233,25.35,96,43.48,543996.7,2026-10-29,2026-11-02
+Malware,Low,Server,Kris,Network,137,14.08,87,23.45,474157.12,2026-06-14,2026-06-18
+Malware,Low,Workstation,Jerean,SIEM,225,8.56,66,46.13,954662.75,2026-07-01,2026-07-05
+Unauthorized Access,Low,Workstation,Kris,Email,100,69.82,7,95.37,156704.51,2026-08-11,2026-08-12
+Ransomware,Low,Database,Ryo,Network,192,15.18,34,85.19,190048.36,2026-11-07,2026-11-08
+Ransomware,High,Database,Jerean,Endpoint,121,5.25,32,15.38,808206.73,2026-01-07,2026-01-10
+Unauthorized Access,Low,Network,Roman,Firewall,74,69.28,39,3.95,261570.25,2026-11-26,2026-11-30
+Ransomware,Medium,Server,Kris,SIEM,134,39.98,96,93.42,799427.88,2026-09-20,2026-09-25
+Malware,Critical,Workstation,Kris,Endpoint,74,57.56,43,53.15,272261.95,2026-06-10,2026-06-12
+Malware,Critical,Server,Jerean,Network,114,4.11,43,54.25,34154.44,2026-05-31,2026-06-03
+Phishing,Low,Cloud,Ej,SIEM,175,41.25,78,78.29,517497.71,2026-03-26,2026-03-27
+Unauthorized Access,Low,Workstation,Kris,Email,136,29.27,3,32.15,197489.75,2026-05-27,2026-05-30
+DDoS,Low,Server,Ryo,Firewall,60,55.81,46,48.71,758088.45,2026-04-22,2026-04-25
+DDoS,High,Network,Kris,Network,225,3.73,32,96.9,641558.43,2026-02-05,2026-02-08
+Phishing,Critical,Network,Roman,Firewall,191,29.52,43,67.54,923679.07,2026-10-12,2026-10-15
+Phishing,Low,Workstation,Kris,SIEM,93,57.73,100,16.22,783205.37,2026-07-07,2026-07-09
+Ransomware,Medium,Cloud,Ej,Endpoint,141,38.11,81,14.19,181595.18,2026-03-23,2026-03-27
+Phishing,Low,Network,Kris,Firewall,135,40.05,3,21.22,800358.08,2026-01-02,2026-01-07
+Phishing,Critical,Network,Jerean,Email,222,7.9,74,76.9,642095.31,2026-10-30,2026-11-02
+DDoS,Low,Cloud,Kris,Network,180,10.4,63,30.24,669282.69,2026-07-16,2026-07-19
+Ransomware,Critical,Server,Ej,Email,175,49.07,40,3.12,832430.62,2026-01-11,2026-01-14
+Phishing,Low,Network,Jerean,Firewall,223,48.93,18,94.47,574250.25,2026-08-22,2026-08-26
+Phishing,Medium,Database,Ryo,Endpoint,104,70.52,67,17.8,466537.51,2026-07-14,2026-07-15
+Ransomware,Low,Network,Jerean,Endpoint,228,51.55,62,1.95,637004.39,2026-04-29,2026-04-30
+Unauthorized Access,Medium,Server,Roman,Email,133,36.02,10,24.48,298659.47,2026-01-20,2026-01-22
+Ransomware,Medium,Server,Jerean,SIEM,61,61.87,52,24.27,183414.53,2026-09-18,2026-09-19
+DDoS,Low,Workstation,Ryo,SIEM,185,8.42,73,42.78,616971.25,2026-10-20,2026-10-23
+Unauthorized Access,Medium,Database,Kris,Endpoint,148,32.9,46,92.12,234614.52,2026-09-13,2026-09-16
+Malware,High,Server,Jerean,Email,55,21.38,55,88.04,80835.19,2026-08-10,2026-08-13
+Ransomware,Low,Cloud,Jerean,Email,116,8.43,46,46.23,1553.63,2026-08-14,2026-08-16
+DDoS,Low,Database,Jerean,Email,207,55.21,75,41.68,608711.08,2026-02-22,2026-02-25
+Unauthorized Access,Medium,Database,Jerean,Firewall,222,37.27,60,55.95,362786.63,2026-12-21,2026-12-22
+Ransomware,Medium,Cloud,Ryo,SIEM,108,40.53,97,25.1,752558.66,2026-12-08,2026-12-12
+Phishing,Low,Network,Ej,SIEM,131,30.2,100,6.17,375801.22,2026-12-30,2027-01-03
+Ransomware,High,Cloud,Ej,Firewall,59,33.68,26,93.98,486517.44,2026-10-07,2026-10-12
+Malware,Medium,Cloud,Jerean,Network,5,9.24,27,19.48,407677.89,2026-03-22,2026-03-23
+Ransomware,Medium,Network,Ryo,Firewall,94,48.78,38,20.64,650924.22,2026-07-21,2026-07-24
+Unauthorized Access,Critical,Network,Ryo,Email,160,31.7,22,47.77,356783.02,2026-06-07,2026-06-11
+Unauthorized Access,High,Network,Jerean,Firewall,57,58.99,26,49.67,963803.88,2026-04-30,2026-05-01
+Ransomware,High,Network,Roman,Email,190,14.94,86,2.82,936210.84,2026-02-28,2026-03-04
+Unauthorized Access,Low,Network,Jerean,Endpoint,77,15.56,69,15.65,848179.87,2026-08-03,2026-08-06
+Phishing,High,Cloud,Roman,Email,192,46.85,35,38.44,920379.97,2026-05-08,2026-05-12
+Ransomware,Low,Workstation,Jerean,SIEM,191,61.07,66,68.69,449690.55,2026-08-12,2026-08-17
+Phishing,Critical,Workstation,Roman,Firewall,112,34.53,99,23.61,536893.97,2026-07-28,2026-08-02
+Phishing,High,Server,Roman,Email,154,52.61,73,42.88,742350.5,2026-04-25,2026-04-29
+DDoS,Medium,Workstation,Jerean,Network,12,71.95,51,56.18,696449.78,2026-07-28,2026-07-29
+Ransomware,Critical,Workstation,Roman,Endpoint,181,71.31,18,88.97,890787.92,2026-01-14,2026-01-15
+Unauthorized Access,Low,Cloud,Kris,Network,46,53.85,43,33.28,716614.7,2026-01-09,2026-01-10
+Phishing,Critical,Network,Ej,Network,159,53.51,12,14.22,997886.82,2026-02-09,2026-02-13
+DDoS,Low,Network,Ryo,Network,171,18.58,3,49.44,349157.29,2026-08-25,2026-08-26
+Ransomware,Critical,Cloud,Roman,Endpoint,215,60.18,82,74.93,833164.74,2026-10-08,2026-10-11
+Ransomware,Low,Workstation,Roman,Endpoint,29,29.76,7,11.88,697937.19,2026-12-25,2026-12-30
+Malware,High,Cloud,Ryo,Endpoint,42,69.3,97,43.04,691695.06,2026-07-20,2026-07-23
+Malware,Medium,Server,Roman,Endpoint,89,6.78,6,2.76,326509.76,2026-09-03,2026-09-04
+Phishing,Low,Network,Ryo,Network,156,31.94,82,4.32,785816.19,2026-10-05,2026-10-08
+Malware,Critical,Database,Jerean,SIEM,28,40.46,45,48.81,900475.65,2026-08-23,2026-08-24
+Phishing,Low,Server,Kris,SIEM,64,29.77,86,30.52,219329.91,2026-01-04,2026-01-08
+Unauthorized Access,Low,Server,Kris,Endpoint,215,15.95,39,84.67,625871.34,2026-06-03,2026-06-06
+Phishing,Low,Cloud,Ej,Firewall,182,43.1,51,60.61,392742.69,2026-01-29,2026-02-02
+Malware,Critical,Workstation,Roman,Email,115,54.67,9,45.94,989558.57,2026-04-19,2026-04-23
+Unauthorized Access,Medium,Network,Ej,Firewall,70,46.78,99,41.39,479353.98,2026-04-08,2026-04-10
+Malware,High,Database,Jerean,Firewall,146,17.65,23,50.23,229091.85,2026-08-03,2026-08-04
+Phishing,Medium,Server,Kris,Firewall,57,52.94,12,5.0,382475.77,2026-10-20,2026-10-25
+DDoS,Low,Database,Jerean,SIEM,164,19.24,88,89.39,654184.55,2026-03-16,2026-03-17
+Ransomware,Critical,Workstation,Jerean,Email,110,13.44,62,99.83,77013.28,2026-11-22,2026-11-27
+Malware,Medium,Workstation,Roman,Firewall,100,50.04,73,18.97,603998.32,2026-05-26,2026-05-27
+Phishing,Low,Database,Jerean,Endpoint,224,60.84,77,12.92,931293.53,2026-05-08,2026-05-12
+Unauthorized Access,High,Network,Kris,SIEM,180,35.19,40,15.21,850512.42,2026-12-07,2026-12-10
+Malware,High,Workstation,Ej,Endpoint,43,38.73,54,66.44,68605.86,2026-02-11,2026-02-14
+Malware,High,Database,Kris,Endpoint,172,22.5,81,66.48,993396.49,2026-12-22,2026-12-24
+Ransomware,Low,Server,Roman,Firewall,46,36.12,7,84.94,699028.2,2026-02-10,2026-02-15
+Phishing,Critical,Database,Kris,Endpoint,115,10.37,17,75.43,163118.54,2026-02-03,2026-02-08
+DDoS,Medium,Database,Ryo,Email,108,68.86,50,45.52,13403.67,2026-01-17,2026-01-22
+Unauthorized Access,High,Cloud,Ej,Endpoint,81,57.83,24,61.67,172111.35,2026-06-14,2026-06-18
+Phishing,Low,Workstation,Ryo,Firewall,208,48.43,2,69.14,838337.74,2026-06-02,2026-06-07
+Unauthorized Access,Low,Network,Ryo,Endpoint,12,39.21,99,51.76,22617.69,2026-03-17,2026-03-20
+Malware,Medium,Network,Roman,SIEM,211,57.24,92,48.09,233914.16,2026-03-28,2026-04-01
+Ransomware,High,Cloud,Jerean,SIEM,30,36.13,83,64.86,757548.29,2026-04-27,2026-04-28
+Ransomware,Low,Network,Ryo,SIEM,144,22.3,33,56.19,586524.43,2026-12-28,2027-01-02
+DDoS,Medium,Database,Kris,Network,47,12.39,21,64.75,782952.97,2026-12-08,2026-12-13
+Ransomware,Critical,Cloud,Jerean,SIEM,183,46.98,74,61.67,746404.35,2026-01-27,2026-01-28
+Malware,Critical,Server,Kris,SIEM,114,66.99,53,72.2,51550.79,2026-11-09,2026-11-14
+DDoS,Critical,Workstation,Kris,Network,223,11.91,46,64.64,892618.91,2026-10-14,2026-10-15
+Phishing,High,Workstation,Jerean,SIEM,214,13.78,45,52.45,227804.8,2026-05-14,2026-05-18
+Ransomware,Medium,Workstation,Jerean,Firewall,104,31.79,9,68.5,553839.05,2026-08-07,2026-08-10
+DDoS,Medium,Database,Kris,SIEM,67,58.29,6,45.5,644643.87,2026-06-17,2026-06-18
+Malware,Low,Server,Roman,SIEM,53,21.87,51,24.93,169459.58,2026-04-08,2026-04-10
+Unauthorized Access,Low,Cloud,Ej,Network,119,19.03,35,1.14,976255.03,2026-09-25,2026-09-26
+Unauthorized Access,Low,Cloud,Ej,Firewall,159,45.02,82,56.44,488667.8,2026-08-25,2026-08-30
+Malware,Medium,Workstation,Roman,Endpoint,141,39.03,53,59.47,58585.05,2026-11-05,2026-11-09
+Malware,Low,Server,Jerean,Email,171,5.28,19,97.23,937324.78,2026-06-22,2026-06-26
+Unauthorized Access,Medium,Server,Kris,Firewall,69,6.79,69,36.79,586681.58,2026-07-09,2026-07-10
+DDoS,Medium,Server,Ej,Endpoint,203,46.65,25,40.02,699494.0,2026-05-02,2026-05-05
+Unauthorized Access,Critical,Network,Kris,Firewall,222,34.02,11,20.98,525650.61,2026-02-15,2026-02-17
+Malware,Low,Network,Roman,Endpoint,75,69.94,74,7.98,834903.22,2026-03-05,2026-03-09
+Ransomware,Critical,Workstation,Kris,Endpoint,11,49.18,17,77.51,34100.33,2026-05-10,2026-05-15
+Phishing,High,Server,Roman,Firewall,204,1.72,36,25.72,269109.99,2026-11-06,2026-11-11
+Ransomware,High,Server,Jerean,Network,84,35.15,90,61.28,470178.71,2026-12-29,2027-01-01
+Ransomware,High,Cloud,Roman,Firewall,71,30.43,95,69.09,77527.01,2026-07-12,2026-07-16
+Malware,Medium,Cloud,Roman,Firewall,142,8.58,96,47.65,706200.76,2026-11-03,2026-11-04
+Unauthorized Access,Medium,Workstation,Ej,Endpoint,203,66.55,21,87.76,394269.75,2026-06-30,2026-07-05
+DDoS,Medium,Server,Kris,Email,217,58.16,18,44.94,273395.32,2026-10-19,2026-10-22
+Ransomware,Low,Workstation,Ej,Endpoint,185,17.34,60,29.21,4375.47,2026-10-09,2026-10-13
+Unauthorized Access,Critical,Cloud,Ryo,SIEM,105,19.17,18,89.71,720110.48,2026-01-29,2026-02-02
+DDoS,Medium,Cloud,Roman,Firewall,99,3.27,1,86.29,833975.5,2026-05-29,2026-06-02
+Ransomware,Critical,Network,Ryo,Firewall,91,22.07,14,17.24,395645.5,2026-09-24,2026-09-28
+DDoS,Critical,Workstation,Ej,Network,189,42.51,8,3.57,564653.76,2026-10-23,2026-10-27
+Unauthorized Access,Critical,Workstation,Kris,Endpoint,95,30.88,66,9.91,228458.94,2026-01-11,2026-01-16
+Phishing,Low,Server,Ej,Network,218,69.82,51,29.37,622575.45,2026-06-13,2026-06-16
+Unauthorized Access,Low,Server,Kris,Firewall,107,4.98,79,97.25,13125.32,2026-04-23,2026-04-27
+Malware,High,Network,Kris,Endpoint,130,42.99,60,56.29,489155.25,2026-07-06,2026-07-08
+DDoS,High,Database,Jerean,Endpoint,159,61.94,34,37.95,644561.28,2026-10-22,2026-10-24
+Phishing,Critical,Database,Roman,SIEM,186,35.13,36,88.98,918273.58,2026-08-20,2026-08-23
+DDoS,High,Database,Ej,SIEM,117,1.21,62,45.86,381954.48,2026-08-15,2026-08-16
+DDoS,Critical,Workstation,Kris,Email,8,18.24,1,32.21,765425.01,2026-11-06,2026-11-07
+Ransomware,Low,Workstation,Ej,SIEM,92,23.99,85,94.18,598089.34,2026-04-08,2026-04-09
+Malware,Low,Cloud,Ej,Endpoint,155,69.59,42,85.1,927085.1,2026-02-24,2026-02-26
+DDoS,Low,Workstation,Kris,SIEM,180,65.74,1,84.52,398979.3,2026-04-21,2026-04-22
+Unauthorized Access,Medium,Workstation,Ryo,Email,215,68.39,96,51.72,319776.24,2026-06-01,2026-06-06
+Unauthorized Access,Critical,Workstation,Roman,Firewall,174,59.63,84,79.15,887254.86,2026-09-03,2026-09-07
+Ransomware,Low,Network,Roman,SIEM,7,25.97,54,18.76,50195.16,2026-03-10,2026-03-12
+Malware,Critical,Workstation,Jerean,Endpoint,95,65.32,47,57.75,137249.01,2026-11-08,2026-11-11
+Malware,High,Server,Jerean,Firewall,7,70.7,100,98.4,83322.03,2026-10-16,2026-10-19
+Unauthorized Access,High,Server,Jerean,Endpoint,160,25.86,39,29.8,843266.85,2026-09-07,2026-09-11
+Phishing,Low,Cloud,Roman,Firewall,195,19.5,30,79.64,11596.82,2026-02-05,2026-02-07
+Ransomware,Critical,Network,Ryo,Endpoint,85,39.83,7,49.56,861795.5,2026-08-27,2026-08-28
+Ransomware,Low,Server,Roman,SIEM,163,14.29,22,4.94,451816.53,2026-05-28,2026-05-29
+Unauthorized Access,High,Network,Roman,SIEM,142,3.32,50,76.54,5021.25,2026-08-15,2026-08-20
+Unauthorized Access,Low,Network,Roman,Email,181,68.15,45,17.69,402243.53,2026-09-01,2026-09-06
+Phishing,Critical,Cloud,Roman,Firewall,218,66.73,74,63.52,187614.04,2026-12-03,2026-12-04
+Phishing,High,Network,Ryo,Email,98,12.55,72,9.48,624776.09,2026-12-31,2027-01-03
+Malware,Medium,Workstation,Jerean,Network,130,29.95,91,94.74,679679.43,2026-07-20,2026-07-23
+Ransomware,High,Network,Ej,SIEM,117,60.0,10,29.88,488040.04,2026-06-03,2026-06-08
+Ransomware,Medium,Cloud,Jerean,Firewall,153,47.93,14,23.42,41479.01,2026-03-14,2026-03-18
+Unauthorized Access,Low,Cloud,Jerean,Email,104,29.03,46,13.78,656472.68,2026-07-20,2026-07-21
+Malware,Low,Cloud,Ej,Email,57,53.84,75,94.65,842196.74,2026-10-23,2026-10-28
+Ransomware,Critical,Server,Roman,Network,91,64.69,6,71.48,720603.95,2026-01-17,2026-01-22
+Malware,Medium,Workstation,Ryo,Email,234,66.76,21,74.42,830127.96,2026-05-09,2026-05-10
+Malware,Low,Server,Ryo,Endpoint,208,27.9,62,50.44,201309.01,2026-08-05,2026-08-06
+Unauthorized Access,Medium,Database,Jerean,SIEM,93,13.32,97,48.0,888999.05,2026-03-02,2026-03-05
+Malware,Low,Workstation,Ej,Email,58,65.81,19,11.89,322871.26,2026-04-14,2026-04-18
+Phishing,High,Network,Kris,Email,189,7.57,88,56.42,14391.41,2026-02-11,2026-02-15
+Phishing,Low,Cloud,Roman,Network,24,52.24,82,25.44,843548.25,2026-01-25,2026-01-26
+DDoS,Critical,Database,Jerean,Endpoint,117,10.98,99,97.74,941879.45,2026-02-08,2026-02-10
+Unauthorized Access,High,Workstation,Ryo,Email,53,28.65,62,79.86,655902.64,2026-10-18,2026-10-23
+DDoS,Critical,Server,Ej,SIEM,238,30.22,83,41.89,232205.19,2026-05-11,2026-05-16
+Phishing,High,Cloud,Ej,SIEM,139,12.27,53,15.98,252492.72,2026-08-17,2026-08-18
+DDoS,Medium,Server,Jerean,Email,33,66.51,24,78.75,467126.28,2026-04-18,2026-04-20
+Unauthorized Access,Critical,Workstation,Kris,Endpoint,52,1.19,56,13.08,897933.25,2026-06-21,2026-06-24
+Unauthorized Access,Low,Workstation,Ryo,SIEM,225,64.46,62,19.74,150448.06,2026-04-12,2026-04-13
+Malware,Medium,Database,Jerean,SIEM,17,63.75,34,21.94,826147.7,2026-12-20,2026-12-21
+Ransomware,Low,Network,Kris,Endpoint,7,23.5,22,56.13,292011.51,2026-01-12,2026-01-17
+Malware,High,Server,Ej,Endpoint,6,51.0,68,78.92,808777.58,2026-10-02,2026-10-03
+Unauthorized Access,High,Database,Roman,Email,20,18.95,57,32.12,920350.93,2026-04-11,2026-04-12
+Phishing,Low,Cloud,Ryo,Firewall,98,54.87,10,9.38,428066.38,2026-02-13,2026-02-14
+Phishing,Low,Network,Ryo,Network,106,40.84,66,46.99,365685.6,2026-11-01,2026-11-06
+Malware,Medium,Database,Kris,Firewall,138,22.32,8,75.06,802419.1,2026-01-17,2026-01-20
+Unauthorized Access,Low,Server,Jerean,Firewall,49,29.42,97,22.94,529953.4,2026-11-26,2026-11-29
+Phishing,Critical,Workstation,Ej,SIEM,75,49.98,38,22.77,684764.6,2026-02-26,2026-02-27
+Unauthorized Access,Critical,Cloud,Kris,Endpoint,137,65.33,62,94.78,623206.41,2026-11-07,2026-11-12
+Phishing,Low,Server,Roman,SIEM,60,10.28,28,95.46,153735.96,2026-10-30,2026-11-02
+Unauthorized Access,Critical,Network,Roman,Network,203,41.57,10,99.06,844945.57,2026-01-12,2026-01-15
+DDoS,Low,Network,Roman,Email,230,19.01,45,80.96,196579.34,2026-11-14,2026-11-17
+Unauthorized Access,Medium,Workstation,Kris,Network,131,57.9,65,19.63,932349.86,2026-03-21,2026-03-26
+Unauthorized Access,Critical,Workstation,Ej,SIEM,36,5.99,98,21.99,251320.72,2026-08-04,2026-08-09
+Malware,Critical,Cloud,Ryo,SIEM,53,49.92,67,34.68,734147.09,2026-12-05,2026-12-06
+DDoS,Low,Cloud,Jerean,SIEM,17,13.42,9,32.5,285370.74,2026-09-21,2026-09-25
+Ransomware,Critical,Workstation,Ryo,SIEM,162,43.34,5,95.7,318467.62,2026-05-29,2026-06-01
+Malware,High,Workstation,Ej,Firewall,29,60.33,10,79.12,310691.85,2026-03-22,2026-03-26
+Ransomware,Medium,Network,Ryo,Email,217,54.61,12,72.68,748144.36,2026-08-03,2026-08-08
+Phishing,Medium,Workstation,Kris,Firewall,64,54.46,82,19.41,557258.3,2026-07-17,2026-07-22
+Ransomware,Critical,Database,Roman,SIEM,63,37.77,58,91.04,883069.5,2026-07-19,2026-07-24
+Unauthorized Access,Critical,Server,Ej,Endpoint,217,64.24,21,82.96,308065.35,2026-01-25,2026-01-29
+Ransomware,High,Workstation,Ej,Firewall,160,42.76,21,17.2,692300.53,2026-03-30,2026-04-04
+Malware,High,Cloud,Ryo,SIEM,62,66.14,65,87.25,753195.65,2026-09-25,2026-09-26
+Malware,Critical,Database,Kris,SIEM,24,39.8,3,27.95,152330.63,2026-05-23,2026-05-28
+Ransomware,Critical,Cloud,Ryo,Email,166,36.92,69,9.01,401188.77,2026-02-28,2026-03-02
+Malware,High,Database,Ryo,Network,137,16.79,89,66.03,483334.68,2026-12-31,2027-01-04
+Malware,Low,Workstation,Ej,Firewall,214,39.68,64,65.73,356331.7,2026-01-26,2026-01-28
+Ransomware,High,Server,Ryo,Firewall,192,10.98,49,10.4,322790.48,2026-02-16,2026-02-21
+DDoS,Low,Cloud,Roman,Firewall,235,62.75,72,32.57,686733.47,2026-10-15,2026-10-16
+DDoS,Medium,Database,Ryo,SIEM,175,48.99,17,99.29,216650.53,2026-09-23,2026-09-26
+Phishing,Medium,Network,Roman,Email,61,71.55,73,68.16,709681.35,2026-01-16,2026-01-21
+Malware,High,Workstation,Ej,SIEM,189,7.54,32,73.28,935109.15,2026-07-18,2026-07-19
+Ransomware,Low,Server,Kris,SIEM,207,18.09,70,22.08,565632.32,2026-10-09,2026-10-13
+Malware,High,Workstation,Roman,Endpoint,58,63.28,21,8.8,611822.8,2026-03-27,2026-03-29
+Unauthorized Access,High,Network,Kris,Email,213,29.06,7,28.41,69863.77,2026-09-07,2026-09-09
+Malware,Low,Server,Kris,Firewall,116,34.11,7,25.64,864612.43,2026-09-27,2026-09-29
+Malware,High,Network,Roman,Network,177,62.11,27,24.22,286162.34,2026-12-01,2026-12-05
+DDoS,Medium,Workstation,Ej,Firewall,90,38.05,8,20.08,615436.11,2026-04-27,2026-04-28
+Ransomware,Critical,Database,Jerean,SIEM,41,14.74,73,57.9,979133.06,2026-01-07,2026-01-11
+Malware,Critical,Workstation,Kris,Email,88,64.33,28,33.48,595907.1,2026-05-17,2026-05-19
+DDoS,High,Workstation,Kris,Email,52,3.21,79,82.21,724984.78,2026-06-25,2026-06-30
+Phishing,Low,Workstation,Ej,Email,122,64.57,66,19.21,445874.3,2026-11-24,2026-11-27
+DDoS,Low,Cloud,Ej,Endpoint,186,4.59,71,47.0,61305.48,2026-11-11,2026-11-15
+DDoS,Medium,Network,Ryo,Firewall,52,48.28,47,2.35,797801.75,2026-08-03,2026-08-07
+DDoS,Low,Network,Ej,Endpoint,116,6.09,82,48.69,35963.84,2026-03-23,2026-03-24
+Malware,Low,Network,Kris,Network,114,51.14,86,6.53,700957.17,2026-08-11,2026-08-12
+Malware,Medium,Cloud,Roman,SIEM,10,3.41,10,97.79,23898.65,2026-04-13,2026-04-17
+Phishing,High,Database,Jerean,Endpoint,166,60.81,33,79.27,862442.93,2026-09-30,2026-10-02
+Unauthorized Access,Critical,Workstation,Ryo,Endpoint,195,34.08,7,49.52,158478.4,2026-01-14,2026-01-17
+Unauthorized Access,Medium,Database,Roman,SIEM,82,7.64,3,9.57,514757.22,2026-06-08,2026-06-09
+Unauthorized Access,High,Cloud,Jerean,Email,180,51.18,14,59.65,597553.55,2026-06-01,2026-06-03
+Phishing,Medium,Network,Jerean,SIEM,27,35.74,44,76.12,458087.86,2026-04-18,2026-04-23
+Unauthorized Access,High,Workstation,Jerean,Firewall,130,14.56,46,19.88,341422.73,2026-07-07,2026-07-08
+Unauthorized Access,Medium,Server,Roman,SIEM,88,2.11,61,57.25,468346.48,2026-10-28,2026-10-30
+DDoS,High,Server,Ryo,Email,17,30.68,36,81.61,312104.34,2026-04-08,2026-04-10
+Malware,Medium,Database,Ryo,SIEM,51,7.08,13,77.06,438684.22,2026-05-11,2026-05-14
+Malware,High,Network,Jerean,Endpoint,48,7.69,16,80.5,359554.08,2026-10-20,2026-10-23
+DDoS,Medium,Server,Roman,Network,109,19.98,80,88.05,566638.62,2026-06-20,2026-06-25
+DDoS,Critical,Database,Jerean,Endpoint,164,45.76,5,93.83,238686.24,2026-07-02,2026-07-04
+DDoS,Critical,Cloud,Ej,Network,158,38.62,89,41.15,988667.9,2026-12-30,2027-01-01
+Malware,Low,Database,Ryo,SIEM,185,5.9,38,57.31,501369.08,2026-02-08,2026-02-11
+Unauthorized Access,High,Database,Kris,Firewall,18,69.76,50,79.28,194967.92,2026-01-15,2026-01-16
+DDoS,Medium,Database,Jerean,SIEM,184,63.99,38,70.02,477589.68,2026-01-04,2026-01-05
+Phishing,High,Workstation,Ej,Email,125,19.41,56,99.56,866548.71,2026-12-15,2026-12-19
+DDoS,Critical,Database,Ryo,SIEM,40,9.69,63,2.35,22784.99,2026-07-29,2026-08-01
+Ransomware,High,Database,Roman,Network,12,67.91,48,36.16,679874.56,2026-06-10,2026-06-14
+DDoS,Medium,Workstation,Ryo,Endpoint,172,33.74,90,28.82,548419.83,2026-01-16,2026-01-19
+Malware,High,Workstation,Roman,Firewall,218,23.09,59,26.97,170388.44,2026-04-18,2026-04-23
+DDoS,Medium,Cloud,Roman,SIEM,154,35.82,77,23.03,817658.96,2026-11-07,2026-11-09
+Ransomware,Critical,Network,Jerean,SIEM,20,55.86,44,71.2,369515.74,2026-08-15,2026-08-20
+Phishing,Critical,Server,Jerean,Endpoint,95,12.96,90,9.39,294508.23,2026-06-19,2026-06-22
+Unauthorized Access,Critical,Server,Ryo,Firewall,124,55.49,55,74.42,828297.07,2026-02-03,2026-02-05
+DDoS,Low,Database,Ej,SIEM,192,54.21,55,69.65,638886.52,2026-09-08,2026-09-09
+Ransomware,Critical,Cloud,Ryo,SIEM,64,39.29,1,25.83,898360.82,2026-09-04,2026-09-05
+Ransomware,High,Database,Kris,Network,14,62.47,8,26.03,630253.82,2026-09-26,2026-09-30
+Phishing,Low,Server,Roman,Network,157,10.38,4,63.26,741076.84,2026-05-21,2026-05-24
+Malware,Critical,Workstation,Roman,Email,35,43.28,85,76.45,836609.45,2026-10-01,2026-10-04
+DDoS,High,Network,Jerean,Endpoint,25,32.9,86,87.77,55684.9,2026-04-06,2026-04-07
+Ransomware,High,Cloud,Ej,Firewall,223,30.98,53,85.36,776272.91,2026-08-15,2026-08-20
+Phishing,High,Workstation,Jerean,SIEM,85,18.93,58,96.52,614092.78,2026-02-08,2026-02-10
+Unauthorized Access,Medium,Network,Kris,SIEM,37,27.43,37,58.56,70438.29,2026-10-29,2026-11-03
+Ransomware,Low,Cloud,Ryo,Email,35,8.68,49,90.96,509069.34,2026-01-29,2026-02-03
+Phishing,High,Cloud,Ryo,SIEM,238,18.86,67,81.04,83375.62,2026-11-14,2026-11-15
+Malware,Medium,Server,Ej,Endpoint,222,20.31,19,89.57,736211.25,2026-09-02,2026-09-03
+Malware,Critical,Workstation,Jerean,Email,153,52.17,1,2.15,546955.21,2026-08-24,2026-08-25
+Ransomware,High,Cloud,Jerean,Endpoint,40,4.45,29,96.62,953619.96,2026-07-04,2026-07-08
+Ransomware,Medium,Cloud,Kris,Email,197,47.23,87,47.88,183952.24,2026-09-29,2026-10-04
+DDoS,High,Network,Ryo,SIEM,136,16.72,33,80.02,606427.42,2026-08-24,2026-08-27
+Phishing,Low,Server,Jerean,Email,72,6.81,52,13.59,212370.55,2026-08-27,2026-08-29
+Ransomware,Low,Database,Ej,Network,94,22.36,41,40.2,614450.92,2026-09-23,2026-09-27
+DDoS,Critical,Server,Ryo,Firewall,136,16.94,23,27.87,722927.05,2026-12-25,2026-12-28
+DDoS,High,Database,Kris,SIEM,13,40.19,5,29.87,722582.03,2026-12-06,2026-12-11
+Ransomware,Medium,Workstation,Ej,Firewall,34,26.37,71,13.2,815258.92,2026-03-06,2026-03-07
+Malware,Critical,Workstation,Roman,SIEM,119,69.59,57,80.77,853696.68,2026-06-26,2026-07-01
+Phishing,High,Cloud,Kris,Firewall,49,69.41,6,1.91,78194.45,2026-01-03,2026-01-05
+Phishing,Critical,Workstation,Ej,Network,8,32.5,49,31.94,343923.89,2026-05-22,2026-05-26
+Malware,Medium,Cloud,Jerean,Firewall,73,57.45,22,18.27,687435.4,2026-06-07,2026-06-11
+Ransomware,Critical,Server,Roman,Email,27,1.94,77,59.31,499087.7,2026-11-20,2026-11-22
+Phishing,Critical,Workstation,Kris,Firewall,20,39.89,76,26.17,191485.27,2026-05-26,2026-05-29
+Ransomware,Critical,Server,Jerean,SIEM,26,53.77,4,26.64,553156.86,2026-10-20,2026-10-23
+Ransomware,High,Server,Roman,Endpoint,233,16.4,72,49.35,408028.22,2026-06-02,2026-06-06
+DDoS,Medium,Workstation,Ryo,Firewall,76,5.34,64,65.62,390648.24,2026-07-12,2026-07-16
+Malware,Low,Server,Jerean,Firewall,52,12.07,37,13.01,809943.96,2026-03-14,2026-03-15
+Ransomware,High,Workstation,Ej,Firewall,194,32.37,31,18.38,408190.74,2026-11-01,2026-11-04
+Unauthorized Access,Low,Workstation,Kris,SIEM,229,36.95,37,25.47,27428.05,2026-12-10,2026-12-12
+Malware,Low,Workstation,Roman,Firewall,192,28.04,45,97.4,59005.28,2026-05-20,2026-05-23
+Phishing,High,Database,Jerean,SIEM,234,32.24,90,40.32,856387.8,2026-07-06,2026-07-07
+DDoS,High,Server,Ryo,SIEM,111,34.39,8,60.3,960640.21,2026-10-20,2026-10-24
+Phishing,Medium,Network,Kris,Endpoint,212,55.63,40,24.91,688720.93,2026-03-02,2026-03-06
+Phishing,Medium,Workstation,Kris,Email,137,8.47,97,49.56,365003.93,2026-07-17,2026-07-18
+Malware,Critical,Server,Jerean,SIEM,212,55.6,93,8.34,938661.72,2026-10-22,2026-10-24
+Phishing,Low,Cloud,Ryo,Network,11,49.89,5,4.44,663140.28,2026-11-15,2026-11-19
+Ransomware,Medium,Workstation,Roman,Firewall,55,53.66,28,47.4,844489.22,2026-10-29,2026-11-03
+Phishing,Critical,Workstation,Jerean,Network,69,53.15,81,40.47,766086.45,2026-12-10,2026-12-14
+DDoS,Medium,Network,Roman,Firewall,13,34.41,87,14.55,379760.18,2026-01-11,2026-01-16
+DDoS,High,Database,Kris,Endpoint,86,16.01,9,69.07,479223.5,2026-03-03,2026-03-04
+Unauthorized Access,Medium,Database,Roman,SIEM,49,39.1,2,99.3,186946.02,2026-11-29,2026-11-30
+DDoS,Low,Workstation,Ryo,Email,126,69.02,63,40.17,292722.09,2026-08-14,2026-08-18
+Phishing,Medium,Server,Ej,SIEM,179,42.79,96,62.83,778347.54,2026-06-02,2026-06-05
+DDoS,Low,Cloud,Ryo,Firewall,199,1.78,51,96.33,894084.41,2026-07-18,2026-07-23
+Malware,High,Cloud,Roman,Email,156,5.24,31,83.32,724735.96,2026-02-21,2026-02-23
+DDoS,Low,Server,Jerean,SIEM,224,71.49,7,46.89,465708.52,2026-09-17,2026-09-21
+Ransomware,Medium,Workstation,Kris,Email,14,6.11,30,74.01,87422.76,2026-02-28,2026-03-02
+Malware,Critical,Cloud,Ej,Firewall,77,4.27,58,13.69,57891.0,2026-03-13,2026-03-17
+Unauthorized Access,High,Database,Jerean,Endpoint,209,26.06,3,51.7,374951.24,2026-05-28,2026-05-31
+Ransomware,Medium,Server,Jerean,Endpoint,52,69.82,51,28.63,464357.9,2026-12-15,2026-12-18
+Phishing,High,Network,Ryo,SIEM,167,23.63,56,16.96,609511.5,2026-03-04,2026-03-07
+Phishing,High,Workstation,Roman,Network,186,30.1,73,43.2,7483.03,2026-11-06,2026-11-09
+Phishing,Medium,Server,Ryo,Firewall,91,46.02,10,13.97,989733.17,2026-08-31,2026-09-01
+Ransomware,Medium,Cloud,Roman,SIEM,115,2.71,61,70.2,364574.94,2026-11-26,2026-11-27
+Ransomware,Critical,Workstation,Ryo,SIEM,213,64.74,50,46.17,848246.57,2026-04-17,2026-04-22
+Ransomware,High,Database,Jerean,Endpoint,203,37.88,47,53.58,535431.74,2026-08-14,2026-08-16
+Malware,High,Workstation,Kris,Email,20,34.14,90,15.49,131309.02,2026-11-09,2026-11-13
+Malware,Medium,Workstation,Roman,Firewall,57,62.11,1,14.84,797767.99,2026-08-06,2026-08-10
+Phishing,Low,Database,Ej,Email,44,68.67,94,58.76,710117.25,2026-08-29,2026-08-30
+DDoS,Medium,Database,Ej,Firewall,104,31.06,57,98.52,527908.65,2026-09-16,2026-09-20
+Phishing,High,Workstation,Jerean,Network,24,13.24,38,10.53,515038.54,2026-09-19,2026-09-20
+Unauthorized Access,Medium,Database,Ryo,Endpoint,220,58.92,62,29.29,88392.13,2026-01-05,2026-01-10
+Malware,Critical,Server,Ryo,Network,73,29.63,79,87.08,656193.1,2026-09-18,2026-09-20
+Ransomware,Low,Database,Jerean,SIEM,49,67.42,89,8.15,911333.91,2026-02-23,2026-02-28
+Malware,Medium,Database,Ej,Endpoint,10,68.44,70,87.71,94151.67,2026-02-16,2026-02-19
+Ransomware,Critical,Workstation,Ej,SIEM,224,9.15,82,52.9,264247.94,2026-08-03,2026-08-06
+Unauthorized Access,High,Server,Ryo,Network,201,68.92,65,41.42,902405.67,2026-06-26,2026-06-29
+Unauthorized Access,Medium,Network,Roman,Firewall,181,27.15,62,31.66,285059.57,2026-01-09,2026-01-14
+Malware,High,Network,Kris,SIEM,43,46.88,56,30.41,654289.73,2026-04-09,2026-04-13
+Ransomware,Critical,Cloud,Roman,Email,106,3.47,67,31.27,535283.35,2026-01-20,2026-01-22
+Unauthorized Access,High,Database,Ej,Firewall,134,64.11,17,88.6,596731.28,2026-08-29,2026-09-01
+Phishing,Critical,Database,Roman,Firewall,111,46.55,8,72.66,416373.11,2026-03-02,2026-03-05
+Phishing,Critical,Server,Kris,Network,43,46.69,60,67.3,300691.48,2026-06-27,2026-06-30
+Ransomware,Critical,Network,Roman,Network,122,65.05,40,80.08,49484.92,2026-12-04,2026-12-06
+Malware,Medium,Cloud,Roman,Endpoint,153,37.09,81,26.45,744536.66,2026-03-03,2026-03-06
+Unauthorized Access,High,Server,Roman,Endpoint,172,30.15,89,62.19,746347.37,2026-05-25,2026-05-27
+Malware,High,Database,Roman,Email,233,62.5,62,46.55,671055.01,2026-08-04,2026-08-07
+Phishing,Low,Network,Jerean,Firewall,86,53.71,41,78.46,643990.15,2026-01-03,2026-01-08
+Unauthorized Access,Low,Cloud,Ej,Email,58,68.38,12,31.62,244473.42,2026-06-09,2026-06-14
+Malware,Low,Workstation,Kris,Email,114,67.75,93,64.67,23322.59,2026-08-15,2026-08-17
+DDoS,Low,Network,Ej,Network,16,28.15,89,88.34,808906.68,2026-09-26,2026-10-01
+Ransomware,High,Cloud,Jerean,Email,213,32.74,100,40.81,491647.4,2026-04-30,2026-05-02
+Ransomware,Critical,Server,Jerean,Email,169,19.17,54,7.6,307531.29,2026-03-30,2026-04-04
+DDoS,Critical,Workstation,Jerean,SIEM,114,47.91,89,52.09,102829.97,2026-11-25,2026-11-30
+Phishing,Medium,Cloud,Jerean,Endpoint,42,26.88,93,35.25,63658.87,2026-03-09,2026-03-11
+Unauthorized Access,Critical,Cloud,Roman,Endpoint,147,56.81,11,67.55,349517.86,2026-12-23,2026-12-27
+Ransomware,High,Database,Ej,Firewall,11,9.63,60,95.15,804932.33,2026-04-08,2026-04-13
+DDoS,High,Network,Ryo,Endpoint,82,9.26,68,49.08,918805.03,2026-09-24,2026-09-27
+DDoS,High,Database,Kris,Firewall,182,15.52,78,47.15,896854.61,2026-04-15,2026-04-19
+Phishing,Medium,Workstation,Jerean,SIEM,69,6.98,46,65.8,920080.83,2026-11-19,2026-11-21
+Phishing,Low,Cloud,Ej,Endpoint,106,45.02,38,11.25,907817.62,2026-05-03,2026-05-07
+Malware,Critical,Database,Jerean,SIEM,199,11.46,61,26.1,527697.53,2026-01-29,2026-01-30
+Ransomware,High,Network,Jerean,Endpoint,105,12.36,17,91.98,220196.22,2026-05-17,2026-05-18
+Malware,High,Workstation,Jerean,Endpoint,48,2.01,66,67.32,798248.54,2026-07-14,2026-07-19
+DDoS,Low,Server,Jerean,SIEM,35,56.53,72,2.33,214499.26,2026-08-14,2026-08-19
+Unauthorized Access,High,Database,Jerean,Email,175,58.67,36,21.26,267940.07,2026-11-28,2026-12-01
+Unauthorized Access,Critical,Workstation,Kris,Email,81,12.5,74,68.6,234021.07,2026-06-19,2026-06-23
+Phishing,Medium,Server,Ej,Email,52,53.51,7,76.68,515467.42,2026-01-09,2026-01-10
+Unauthorized Access,High,Database,Jerean,Email,86,31.78,100,84.15,322505.68,2026-02-09,2026-02-14
+Unauthorized Access,Critical,Workstation,Jerean,Endpoint,131,18.01,16,29.93,155001.89,2026-01-25,2026-01-29
+Unauthorized Access,High,Workstation,Jerean,Network,213,45.12,14,93.17,453720.24,2026-09-18,2026-09-23
+DDoS,Low,Database,Jerean,SIEM,213,13.67,80,55.74,874033.33,2026-08-14,2026-08-19
+Unauthorized Access,High,Workstation,Roman,Network,193,54.74,25,69.96,570982.3,2026-05-04,2026-05-05
+Unauthorized Access,High,Cloud,Roman,Network,207,4.38,4,60.08,878457.27,2026-02-07,2026-02-08
+Unauthorized Access,Medium,Database,Ryo,Firewall,88,69.1,29,13.15,196676.31,2026-11-24,2026-11-29
+Malware,Low,Workstation,Jerean,Email,14,6.1,56,96.35,167806.9,2026-09-08,2026-09-10
+DDoS,Low,Server,Ryo,Endpoint,33,42.14,6,13.16,576001.55,2026-06-25,2026-06-30
+Phishing,Medium,Server,Kris,Email,52,65.06,1,26.23,463865.57,2026-03-31,2026-04-05
+Malware,High,Cloud,Ryo,Email,230,1.85,39,81.55,660512.47,2026-02-06,2026-02-09
+Ransomware,Critical,Database,Ej,Network,213,36.39,1,62.24,794832.16,2026-11-12,2026-11-15
+DDoS,Low,Workstation,Roman,Firewall,194,25.85,63,83.98,751555.99,2026-06-25,2026-06-28
+DDoS,Low,Workstation,Roman,Email,120,42.2,57,52.06,942318.91,2026-10-11,2026-10-13
+Ransomware,High,Server,Jerean,SIEM,238,17.01,67,38.32,398858.15,2026-03-22,2026-03-24
+Ransomware,High,Cloud,Jerean,SIEM,17,5.61,65,92.26,207180.36,2026-04-24,2026-04-29
+Ransomware,Low,Server,Kris,Email,176,45.44,65,4.59,551361.73,2026-02-09,2026-02-12
+Phishing,High,Server,Kris,Network,51,30.6,21,85.76,111632.38,2026-10-28,2026-10-30
+Unauthorized Access,Critical,Cloud,Ej,Network,107,45.2,30,23.85,289562.27,2026-08-12,2026-08-13
+DDoS,Low,Database,Jerean,Endpoint,196,15.95,96,85.02,208680.17,2026-11-14,2026-11-19
+Unauthorized Access,Critical,Workstation,Jerean,Firewall,95,25.05,33,14.78,397167.15,2026-12-15,2026-12-19
+Unauthorized Access,Critical,Database,Kris,Network,57,40.88,48,58.44,112105.36,2026-04-25,2026-04-30
+Ransomware,High,Network,Kris,Endpoint,222,43.11,22,88.92,32809.9,2026-07-05,2026-07-09
+Phishing,Critical,Network,Kris,SIEM,96,27.43,94,47.88,657137.21,2026-11-19,2026-11-22
+Malware,High,Network,Roman,SIEM,81,20.88,54,74.91,610638.73,2026-02-25,2026-03-01
+Phishing,Medium,Cloud,Ryo,SIEM,208,20.43,4,80.66,708650.58,2026-02-09,2026-02-12
+Unauthorized Access,High,Server,Ryo,Email,48,13.4,87,73.91,660726.05,2026-12-20,2026-12-21
+Phishing,Critical,Database,Jerean,Firewall,160,24.1,55,92.61,115180.39,2026-02-09,2026-02-13
+Ransomware,Medium,Workstation,Roman,Endpoint,6,15.16,44,45.24,291787.8,2026-12-13,2026-12-18
+Malware,High,Network,Kris,Firewall,105,46.0,89,18.14,130397.08,2026-08-25,2026-08-28
+Ransomware,Critical,Database,Jerean,Email,61,41.4,12,5.73,843129.43,2026-10-16,2026-10-21
+Malware,Low,Network,Roman,Endpoint,61,28.16,81,25.4,747156.75,2026-09-19,2026-09-21
+Unauthorized Access,Low,Network,Ej,Endpoint,38,24.13,79,15.18,202325.48,2026-08-04,2026-08-07
+Malware,High,Workstation,Roman,Network,219,17.87,74,56.24,341967.93,2026-05-27,2026-05-31
+Malware,High,Cloud,Jerean,Firewall,62,39.02,99,19.31,966648.38,2026-12-02,2026-12-05
+Malware,Low,Server,Ryo,Firewall,184,66.24,52,4.85,594565.2,2026-06-17,2026-06-22
+Phishing,Critical,Cloud,Kris,Network,161,49.68,93,4.56,801354.44,2026-04-02,2026-04-03
+Phishing,Critical,Database,Ej,SIEM,39,53.85,76,83.33,265326.44,2026-12-19,2026-12-22
+Unauthorized Access,Critical,Cloud,Roman,Email,79,60.24,65,59.55,210842.87,2026-02-28,2026-03-04
+Malware,High,Database,Jerean,Firewall,180,25.97,65,36.45,784133.01,2026-02-28,2026-03-02
+DDoS,Medium,Database,Jerean,Network,37,5.46,10,89.53,686186.58,2026-10-31,2026-11-01
+Unauthorized Access,Medium,Server,Kris,Endpoint,119,45.2,18,7.95,681296.95,2026-06-18,2026-06-20
+Malware,Medium,Workstation,Jerean,Network,79,14.4,47,98.05,553081.95,2026-09-26,2026-09-29
+Malware,Medium,Server,Jerean,SIEM,77,41.4,66,62.01,564014.76,2026-12-29,2027-01-03
+Phishing,Medium,Cloud,Kris,Email,82,53.51,49,19.16,735961.81,2026-02-14,2026-02-19
+Unauthorized Access,High,Database,Ej,SIEM,13,56.64,72,68.23,270732.48,2026-12-11,2026-12-15
+Malware,High,Network,Ryo,Endpoint,235,22.43,22,76.57,353415.7,2026-06-30,2026-07-05
+Malware,Medium,Network,Ryo,Endpoint,52,37.38,86,43.5,871765.13,2026-06-19,2026-06-20
+Unauthorized Access,High,Database,Roman,Endpoint,71,45.09,26,86.3,309556.34,2026-12-22,2026-12-27
+DDoS,High,Server,Ej,Endpoint,225,59.18,90,15.92,546763.26,2026-07-10,2026-07-14
+Unauthorized Access,Medium,Workstation,Roman,Network,215,55.06,9,28.6,702936.82,2026-06-04,2026-06-07
+Unauthorized Access,Critical,Server,Ryo,Endpoint,168,71.15,21,10.26,999924.9,2026-07-07,2026-07-10
+DDoS,High,Database,Kris,Endpoint,228,1.57,95,21.88,435856.04,2026-01-07,2026-01-12
+Unauthorized Access,Critical,Database,Jerean,Network,203,32.06,63,24.63,428664.78,2026-05-13,2026-05-15
+Malware,High,Workstation,Ryo,Endpoint,123,19.18,6,91.85,842745.79,2026-08-23,2026-08-26
+Unauthorized Access,High,Cloud,Ej,SIEM,224,9.51,14,8.73,805697.61,2026-02-14,2026-02-19
+DDoS,Medium,Cloud,Ryo,SIEM,176,65.72,33,43.31,731344.81,2026-11-10,2026-11-14
+Ransomware,High,Workstation,Ej,Firewall,214,71.86,71,53.71,463766.41,2026-09-06,2026-09-11
+Unauthorized Access,Low,Cloud,Ej,SIEM,192,13.82,24,89.97,324615.18,2026-01-31,2026-02-03
+Phishing,Low,Network,Ej,Email,195,3.73,73,99.77,609121.75,2026-01-23,2026-01-27
+Malware,Medium,Cloud,Roman,Email,137,20.53,75,75.59,876347.07,2026-06-09,2026-06-14
+Malware,Critical,Cloud,Kris,Email,219,60.28,87,97.11,883893.68,2026-12-29,2026-12-30
+Phishing,Critical,Cloud,Ryo,Network,123,21.87,51,78.92,109389.85,2026-06-07,2026-06-11
+Phishing,Critical,Network,Kris,SIEM,90,5.04,2,96.36,428921.93,2026-02-08,2026-02-09
+Unauthorized Access,Low,Cloud,Jerean,Email,222,4.73,15,71.02,465257.23,2026-03-23,2026-03-25
+Phishing,Critical,Network,Ryo,Firewall,110,31.35,35,8.9,977637.75,2026-12-22,2026-12-26
+Ransomware,Critical,Workstation,Kris,Network,80,67.16,36,40.79,678320.02,2026-09-15,2026-09-16
+DDoS,Medium,Server,Kris,Firewall,44,21.3,92,65.01,407839.17,2026-07-25,2026-07-28
+Phishing,Critical,Workstation,Jerean,SIEM,23,31.33,39,35.72,27031.83,2026-03-18,2026-03-21
+Phishing,Low,Server,Ej,Endpoint,51,8.24,4,28.07,565819.77,2026-01-12,2026-01-14
+Ransomware,Low,Workstation,Ryo,Firewall,69,36.04,64,58.16,96979.9,2026-10-22,2026-10-26
+Malware,Low,Server,Ryo,Endpoint,199,50.45,74,93.42,834615.51,2026-08-12,2026-08-16
+Malware,Medium,Server,Jerean,Network,223,20.25,6,4.46,752766.14,2026-01-13,2026-01-17
+Unauthorized Access,Medium,Database,Ej,Firewall,150,22.07,57,77.15,461048.65,2026-02-15,2026-02-17
+Ransomware,High,Server,Ryo,Firewall,182,60.78,30,72.55,429781.57,2026-06-04,2026-06-08
+DDoS,Critical,Server,Ryo,Network,34,1.74,99,96.43,897441.63,2026-04-23,2026-04-26
+DDoS,Medium,Database,Ryo,Network,130,46.19,74,93.14,289169.89,2026-08-21,2026-08-22
+Ransomware,Low,Cloud,Ej,Email,70,28.97,96,76.46,249770.94,2026-01-17,2026-01-20
